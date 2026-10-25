@@ -1,24 +1,87 @@
 {
   "_comment": "Реферальные ссылки по платформам. url — полная ссылка из вашего кабинета (обычно страница регистрации/входа с вашим кодом). Можно указать только code — тогда он подставится в шаблон template платформы из src/data/platforms.ts. Пустые значения = кнопка ведёт на обычную страницу входа.",
-  "micro1": { "url": "", "code": "" },
-  "alignerr": { "url": "", "code": "" },
-  "meridial": { "url": "", "code": "" },
-  "mindrift": { "url": "", "code": "" },
-  "rex": { "url": "", "code": "" },
-  "outlier": { "url": "", "code": "" },
-  "turing": { "url": "", "code": "" },
-  "telus-digital": { "url": "", "code": "" },
-  "pareto": { "url": "", "code": "" },
-  "invisible": { "url": "", "code": "" },
-  "xai": { "url": "", "code": "" },
-  "appen": { "url": "", "code": "" },
-  "oneforma": { "url": "", "code": "" },
-  "clickworker": { "url": "", "code": "" },
-  "snorkel": { "url": "", "code": "" },
-  "mercor": { "url": "", "code": "" },
-  "dataannotation": { "url": "", "code": "" },
-  "prolific": { "url": "", "code": "" },
-  "handshake-ai": { "url": "", "code": "" },
-  "afterquery": { "url": "", "code": "" },
-  "welocalize": { "url": "", "code": "" }
+  "micro1": {
+    "url": "https://refer.micro1.ai/referral/jobs?referralCode=d5cbec1f-d845-4be0-b030-a9347eee241b&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "code": "d5cbec1f-d845-4be0-b030-a9347eee241b"
+  },
+  "alignerr": {
+    "url": "",
+    "code": ""
+  },
+  "meridial": {
+    "url": "",
+    "code": ""
+  },
+  "mindrift": {
+    "url": "",
+    "code": ""
+  },
+  "rex": {
+    "url": "",
+    "code": ""
+  },
+  "outlier": {
+    "url": "",
+    "code": ""
+  },
+  "turing": {
+    "url": "",
+    "code": ""
+  },
+  "telus-digital": {
+    "url": "",
+    "code": ""
+  },
+  "pareto": {
+    "url": "",
+    "code": ""
+  },
+  "invisible": {
+    "url": "",
+    "code": ""
+  },
+  "xai": {
+    "url": "",
+    "code": ""
+  },
+  "appen": {
+    "url": "",
+    "code": ""
+  },
+  "oneforma": {
+    "url": "",
+    "code": ""
+  },
+  "clickworker": {
+    "url": "",
+    "code": ""
+  },
+  "snorkel": {
+    "url": "",
+    "code": ""
+  },
+  "mercor": {
+    "url": "",
+    "code": ""
+  },
+  "dataannotation": {
+    "url": "",
+    "code": ""
+  },
+  "prolific": {
+    "url": "",
+    "code": ""
+  },
+  "handshake-ai": {
+    "url": "",
+    "code": ""
+  },
+  "afterquery": {
+    "url": "",
+    "code": ""
+  },
+  "welocalize": {
+    "url": "",
+    "code": ""
+  }
 }
