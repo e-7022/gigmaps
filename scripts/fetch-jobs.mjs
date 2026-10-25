@@ -21,13 +21,18 @@ const args = process.argv.slice(2);
 const DRY = args.includes("--dry-run");
 const FIX = args.includes("--fixtures") ? path.resolve(args[args.indexOf("--fixtures") + 1]) : null;
 const today = new Date().toISOString().slice(0, 10);
-const UA = "GigmapBot/1.0 (+https://github.com/e-7022/gigmaps)";
+const UA = "Mozilla/5.0 (compatible; GigmapBot/1.0; +https://github.com/e-7022/gigmaps)";
 
 async function getJson(url, init = {}, src) {
   if (FIX) return JSON.parse(await readFile(path.join(FIX, `${src.id}.json`), "utf8"));
   const res = await fetch(url, { ...init, headers: { "User-Agent": UA, Accept: "application/json", ...(init.headers || {}) }, signal: AbortSignal.timeout(30000) });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
-  return res.json();
+  const text = await res.text();
+  if (!res.ok) throw new Error(`HTTP ${res.status} ${url} ${text.slice(0, 200)}`);
+  try {
+    return JSON.parse(text);
+  } catch {
+    throw new Error(`Not JSON from ${url}: ${text.slice(0, 200)}`);
+  }
 }
 
 const adapters = {
@@ -94,7 +99,15 @@ const adapters = {
       const url = `https://prod-api.micro1.ai/api/v1/job/portal?page=${page}&limit=100&keyword=`;
       const data = FIX
         ? page === 1 ? await getJson(url, {}, src) : { data: [] }
-        : await getJson(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "get_all_jobs" }) }, src);
+        : await getJson(
+            url,
+            {
+              method: "POST",
+              headers: { "Content-Type": "application/json", Origin: "https://www.micro1.ai", Referer: "https://www.micro1.ai/experts/opportunities" },
+              body: JSON.stringify({ action: "get_all_jobs" }),
+            },
+            src,
+          );
       const list = data.data || [];
       if (!list.length) break;
       for (const j of list) {
@@ -160,6 +173,7 @@ async function main() {
           closed++;
         }
       }
+      if (!raw.length) throw new Error("source returned 0 jobs — keeping previous data");
       okSources++;
       report.push(`✓ ${src.id}: ${seen.size} open (${added} new), ${closed} closed`);
     } catch (e) {
@@ -175,7 +189,10 @@ async function main() {
 
   console.log(report.join("\n"));
   console.log(`Total: ${out.length} jobs (${out.filter((j) => j.status !== "closed").length} open)`);
-  if (!DRY) await writeFile(OUT, JSON.stringify(out, null, 2) + "\n");
+  if (!DRY) {
+    await writeFile(OUT, JSON.stringify(out, null, 2) + "\n");
+    await writeFile(path.join(ROOT, "data/scrape-report.json"), JSON.stringify({ date: new Date().toISOString(), total: out.length, open: out.filter((j) => j.status !== "closed").length, sources: report }, null, 2) + "\n");
+  }
   if (okSources === 0 && cfg.sources.some((s) => s.enabled)) process.exitCode = 1;
 }
 

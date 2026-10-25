@@ -137,7 +137,7 @@ export function normalizeJob(raw, warn = () => {}) {
     status: STATUSES.includes(raw.status) ? raw.status : "open",
     source: raw.source ?? "manual",
   };
-  if (!j.categories.length) j.categories = detectCategories(text, raw.domain);
+  if (!j.categories.length) j.categories = detectCategories(String(raw.title), raw.domain);
   const num = (v) => (v === "" || v == null || Number.isNaN(+v) ? undefined : Math.round(+v));
   j.payMin = num(raw.payMin);
   j.payMax = num(raw.payMax);
