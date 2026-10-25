@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Gigmap · Админка</title>
+<link rel="icon" href="/icon.svg">
+<style>
+  :root { color-scheme: light; --bg:#faf9f5; --card:#fff; --muted:#f0eee6; --line:rgba(20,20,19,.09); --text:#141413; --text2:#5e5d59; --accent:#c4613f; --ok:#4f6b3a; --oks:rgba(120,140,93,.16); --bad:#9e3b2c; --bads:rgba(196,80,60,.12); }
+  @media (prefers-color-scheme: dark) { :root { color-scheme: dark; --bg:#141413; --card:#1e1e1c; --muted:#262624; --line:rgba(250,249,245,.1); --text:#faf9f5; --text2:#b8b6ad; --accent:#e08a6c; --ok:#a9c08c; --bad:#ec8f7d; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:400 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; -webkit-font-smoothing:antialiased; }
+  main { max-width: 720px; margin: 0 auto; padding: 40px 16px 80px; }
+  h1 { font-size: 30px; letter-spacing:-.02em; margin: 0 0 6px; }
+  h2 { font-size: 19px; margin: 0 0 6px; }
+  p { color: var(--text2); margin: 0 0 14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:18px; padding:20px; margin-top:16px; }
+  label { display:block; font-size:13px; color:var(--text2); margin-bottom:6px; }
+  input[type=password] { width:100%; min-height:44px; border-radius:12px; border:1px solid var(--line); background:var(--muted); color:var(--text); padding:0 14px; font:inherit; }
+  .drop { display:grid; place-items:center; text-align:center; min-height:120px; border:1.5px dashed var(--line); border-radius:14px; padding:16px; cursor:pointer; color:var(--text2); transition:background-color .2s, border-color .2s; }
+  .drop:hover, .drop.over { background:var(--muted); border-color:var(--accent); }
+  .drop input { position:absolute; width:1px; height:1px; opacity:0; }
+  .drop b { color:var(--text); }
+  .row { display:flex; gap:10px; flex-wrap:wrap; margin-top:14px; align-items:center; }
+  button, .btn { display:inline-flex; align-items:center; justify-content:center; min-height:44px; padding:0 20px; border-radius:999px; border:1px solid var(--line); background:var(--card); color:var(--text); font-family:inherit; font-size:15px; font-weight:500; line-height:1; cursor:pointer; text-decoration:none; transition: filter .2s, background-color .2s; }
+  button:hover, .btn:hover { background:var(--muted); }
+  button.primary { background:var(--accent); color:#fff; border-color:transparent; }
+  button.primary:hover { filter:brightness(1.07); }
+  button:disabled { opacity:.55; cursor:progress; }
+  :focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .msg { margin-top:12px; padding:10px 14px; border-radius:12px; font-size:14px; }
+  .msg.ok { background:var(--oks); color:var(--ok); }
+  .msg.err { background:var(--bads); color:var(--bad); }
+  .msg:empty { display:none; }
+  ul.runs { list-style:none; padding:0; margin:10px 0 0; font-size:14px; }
+  ul.runs li { padding:6px 0; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; gap:10px; }
+  code { background:var(--muted); padding:2px 6px; border-radius:6px; font-size:13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Админка</h1>
+  <p>Загрузите файл — сайт пересоберётся автоматически за 2–3 минуты.</p>
+
+  <section class="card">
+    <label for="pw">Пароль</label>
+    <input id="pw" type="password" name="password" autocomplete="current-password" placeholder="Пароль администратора…">
+  </section>
+
+  <section class="card" aria-labelledby="jobs-h">
+    <h2 id="jobs-h">Вакансии</h2>
+    <p>CSV или JSON. Файл полностью заменяет предыдущую загрузку; вакансии из скрапера и ручного списка остаются. Обязательные колонки: <code>platform</code>, <code>title</code>. Чтобы закрыть вакансию — поставьте <code>status</code> = <code>closed</code>.</p>
+    <label class="drop" id="jobs-drop">
+      <input type="file" id="jobs-file" accept=".csv,.json,text/csv,application/json">
+      <span id="jobs-name"><b>Выберите файл</b> или перетащите сюда</span>
+    </label>
+    <div class="row">
+      <button class="primary" type="button" id="jobs-send">Загрузить вакансии</button>
+      <a class="btn" href="/data/jobs.csv" download>Скачать текущие (CSV)</a>
+      <a class="btn" href="/admin/template.csv" download>Шаблон CSV</a>
+    </div>
+    <div class="msg" id="jobs-msg" role="status" aria-live="polite"></div>
+  </section>
+
+  <section class="card" aria-labelledby="ref-h">
+    <h2 id="ref-h">Реферальные ссылки</h2>
+    <p>CSV с колонками <code>platform,url,code</code> или JSON <code>{"micro1": {"url": "https://…"}}</code>. Кнопка «Откликнуться» на всех вакансиях платформы поведёт на эту ссылку.</p>
+    <label class="drop" id="ref-drop">
+      <input type="file" id="ref-file" accept=".csv,.json,text/csv,application/json">
+      <span id="ref-name"><b>Выберите файл</b> или перетащите сюда</span>
+    </label>
+    <div class="row">
+      <button class="primary" type="button" id="ref-send">Сохранить ссылки</button>
+      <a class="btn" href="/admin/referrals-template.csv" download>Шаблон CSV</a>
+    </div>
+    <div class="msg" id="ref-msg" role="status" aria-live="polite"></div>
+  </section>
+
+  <section class="card" aria-labelledby="run-h">
+    <h2 id="run-h">Скрапер</h2>
+    <p>Запускается сам каждый день в 12:00. Можно запустить сейчас.</p>
+    <div class="row">
+      <button class="primary" type="button" id="run">Обновить вакансии сейчас</button>
+      <button type="button" id="runs-load">Последние запуски</button>
+    </div>
+    <div class="msg" id="run-msg" role="status" aria-live="polite"></div>
+    <ul class="runs" id="runs"></ul>
+  </section>
+</main>
+<script>
+(function () {
+  var pw = document.getElementById("pw");
+  try { pw.value = sessionStorage.getItem("gigmap.admin") || ""; } catch (e) {}
+  pw.addEventListener("change", function () { try { sessionStorage.setItem("gigmap.admin", pw.value); } catch (e) {} });
+
+  function auth() { return { Authorization: "Bearer " + pw.value }; }
+  function show(id, text, ok) { var el = document.getElementById(id); el.textContent = text; el.className = "msg " + (ok ? "ok" : "err"); }
+  function busy(btn, on, label) { btn.disabled = on; if (on) { btn.dataset.l = btn.textContent; btn.textContent = label; } else if (btn.dataset.l) btn.textContent = btn.dataset.l; }
+
+  function wireDrop(dropId, inputId, nameId) {
+    var drop = document.getElementById(dropId), input = document.getElementById(inputId), name = document.getElementById(nameId);
+    input.addEventListener("change", function () { if (input.files[0]) name.textContent = input.files[0].name; });
+    ["dragenter", "dragover"].forEach(function (e) { drop.addEventListener(e, function (ev) { ev.preventDefault(); drop.classList.add("over"); }); });
+    ["dragleave", "drop"].forEach(function (e) { drop.addEventListener(e, function (ev) { ev.preventDefault(); drop.classList.remove("over"); }); });
+    drop.addEventListener("drop", function (ev) { if (ev.dataTransfer.files[0]) { input.files = ev.dataTransfer.files; name.textContent = ev.dataTransfer.files[0].name; } });
+  }
+  wireDrop("jobs-drop", "jobs-file", "jobs-name");
+  wireDrop("ref-drop", "ref-file", "ref-name");
+
+  function upload(kind, inputId, btnId, msgId) {
+    var btn = document.getElementById(btnId);
+    btn.addEventListener("click", function () {
+      var f = document.getElementById(inputId).files[0];
+      if (!pw.value) return show(msgId, "Введите пароль.", false);
+      if (!f) return show(msgId, "Выберите файл CSV или JSON.", false);
+      var fd = new FormData(); fd.append("kind", kind); fd.append("file", f);
+      busy(btn, true, "Загрузка…");
+      fetch("/api/admin/upload", { method: "POST", headers: auth(), body: fd })
+        .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+        .then(function (x) { show(msgId, x.ok ? x.j.message : "Ошибка: " + x.j.error, x.ok); })
+        .catch(function (e) { show(msgId, "Сеть недоступна: " + e.message, false); })
+        .finally(function () { busy(btn, false); });
+    });
+  }
+  upload("jobs", "jobs-file", "jobs-send", "jobs-msg");
+  upload("referrals", "ref-file", "ref-send", "ref-msg");
+
+  var run = document.getElementById("run");
+  run.addEventListener("click", function () {
+    if (!pw.value) return show("run-msg", "Введите пароль.", false);
+    busy(run, true, "Запуск…");
+    fetch("/api/admin/run", { method: "POST", headers: auth() })
+      .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+      .then(function (x) { show("run-msg", x.ok ? x.j.message : "Ошибка: " + x.j.error, x.ok); })
+      .catch(function (e) { show("run-msg", "Сеть недоступна: " + e.message, false); })
+      .finally(function () { busy(run, false); });
+  });
+
+  var fmt = new Intl.DateTimeFormat("ru-RU", { dateStyle: "short", timeStyle: "short" });
+  document.getElementById("runs-load").addEventListener("click", function () {
+    if (!pw.value) return show("run-msg", "Введите пароль.", false);
+    fetch("/api/admin/run", { headers: auth() }).then(function (r) { return r.json(); }).then(function (j) {
+      var ul = document.getElementById("runs"); ul.innerHTML = "";
+      if (j.error) return show("run-msg", "Ошибка: " + j.error, false);
+      (j.runs || []).forEach(function (r) {
+        var li = document.createElement("li");
+        var a = document.createElement("a"); a.href = r.url; a.target = "_blank"; a.rel = "noopener"; a.textContent = fmt.format(new Date(r.created));
+        var s = document.createElement("span"); s.textContent = (r.conclusion || r.status) + " · " + r.event;
+        li.appendChild(a); li.appendChild(s); ul.appendChild(li);
+      });
+      if (!(j.runs || []).length) ul.innerHTML = "<li>Запусков пока нет</li>";
+    });
+  });
+})();
+</script>
+</body>
+</html>

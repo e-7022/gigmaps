@@ -2,9 +2,13 @@
   "name": "gigmap",
   "version": "1.0.0",
   "scripts": {
+    "predev": "node scripts/build-data.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/build-data.mjs",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "fetch-jobs": "node scripts/fetch-jobs.mjs",
+    "build-data": "node scripts/build-data.mjs"
   },
   "dependencies": {
     "next": "^16.4.3",
@@ -15,7 +19,11 @@
     "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
+    "tsx": "^4.23.15",
     "typescript": "^5.9.3"
   },
-  "private": true
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
 }

@@ -5,7 +5,7 @@ import { formatDate, isLocale, LOCALES } from "@/i18n/config";
 import { t } from "@/i18n/dict";
 import { abs } from "@/lib/site";
 import { pageMeta } from "@/lib/seo";
-import { getPlatform, platforms } from "@/data/platforms";
+import { getPlatform, platformApply, platforms } from "@/data/platforms";
 import { jobs } from "@/data/jobs";
 import { railLabel } from "@/data/rails";
 import { JsonLd } from "@/components/JsonLd";
@@ -31,6 +31,7 @@ export default async function PlatformPage({ params }: Props) {
   if (!p || !isLocale(lang)) notFound();
   const d = t(lang);
   const list = jobs.filter((j) => j.platform === p.slug);
+  const ap = platformApply(p);
 
   const ld = {
     "@context": "https://schema.org",
@@ -53,8 +54,8 @@ export default async function PlatformPage({ params }: Props) {
         {p.owner ? <p className="muted" style={{ margin: 0 }} translate="no">{p.owner}</p> : null}
         <p className="lede" style={{ margin: 0 }}>{p.summary[lang]}</p>
         <div className="cta-row">
-          <a className="btn btn-primary" href={p.referralUrl || p.url} target="_blank" rel={p.referralUrl ? "sponsored noopener" : "noopener"}>
-            {p.referralUrl ? d.job.applyRef : d.job.apply}
+          <a className="btn btn-primary" href={ap.href} target="_blank" rel={ap.isRef ? "sponsored noopener" : "noopener"}>
+            {ap.isRef ? d.job.applyRef : d.job.apply}
           </a>
           <a className="btn btn-ghost" href={p.url} target="_blank" rel="noopener">{d.job.official}</a>
         </div>

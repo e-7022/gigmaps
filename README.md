@@ -49,3 +49,44 @@ npm run build    # статический экспорт в папку out/
 **Без GitHub:** Workers & Pages → Create → Pages → Upload assets → загрузить содержимое `out/` (архив `gigmap-site.zip`).
 
 **С автообновлением:** залить проект на GitHub → Pages → Connect to Git → Build command `npm run build`, Output directory `out`, переменная `NEXT_PUBLIC_SITE_URL`.
+
+---
+
+## Автообновление вакансий
+
+```
+GitHub Actions (каждый день 11:00 UTC = 12:00 в Черногории зимой)
+  └─ scripts/fetch-jobs.mjs  → data/jobs.scraped.json → коммит → Cloudflare пересобирает сайт
+Админка /admin
+  └─ загрузка CSV/JSON       → data/jobs.upload.* или data/referrals.json → коммит → пересборка
+Сборка (npm run build)
+  └─ scripts/build-data.mjs  → объединяет upload + manual + scraped → страницы сайта
+```
+
+### Скрапер
+
+- Источники описаны в `scripts/sources.json`. Поддерживаются открытые API **Greenhouse**, **Lever**, **Ashby** и Mercor. Добавить компанию: узнать токен доски вакансий (`job-boards.greenhouse.io/<token>`, `jobs.lever.co/<token>`, `jobs.ashbyhq.com/<token>`) и добавить запись с `platform` из `src/data/platforms.ts`.
+- Открытые вакансии получают `status: open`, исчезнувшие — `closed` с датой `closedAt`; закрытые хранятся `retentionDays` дней (по умолчанию 90).
+- Если источник не ответил, его вакансии не трогаются.
+- Локальный запуск: `npm run fetch-jobs` (или `node scripts/fetch-jobs.mjs --dry-run`).
+- Платформы без открытого API (micro1, Alignerr, Outlier, Mindrift и др.) обновляются через админку или `data/jobs.manual.json`. Перед подключением новых источников проверьте условия использования сайта.
+
+### Админка (`/admin`)
+
+Работает через Cloudflare Pages Functions (папка `functions/`). Задайте в Cloudflare → проект → **Settings → Variables and Secrets**:
+
+| Переменная | Значение |
+|---|---|
+| `ADMIN_PASSWORD` | пароль админки (Secret) |
+| `GITHUB_TOKEN` | fine-grained token на репозиторий: **Contents — Read and write**, **Actions — Read and write** (Secret) |
+| `GITHUB_REPO` | `e-7022/gigmaps` |
+| `GITHUB_BRANCH` | `main` |
+| `NEXT_PUBLIC_SITE_URL` | адрес сайта, например `https://gigmaps.pages.dev` |
+
+Возможности: загрузить вакансии (CSV/JSON, файл заменяет прошлую загрузку), скачать текущие вакансии в CSV, сохранить реферальные ссылки, запустить скрапер вручную, посмотреть последние запуски.
+
+**Формат CSV вакансий** — см. `/admin/template.csv`. Удобный цикл: «Скачать текущие (CSV)» → правка в Excel/Google Sheets → загрузка обратно. Колонка `id` сохраняет связь с существующей вакансией; для новой оставьте пустой.
+
+### Реферальные ссылки
+
+`data/referrals.json` (или загрузка через админку): `{ "micro1": { "url": "https://…ваша ссылка…" } }`. Кнопка «Откликнуться» на всех вакансиях платформы ведёт на эту ссылку (`rel="sponsored"`). Без ссылки — на страницу входа/регистрации платформы (`signupUrl`).

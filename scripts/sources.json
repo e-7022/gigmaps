@@ -1,0 +1,40 @@
+{
+  "_comment": "Источники вакансий для scripts/fetch-jobs.mjs. type: greenhouse | lever | ashby | mercor | json. include/exclude — регулярные выражения по названию вакансии (без учёта регистра). platform — slug из src/data/platforms.ts. Чтобы добавить компанию на Greenhouse/Lever/Ashby, достаточно узнать её токен из адреса доски вакансий: job-boards.greenhouse.io/<token>, jobs.lever.co/<token>, jobs.ashbyhq.com/<token>.",
+  "retentionDays": 90,
+  "sources": [
+    {
+      "id": "xai-greenhouse",
+      "platform": "xai",
+      "type": "greenhouse",
+      "token": "xai",
+      "include": "tutor|trainer|annotat|data specialist|expert",
+      "enabled": true
+    },
+    {
+      "id": "appen-lever",
+      "platform": "appen",
+      "type": "lever",
+      "token": "appen",
+      "include": "",
+      "exclude": "engineer(ing)? manager|sales|account executive|finance|recruit|hr\\b",
+      "enabled": true
+    },
+    {
+      "id": "mercor-listings",
+      "platform": "mercor",
+      "type": "mercor",
+      "url": "https://aws.api.mercor.com/work/listings-explore-page",
+      "include": "",
+      "enabled": true,
+      "_note": "Неофициальный эндпоинт, который использует сайт work.mercor.com. Если формат изменится, источник вернёт ошибку и старые данные сохранятся."
+    },
+    {
+      "id": "example-ashby",
+      "platform": "invisible",
+      "type": "ashby",
+      "token": "REPLACE_WITH_ASHBY_BOARD",
+      "include": "trainer|tutor|expert",
+      "enabled": false
+    }
+  ]
+}

@@ -1028,3 +1028,29 @@ tr:target td {
   color: var(--text-3);
   background: var(--bg-muted);
 }
+
+.avail-line,
+.card p.avail-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.35;
+  font-weight: 500;
+  color: var(--c);
+  background: var(--s);
+  border-radius: 14px;
+  padding: 7px 12px;
+  overflow: visible;
+  align-self: flex-start;
+  -webkit-line-clamp: unset !important;
+  display: inline-flex !important;
+}
+.avail-line i {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: currentColor;
+  flex: none;
+}

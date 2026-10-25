@@ -168,7 +168,7 @@ function View({ locale, d, state, set }: { locale: Locale; d: Dict; state: State
       {items.length ? (
         <div className="grid">
           {items.map((j) => (
-            <JobCard key={j.id} job={j} locale={locale} d={d} cc={state.c || undefined} />
+            <JobCard key={j.id} job={j} locale={locale} d={d} cc={state.c || undefined} inCatalog />
           ))}
         </div>
       ) : (

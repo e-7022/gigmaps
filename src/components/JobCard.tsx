@@ -1,12 +1,27 @@
 import Link from "next/link";
 import { formatPay, languageName, type Locale } from "@/i18n/config";
 import type { Dict } from "@/i18n/dict";
-import { applyUrl, jobElig, jobOverall, jobPayout, jobPlatform, type Job } from "@/data/jobs";
+import { applyUrl, jobOverall, jobPlatform, type Job } from "@/data/jobs";
+import { COUNTRIES } from "@/data/countries";
+import { AvailabilityLine } from "./AvailabilityLine";
+import type { Overall } from "@/i18n/avail";
 
-export function JobCard({ job, locale, d, cc }: { job: Job; locale: Locale; d: Dict; cc?: string }) {
+export function overallMap(job: Job) {
+  const m: Record<string, Overall> = {};
+  let total = 0;
+  for (const cc of COUNTRIES) {
+    const o = jobOverall(job, cc);
+    m[cc] = o;
+    if (o === "available") total++;
+  }
+  return { m, total };
+}
+
+export function JobCard({ job, locale, d, cc, inCatalog }: { job: Job; locale: Locale; d: Dict; cc?: string; inCatalog?: boolean }) {
   const p = jobPlatform(job);
   const pay = formatPay(job.payMin, job.payMax, locale, job.payUnit);
   const overall = cc ? jobOverall(job, cc) : null;
+  const { m, total } = overallMap(job);
   const { href, isRef } = applyUrl(job);
   const href_ = `/${locale}/jobs/${job.id}`;
 
@@ -30,14 +45,9 @@ export function JobCard({ job, locale, d, cc }: { job: Job; locale: Locale; d: D
         <div className={`pay${pay ? "" : " pay-none"}`}>{pay ?? "—"}</div>
       </div>
 
-      {job.note ? <p>{job.note[locale]}</p> : null}
+      {job.note ? <p>{job.note[locale]}</p> : job.summary ? <p lang="en">{job.summary}</p> : null}
 
-      {cc ? (
-        <div className="badges">
-          <span className={`badge e-${jobElig(job, cc)}`}>{d.elig[jobElig(job, cc)]}</span>
-          <span className={`badge p-${jobPayout(job, cc)}`}>{d.payout[jobPayout(job, cc)]}</span>
-        </div>
-      ) : null}
+      {job.status === "closed" ? null : <AvailabilityLine locale={locale} total={total} byCountry={m} cc={inCatalog ? cc ?? "" : cc} />}
 
       <div className="badges">
         {job.categories.map((c) => (

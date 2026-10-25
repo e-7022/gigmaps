@@ -9,8 +9,8 @@ import { applyUrl, getJob, jobElig, jobPlatform, jobs, type Job } from "@/data/j
 import { railLabel } from "@/data/rails";
 import { COUNTRIES } from "@/data/countries";
 import { JsonLd } from "@/components/JsonLd";
-import { JobCard } from "@/components/JobCard";
-import { AvailabilityGrid } from "@/components/AvailabilityGrid";
+import { JobCard, overallMap } from "@/components/JobCard";
+import { AvailabilityLine } from "@/components/AvailabilityLine";
 
 type Props = { params: Promise<{ lang: string; id: string }> };
 
@@ -41,6 +41,7 @@ export default async function JobPage({ params }: Props) {
   const p = jobPlatform(j);
   const pay = formatPay(j.payMin, j.payMax, lang, j.payUnit);
   const { href, isRef } = applyUrl(j);
+  const om = overallMap(j);
   const others = jobs.filter((x) => x.platform === j.platform && x.id !== j.id);
 
   const eligible = COUNTRIES.filter((cc) => {
@@ -100,6 +101,7 @@ export default async function JobPage({ params }: Props) {
           {p.owner ? <> · <span translate="no">{p.owner}</span></> : null} · {d.status[j.status]}
         </p>
         {j.note ? <p className="lede" style={{ margin: 0 }}>{j.note[lang]}</p> : null}
+        {j.status === "closed" ? null : <AvailabilityLine locale={lang} total={om.total} byCountry={om.m} />}
         <div className="cta-row">
           {j.status === "closed" ? null : (
             <a className="btn btn-primary" href={href} target="_blank" rel={isRef ? "sponsored noopener" : "noopener"}>
@@ -113,9 +115,16 @@ export default async function JobPage({ params }: Props) {
       </header>
 
       <div className="two-col">
-        <section className="panel" aria-labelledby="avail-h">
-          <h2 id="avail-h" className="panel-h">{d.job.byCountry}</h2>
-          <AvailabilityGrid job={j} locale={lang} d={d} />
+        <section className="panel" aria-labelledby="about-h">
+          <h2 id="about-h" className="panel-h">{d.job.about}</h2>
+          {j.summary ? <p lang="en" style={{ marginTop: 0 }}>{j.summary}</p> : null}
+          <p className="muted" style={{ margin: 0 }}>{p.summary[lang]}</p>
+          <p className="small muted" style={{ marginBottom: 0 }}>
+            {d.platform.rule[p.rule.kind]}{" "}
+            {"source" in p.rule ? (
+              <a href={p.rule.source} target="_blank" rel="noopener">{d.platform.source}</a>
+            ) : null}
+          </p>
         </section>
         <aside className="panel">
           <dl className="meta">
@@ -151,16 +160,7 @@ export default async function JobPage({ params }: Props) {
         </aside>
       </div>
 
-      <section className="panel" style={{ marginTop: 16 }} aria-labelledby="about-h">
-        <h2 id="about-h" className="panel-h">{d.job.about}</h2>
-        <p className="muted" style={{ margin: 0 }}>{p.summary[lang]}</p>
-        <p className="small muted" style={{ marginBottom: 0 }}>
-          {d.platform.rule[p.rule.kind]}{" "}
-          {"source" in p.rule ? (
-            <a href={p.rule.source} target="_blank" rel="noopener">{d.platform.source}</a>
-          ) : null}
-        </p>
-      </section>
+
 
       {others.length ? (
         <section className="section" aria-labelledby="other-h">

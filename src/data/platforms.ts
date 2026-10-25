@@ -1,8 +1,9 @@
 import type { L } from "@/i18n/config";
 import { EU27, SANCTIONED } from "./countries";
 import type { Rail } from "./rails";
+import referrals from "./generated/referrals.json";
 
-// Реферальные ссылки: вставь свою в referralUrl. Пока поле пустое, кнопки ведут на официальную страницу.
+// Реферальные ссылки хранятся в data/referrals.json (редактируются через админку).
 
 export type Elig = "yes" | "likely" | "unknown" | "no";
 
@@ -17,7 +18,8 @@ export interface Platform {
   name: string;
   owner?: string;
   url: string;
-  referralUrl?: string;
+  signupUrl?: string; // страница входа/регистрации исполнителя
+  referralTemplate?: string; // шаблон ссылки с кодом, например "https://x.com/signup?ref={code}"
   summary: L;
   rails: Rail[];
   rule: EligRule;
@@ -50,6 +52,7 @@ export const platforms: Platform[] = [
     name: "Alignerr",
     owner: "Labelbox",
     url: "https://www.alignerr.com",
+    signupUrl: "https://app.alignerr.com",
     summary: {
       en: "Labelbox’s expert platform. Audio Engineer roles name Ableton and mixing skills directly; one test attempt per role.",
       ru: "Экспертная платформа Labelbox. В ролях Audio Engineer прямо указаны Ableton и навыки сведения; тест — одна попытка.",
@@ -120,6 +123,7 @@ export const platforms: Platform[] = [
     name: "Outlier",
     owner: "Scale AI",
     url: "https://outlier.ai",
+    signupUrl: "https://app.outlier.ai/login",
     summary: {
       en: "Scale AI’s large contributor platform with an official list of allowed work locations. VPNs are banned.",
       ru: "Крупная платформа Scale AI с официальным списком разрешённых стран. VPN запрещён.",
@@ -286,6 +290,7 @@ export const platforms: Platform[] = [
     slug: "mercor",
     name: "Mercor",
     url: "https://work.mercor.com",
+    signupUrl: "https://work.mercor.com",
     summary: {
       en: "Large expert network with high rates for music, language and design experts. Publishes an official supported-countries list.",
       ru: "Крупная экспертная сеть с высокими ставками для музыкантов, лингвистов и дизайнеров. Публикует официальный список стран.",
@@ -403,4 +408,14 @@ export function platformElig(p: Platform, cc: string): Elig {
     case "none":
       return SANCTIONED.has(cc) ? "no" : "unknown";
   }
+}
+
+type Ref = { url?: string; code?: string };
+const REFS = referrals as Record<string, Ref>;
+
+export function platformApply(p: Platform): { href: string; isRef: boolean } {
+  const r = REFS[p.slug];
+  if (r?.url) return { href: r.url, isRef: true };
+  if (r?.code && p.referralTemplate) return { href: p.referralTemplate.replace("{code}", encodeURIComponent(r.code)), isRef: true };
+  return { href: p.signupUrl || p.url, isRef: false };
 }

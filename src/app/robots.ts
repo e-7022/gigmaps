@@ -22,7 +22,7 @@ const aiBots = [
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: [{ userAgent: "*", allow: "/" }, ...aiBots.map((userAgent) => ({ userAgent, allow: "/" }))],
+    rules: [{ userAgent: "*", allow: "/", disallow: ["/admin", "/api"] }, ...aiBots.map((userAgent) => ({ userAgent, allow: "/", disallow: ["/admin", "/api"] }))],
     sitemap: `${site.url}/sitemap.xml`,
     host: site.url,
   };
