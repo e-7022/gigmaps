@@ -11,7 +11,7 @@ type Props = { params: Promise<{ lang: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lang } = await params;
   const d = t(lang as Locale);
-  return pageMeta(lang as Locale, "/countries", d.nav.countries, d.countryPage.intro);
+  return pageMeta(lang as Locale, "/countries", `${d.meta.tagline} — ${d.nav.countries}`, d.countryPage.intro);
 }
 
 export default async function Countries({ params }: Props) {

@@ -36,9 +36,10 @@ jobs:
         run: node scripts/build-data.mjs
 
       - name: Commit changes
+        id: commit
         run: |
-          if git diff --quiet -- data/jobs.scraped.json data/scrape-report.json; then
-            echo "No changes"
+          if git diff --quiet -- data/jobs.scraped.json; then
+            echo "No job changes"
             exit 0
           fi
           git config user.name "gigmap-bot"
@@ -46,3 +47,12 @@ jobs:
           git add data/jobs.scraped.json data/scrape-report.json
           git commit -m "chore(data): update scraped jobs $(date -u +%F)"
           git push
+          echo "changed=1" >> "$GITHUB_OUTPUT"
+
+      - name: Ping search engines (IndexNow)
+        if: steps.commit.outputs.changed == '1'
+        env:
+          SITE_URL: ${{ vars.SITE_URL || 'https://gigmaps.pages.dev' }}
+        run: |
+          sleep 300   # ждём, пока Cloudflare Pages выложит новую сборку
+          node scripts/indexnow.mjs || echo "IndexNow ping failed (non-fatal)"

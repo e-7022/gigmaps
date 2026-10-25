@@ -26,23 +26,24 @@ export function GET() {
     `- [Payouts by country](${abs("/en/payouts")}): which payout methods work in each country`,
     `- [Referral policy](${abs("/en/disclosure")})`,
     "",
-    "## Jobs",
-    ...jobs.map((j) => {
-      const p = jobPlatform(j);
-      const pay = formatPay(j.payMin, j.payMax, "en", j.payUnit) ?? "rate not published";
-      const extra = [j.language ? `requires ${new Intl.DisplayNames(["en"], { type: "language" }).of(j.language)}` : "", j.degree ? "advanced degree required" : ""].filter(Boolean).join("; ");
-      return `- [${j.title} — ${p.name}](${abs(`/en/jobs/${j.id}`)}): ${pay}; English: ${d.english[j.english]}; status: ${d.status[j.status]}${extra ? `; ${extra}` : ""}.`;
+    "## Jobs by field (open roles)",
+    ...(["audio", "design", "language", "tech", "science", "medicine", "law", "business", "general"] as const).map((c) => {
+      const list = jobs.filter((j) => j.status !== "closed" && j.categories.includes(c));
+      const top = list.slice(0, 5).map((j) => `${j.title} (${jobPlatform(j).name})`).join("; ");
+      return `- ${d.cat[c]}: ${list.length} roles, e.g. ${top}. Browse: ${abs(`/en?cat=${c}`)}`;
     }),
     "",
-    "## Available jobs per country (eligible + working payout)",
+    "## Countries (open roles with eligibility + working payout)",
     ...REGION_ORDER.flatMap((r) => [
       `### ${d.country.regions[r]}`,
       ...REGIONS[r].map((cc) => {
-        const ok = jobs.filter((j) => jobOverall(j, cc) === "available").map((j) => `${j.title} (${jobPlatform(j).name})`);
-        return `- [${names.of(cc)}](${abs(`/en/countries/${cc.toLowerCase()}`)}): ${ok.length ? ok.join(", ") : "no confirmed options"}`;
+        const n = jobs.filter((j) => jobOverall(j, cc) === "available").length;
+        return `- [${names.of(cc)}](${abs(`/en/countries/${cc.toLowerCase()}`)}): ${n} roles`;
       }),
       "",
     ]),
+    `Full list of every job: ${abs("/llms-full.txt")}. Machine-readable data: ${abs("/data/jobs.json")}.`,
+    "",
     "## Platforms",
     ...platforms.map((p) => `- [${p.name}](${abs(`/en/platforms/${p.slug}`)}): ${p.summary.en} ${d.platform.rule[p.rule.kind]}`),
     "",

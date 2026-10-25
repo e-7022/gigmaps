@@ -22,7 +22,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lang, slug } = await params;
   const p = getPlatform(slug);
   if (!p || !isLocale(lang)) return {};
-  return pageMeta(lang, `/platforms/${p.slug}`, `${p.name} — ${t(lang).platform.jobs}`, p.summary[lang]);
+  const n = jobs.filter((j) => j.platform === p.slug && j.status !== "closed").length;
+  return pageMeta(lang, `/platforms/${p.slug}`, `${p.name}: ${n} ${t(lang).platform.jobs.toLowerCase()} · ${t(lang).platform.rails}`, p.summary[lang]);
 }
 
 export default async function PlatformPage({ params }: Props) {

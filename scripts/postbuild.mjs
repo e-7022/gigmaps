@@ -5,7 +5,8 @@ import { readdir, rm } from "node:fs/promises";
 import path from "node:path";
 
 const OUT = path.resolve("out");
-const KEEP = new Set(["llms.txt", "robots.txt"]);
+const KEEP = new Set(["llms.txt", "llms-full.txt", "robots.txt"]);
+const isIndexNowKey = (name) => /^[0-9a-f]{32}\.txt$/.test(name);
 let removed = 0;
 async function walk(dir) {
   for (const e of await readdir(dir, { withFileTypes: true })) {
@@ -13,7 +14,7 @@ async function walk(dir) {
     if (e.isDirectory()) {
       if (p.includes(`${path.sep}_next`) || p.includes(`${path.sep}admin`) || p.includes(`${path.sep}data`)) continue;
       await walk(p);
-    } else if (e.name.endsWith(".txt") && !KEEP.has(e.name)) {
+    } else if (e.name.endsWith(".txt") && !KEEP.has(e.name) && !isIndexNowKey(e.name)) {
       await rm(p);
       removed++;
     }

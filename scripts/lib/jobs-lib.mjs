@@ -116,7 +116,18 @@ export function countriesFromLocation(loc = "") {
   for (const [cc, names] of Object.entries(COUNTRY_NAMES)) {
     if (names.some((n) => t.includes(n))) found.add(cc);
   }
-  return found.size ? [...found] : undefined;
+  if (found.size) return [...found];
+  // Указано конкретное место вне каталога (например, «Kuala Lumpur, Malaysia») — вакансия недоступна в наших странах
+  if (/[a-z]{3,}/.test(t) && !/\b(remote|worldwide|anywhere|global|multiple|various|online)\b/.test(t)) return ["ZZ"];
+  return undefined;
+}
+
+// Явные указания страны в названии: «US-based», «(US)», «U.S.», американские штаты и госпрограммы
+export function countriesFromTitle(title = "") {
+  const t = String(title);
+  if (/\b(US|U\.S\.)[- ]?(based|licensed|only)\b|\(US\)|\bU\.S\.|\bUS (Macro|Tax)|American|Alaska|Hawaii|San Francisco|Medicare|\bVA\b|Veterans|National Park|Federal|DoD|Bluebook|BigLaw|AAML|HIPAA|UCMJ/i.test(t)) return ["US"];
+  if (/\bLATAM\b/i.test(t)) return ["MX"];
+  return undefined;
 }
 
 export function normalizeJob(raw, warn = () => {}) {
@@ -159,7 +170,7 @@ export function normalizeJob(raw, warn = () => {}) {
   const split = (v) => (Array.isArray(v) ? v : String(v ?? "").split(/[;,| ]+/)).map((c) => String(c).trim().toUpperCase()).filter((c) => /^[A-Z]{2}$/.test(c));
   const allow = raw.countries?.allow ?? split(raw.countries_allow);
   const deny = raw.countries?.deny ?? split(raw.countries_deny);
-  const fromLoc = !allow.length && raw.location ? countriesFromLocation(raw.location) : undefined;
+  const fromLoc = !allow.length ? (raw.location ? countriesFromLocation(raw.location) : undefined) ?? countriesFromTitle(raw.title) : undefined;
   if (allow.length || deny.length || fromLoc) j.countries = { ...(allow.length || fromLoc ? { allow: allow.length ? allow : fromLoc } : {}), ...(deny.length ? { deny } : {}) };
   for (const k of ["firstSeen", "lastSeen", "closedAt"]) if (raw[k]) j[k] = raw[k];
   for (const k of Object.keys(j)) if (j[k] === undefined) delete j[k];

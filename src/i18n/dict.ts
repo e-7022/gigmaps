@@ -92,7 +92,7 @@ const en: Dict = {
   meta: {
     title: "Gigmap — AI training jobs you can actually get paid for",
     description:
-      "Verified catalog of AI-training jobs (micro1, Alignerr, Outlier, Mindrift, Mercor and more): pay rates, English requirements, eligibility by country of residence and payout methods that actually work. Referral links are labeled.",
+      "600+ AI training jobs from micro1, Mercor, Outlier and more: pay rates, English level, which countries are eligible and which payout methods work.",
     tagline: "AI training jobs by country",
   },
   nav: { jobs: "Jobs", countries: "Countries", payouts: "Payouts", about: "Referrals", language: "Language" },
@@ -216,7 +216,7 @@ const ru: Dict = {
   meta: {
     title: "Gigmap — вакансии в обучении ИИ, за которые реально платят",
     description:
-      "Проверенный каталог вакансий AI-тренинга (micro1, Alignerr, Outlier, Mindrift, Mercor и др.): ставки, требования к английскому, доступность по стране проживания и работающие способы выплат. Реферальные ссылки помечены.",
+      "600+ вакансий в обучении ИИ: micro1, Mercor, Outlier и др. Ставки, английский, доступ по странам и способы выплат, которые реально работают.",
     tagline: "Вакансии в AI-тренинге по странам",
   },
   nav: { jobs: "Вакансии", countries: "Страны", payouts: "Выплаты", about: "О ссылках", language: "Язык" },
@@ -340,7 +340,7 @@ const es: Dict = {
   meta: {
     title: "Gigmap — empleos de entrenamiento de IA que realmente pagan",
     description:
-      "Catálogo verificado de empleos de entrenamiento de IA (micro1, Alignerr, Outlier, Mindrift, Mercor y más): tarifas, nivel de inglés, elegibilidad por país de residencia y métodos de pago que funcionan. Los enlaces de referido están señalados.",
+      "Más de 600 empleos de entrenamiento de IA (micro1, Mercor, Outlier…): tarifas, nivel de inglés, países elegibles y métodos de pago que funcionan.",
     tagline: "Empleos de entrenamiento de IA por país",
   },
   nav: { jobs: "Empleos", countries: "Países", payouts: "Pagos", about: "Referidos", language: "Idioma" },
@@ -464,7 +464,7 @@ const fr: Dict = {
   meta: {
     title: "Gigmap — des missions d’entraînement d’IA vraiment payées",
     description:
-      "Catalogue vérifié d’offres d’entraînement d’IA (micro1, Alignerr, Outlier, Mindrift, Mercor, etc.) : tarifs, niveau d’anglais, éligibilité selon le pays de résidence et moyens de paiement qui fonctionnent. Liens de parrainage signalés.",
+      "Plus de 600 missions d’entraînement d’IA (micro1, Mercor, Outlier…) : tarifs, niveau d’anglais, pays éligibles et moyens de paiement qui fonctionnent.",
     tagline: "Offres d’entraînement d’IA par pays",
   },
   nav: { jobs: "Offres", countries: "Pays", payouts: "Paiements", about: "Parrainage", language: "Langue" },
@@ -588,7 +588,7 @@ const zh: Dict = {
   meta: {
     title: "Gigmap — 真正能收到报酬的 AI 训练工作",
     description:
-      "经核实的 AI 训练岗位目录（micro1、Alignerr、Outlier、Mindrift、Mercor 等）：报酬、英语要求、按居住国划分的申请资格，以及真正可用的收款方式。推荐链接均已标注。",
+      "600 多个 AI 训练岗位（micro1、Mercor、Outlier 等）：报酬、英语要求、可申请国家和真正可用的收款方式。",
     tagline: "按国家查看 AI 训练岗位",
   },
   nav: { jobs: "岗位", countries: "国家", payouts: "收款", about: "推荐链接", language: "语言" },

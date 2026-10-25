@@ -62,13 +62,17 @@ export default async function JobPage({ params }: Props) {
       ],
     },
   ];
-  if (j.posted && j.status !== "closed" && eligible.length) {
+  const postedDate = j.posted ?? j.firstSeen;
+  if (postedDate && j.status !== "closed" && eligible.length) {
+    const posted = postedDate.length === 7 ? `${postedDate}-01` : postedDate;
     ld.push({
       "@context": "https://schema.org",
       "@type": "JobPosting",
       title: j.title,
       description: describe(j, lang),
-      datePosted: j.posted.length === 7 ? `${j.posted}-01` : j.posted,
+      datePosted: posted,
+      validThrough: new Date(Date.parse(posted) + 90 * 864e5).toISOString().slice(0, 10),
+      identifier: { "@type": "PropertyValue", name: p.name, value: j.externalId ?? j.id },
       employmentType: "CONTRACTOR",
       jobLocationType: "TELECOMMUTE",
       applicantLocationRequirements: eligible.map((cc) => ({ "@type": "Country", name: cc })),

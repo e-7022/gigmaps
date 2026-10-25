@@ -25,6 +25,11 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     applicationName: site.name,
     icons: { icon: "/icon.svg" },
     robots: { index: true, follow: true, "max-snippet": -1, "max-image-preview": "large" },
+    verification: {
+      google: process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION || undefined,
+      yandex: process.env.NEXT_PUBLIC_YANDEX_VERIFICATION || undefined,
+      other: process.env.NEXT_PUBLIC_BING_VERIFICATION ? { "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION } : undefined,
+    },
   };
 }
 
