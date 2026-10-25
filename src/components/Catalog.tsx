@@ -21,7 +21,7 @@ interface State {
   sort: Sort;
 }
 const DEFAULT: State = { q: "", cat: "all", c: "", avail: false, nofluent: false, open: false, nodegree: false, sort: "rec" };
-const CATS: Category[] = ["audio", "design", "language", "general"];
+const CATS: Category[] = ["audio", "design", "language", "tech", "science", "medicine", "law", "business", "general"];
 const STORE = "gigmap.country";
 
 function fromParams(sp: URLSearchParams | null): State {

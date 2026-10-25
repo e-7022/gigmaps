@@ -3,6 +3,14 @@
   "retentionDays": 90,
   "sources": [
     {
+      "id": "micro1-portal",
+      "platform": "micro1",
+      "type": "micro1",
+      "include": "",
+      "enabled": true,
+      "_note": "Тот же API, что использует страница micro1.ai/experts/opportunities. Штатные full-time вакансии micro1 пропускаются."
+    },
+    {
       "id": "xai-greenhouse",
       "platform": "xai",
       "type": "greenhouse",

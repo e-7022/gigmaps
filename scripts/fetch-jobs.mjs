@@ -87,6 +87,35 @@ const adapters = {
       };
     });
   },
+  // micro1: тот же запрос, что делает страница micro1.ai/experts/opportunities
+  async micro1(src) {
+    const out = [];
+    for (let page = 1; page <= 30; page++) {
+      const url = `https://prod-api.micro1.ai/api/v1/job/portal?page=${page}&limit=100&keyword=`;
+      const data = FIX
+        ? page === 1 ? await getJson(url, {}, src) : { data: [] }
+        : await getJson(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "get_all_jobs" }) }, src);
+      const list = data.data || [];
+      if (!list.length) break;
+      for (const j of list) {
+        const rate = j.ideal_hourly_rate;
+        // штатные вакансии самой micro1 (full-time или годовой оклад) — не AI-тренинг
+        if (j.engagement_type === "full-time" || (rate?.max && rate.max >= 1000) || j.ideal_yearly_compensation) continue;
+        const hourly = rate && rate.max && rate.max < 1000;
+        out.push({
+          externalId: j.job_id,
+          title: String(j.job_name || "").trim(),
+          url: `https://jobs.micro1.ai/post/${j.job_id}`,
+          posted: j.date_posted,
+          domain: j.domain_slug,
+          description: (j.skills || []).join(", "),
+          ...(hourly ? { payMin: rate.min ?? rate.max, payMax: rate.max } : {}),
+        });
+      }
+      if (out.length >= (data.total ?? 0) || list.length < 100) break;
+    }
+    return out;
+  },
   async json(src) {
     const data = await getJson(src.url, {}, src);
     return Array.isArray(data) ? data : data.jobs || [];

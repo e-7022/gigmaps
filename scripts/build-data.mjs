@@ -48,6 +48,9 @@ const idByTitle = new Map();
 for (const [, list] of layers.slice(1)) for (const r of list) if (r.id && !idByTitle.has(titleKey(r))) idByTitle.set(titleKey(r), r.id);
 
 const byId = new Map();
+const byUrl = new Map();
+const byTitle = new Map();
+const normUrl = (u) => (u ? String(u).split(/[?#]/)[0].replace(/\/$/, "").toLowerCase() : "");
 for (const [name, list] of layers) {
   for (const raw0 of list) {
     const raw = !raw0.id && idByTitle.has(titleKey(raw0)) ? { ...raw0, id: idByTitle.get(titleKey(raw0)) } : raw0;
@@ -57,7 +60,19 @@ for (const [name, list] of layers) {
       warn(`skip ${j.id}: unknown platform "${j.platform}" (add it to src/data/platforms.ts)`);
       continue;
     }
-    if (!byId.has(j.id)) byId.set(j.id, j);
+    if (byId.has(j.id)) continue;
+    // Вакансия из скрапера, которая уже есть в ручном списке (та же ссылка или название): берём её статус, карточку оставляем ручную
+    if (name === "scraped") {
+      const twin = byUrl.get(normUrl(j.url)) || byTitle.get(titleKey(j));
+      if (twin) {
+        if (j.status === "closed" && twin.status !== "closed") Object.assign(twin, { status: "closed", closedAt: j.closedAt });
+        if (j.lastSeen) twin.lastSeen = j.lastSeen;
+        continue;
+      }
+    }
+    byId.set(j.id, j);
+    if (j.url) byUrl.set(normUrl(j.url), j);
+    byTitle.set(titleKey(j), j);
   }
 }
 

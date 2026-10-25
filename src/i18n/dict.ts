@@ -25,7 +25,7 @@ export interface Dict {
     empty: string;
     jobs: PluralForms;
   };
-  cat: Record<"audio" | "design" | "language" | "general", string>;
+  cat: Record<"audio" | "design" | "language" | "tech" | "science" | "medicine" | "law" | "business" | "general", string>;
   elig: Record<"yes" | "likely" | "unknown" | "no", string>;
   payout: Record<"works" | "likely" | "unknown" | "blocked", string>;
   overall: Record<"available" | "maybe" | "unavailable", string>;
@@ -125,7 +125,7 @@ const en: Dict = {
     empty: "No jobs match these filters. Try relaxing one of them.",
     jobs: { one: "job", other: "jobs" },
   },
-  cat: { audio: "Music & audio", design: "Design, photo, video", language: "Languages", general: "General tasks" },
+  cat: { audio: "Music & audio", design: "Design, photo, video", language: "Languages", tech: "Tech & data", science: "Science & engineering", medicine: "Medicine", law: "Law", business: "Business & finance", general: "General tasks" },
   elig: { yes: "Eligible (official)", likely: "Likely eligible", unknown: "Eligibility unknown", no: "Not eligible" },
   payout: { works: "Payouts work", likely: "Payouts likely", unknown: "Payouts unclear", blocked: "No working payout" },
   overall: { available: "Available", maybe: "Check first", unavailable: "Not available" },
@@ -247,7 +247,7 @@ const ru: Dict = {
     empty: "Под эти фильтры ничего не нашлось. Ослабьте один из них.",
     jobs: { one: "вакансия", few: "вакансии", many: "вакансий", other: "вакансии" },
   },
-  cat: { audio: "Музыка и аудио", design: "Дизайн, фото, видео", language: "Языки", general: "Общие задачи" },
+  cat: { audio: "Музыка и аудио", design: "Дизайн, фото, видео", language: "Языки", tech: "IT и данные", science: "Наука и инженерия", medicine: "Медицина", law: "Право", business: "Бизнес и финансы", general: "Общие задачи" },
   elig: { yes: "Допуск подтверждён", likely: "Вероятно допустят", unknown: "Допуск неизвестен", no: "Не допускают" },
   payout: { works: "Выплаты работают", likely: "Выплаты вероятно", unknown: "Выплаты неясны", blocked: "Нет рабочих выплат" },
   overall: { available: "Доступно", maybe: "Проверить", unavailable: "Недоступно" },
@@ -369,7 +369,7 @@ const es: Dict = {
     empty: "Ninguna vacante coincide. Prueba a relajar algún filtro.",
     jobs: { one: "vacante", other: "vacantes" },
   },
-  cat: { audio: "Música y audio", design: "Diseño, foto, vídeo", language: "Idiomas", general: "Tareas generales" },
+  cat: { audio: "Música y audio", design: "Diseño, foto, vídeo", language: "Idiomas", tech: "Tecnología y datos", science: "Ciencia e ingeniería", medicine: "Medicina", law: "Derecho", business: "Negocios y finanzas", general: "Tareas generales" },
   elig: { yes: "Elegible (oficial)", likely: "Probablemente elegible", unknown: "Elegibilidad desconocida", no: "No elegible" },
   payout: { works: "Pagos funcionan", likely: "Pagos probables", unknown: "Pagos inciertos", blocked: "Sin método de pago" },
   overall: { available: "Disponible", maybe: "Comprobar", unavailable: "No disponible" },
@@ -491,7 +491,7 @@ const fr: Dict = {
     empty: "Aucune offre ne correspond. Assouplissez un filtre.",
     jobs: { one: "offre", other: "offres" },
   },
-  cat: { audio: "Musique et audio", design: "Design, photo, vidéo", language: "Langues", general: "Tâches générales" },
+  cat: { audio: "Musique et audio", design: "Design, photo, vidéo", language: "Langues", tech: "Tech et données", science: "Sciences et ingénierie", medicine: "Médecine", law: "Droit", business: "Business et finance", general: "Tâches générales" },
   elig: { yes: "Éligible (officiel)", likely: "Probablement éligible", unknown: "Éligibilité inconnue", no: "Non éligible" },
   payout: { works: "Paiements OK", likely: "Paiements probables", unknown: "Paiements incertains", blocked: "Aucun paiement possible" },
   overall: { available: "Accessible", maybe: "À vérifier", unavailable: "Inaccessible" },
@@ -613,7 +613,7 @@ const zh: Dict = {
     empty: "没有符合条件的岗位。请放宽筛选条件。",
     jobs: { one: "个岗位", other: "个岗位" },
   },
-  cat: { audio: "音乐与音频", design: "设计、摄影、视频", language: "语言", general: "通用任务" },
+  cat: { audio: "音乐与音频", design: "设计、摄影、视频", language: "语言", tech: "技术与数据", science: "科学与工程", medicine: "医学", law: "法律", business: "商业与金融", general: "通用任务" },
   elig: { yes: "可申请（官方）", likely: "可能可申请", unknown: "资格未知", no: "不可申请" },
   payout: { works: "可收款", likely: "可能可收款", unknown: "收款不明", blocked: "无可用收款方式" },
   overall: { available: "可申请", maybe: "需确认", unavailable: "不可用" },

@@ -3,7 +3,7 @@ import { COUNTRIES, SANCTIONED } from "./countries";
 import { bestPayout, type PayoutStatus } from "./rails";
 import { getPlatform, platformApply, platformElig, type Elig, type Platform } from "./platforms";
 
-export type Category = "audio" | "design" | "language" | "general";
+export type Category = "audio" | "design" | "language" | "tech" | "science" | "medicine" | "law" | "business" | "general";
 export type English = "basic" | "written" | "fluent" | "unknown";
 export type JobStatus = "open" | "maybe" | "pool" | "closed";
 

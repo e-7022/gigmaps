@@ -1,7 +1,16 @@
 // Общие функции для скрапера, сборки данных и импорта файлов.
 // Без зависимостей: работает в Node 18+ и в GitHub Actions.
 
-export const CATEGORIES = ["audio", "design", "language", "general"];
+export const CATEGORIES = ["audio", "design", "language", "tech", "science", "medicine", "law", "business", "general"];
+
+// Направления micro1 (domain_slug) → категории сайта
+const DOMAIN_CATS = {
+  "language-audio": ["audio", "language"], "arts-design": ["design"], "software-engineering": ["tech"],
+  "ai-machine-learning": ["tech"], "data-analysis": ["tech"], "cybersecurity": ["tech"], "robotics": ["tech"],
+  "applied-engineering": ["science"], "sciences-research": ["science"], "medicine": ["medicine"], "law": ["law"],
+  finance: ["business"], "business-operations": ["business"], "sales-marketing": ["business"],
+  "retail-hospitality": ["business"], education: ["general"], humanities: ["general"], generalist: ["general"], other: [],
+};
 export const ENGLISH = ["basic", "written", "fluent", "unknown"];
 export const STATUSES = ["open", "maybe", "pool", "closed"];
 
@@ -51,12 +60,19 @@ export function stripHtml(html = "") {
     .trim();
 }
 
-export function detectCategories(text) {
+export function detectCategories(text, domain) {
   const t = text.toLowerCase();
-  const out = [];
+  const out = [...(DOMAIN_CATS[domain] ?? [])];
   if (/(music|audio|sound|voice|vocal|singer|podcast|speech|song|lyric|stem|mixing|mastering|daw)/.test(t)) out.push("audio");
   if (/(design|photo|video|visual|art\b|artist|creative|illustrat|animation|3d|film|cinemat|ux|ui\b)/.test(t)) out.push("design");
-  if (/(language|bilingual|translat|linguist|native|locali)/.test(t) || detectLanguage(t)) out.push("language");
+  if (/(language|bilingual|translat|linguist|native|locali|transcri)/.test(t) || detectLanguage(t)) out.push("language");
+  if (!out.length) {
+    if (/(software|engineer|developer|coding|python|machine learning|\bml\b|data scien|cyber|security)/.test(t)) out.push("tech");
+    else if (/(physician|medical|nurse|doctor|clinical|dentist|pharma|health)/.test(t)) out.push("medicine");
+    else if (/(attorney|lawyer|legal|law\b|paralegal)/.test(t)) out.push("law");
+    else if (/(financ|accounting|banking|invest|marketing|sales|operations)/.test(t)) out.push("business");
+    else if (/(phd|research|chemist|biolog|physic|mathemat|stem)/.test(t)) out.push("science");
+  }
   if (!out.length) out.push("general");
   return [...new Set(out)];
 }
@@ -121,13 +137,14 @@ export function normalizeJob(raw, warn = () => {}) {
     status: STATUSES.includes(raw.status) ? raw.status : "open",
     source: raw.source ?? "manual",
   };
-  if (!j.categories.length) j.categories = detectCategories(text);
+  if (!j.categories.length) j.categories = detectCategories(text, raw.domain);
   const num = (v) => (v === "" || v == null || Number.isNaN(+v) ? undefined : Math.round(+v));
   j.payMin = num(raw.payMin);
   j.payMax = num(raw.payMax);
   if (j.payMin == null && j.payMax == null) Object.assign(j, parsePay(text));
   if (raw.payUnit === "task") j.payUnit = "task";
   j.language = raw.language || detectLanguage(raw.title);
+  if (j.language === "en") delete j.language;
   if (raw.degree === true || raw.degree === "true" || raw.degree === "1" || raw.degree === "yes") j.degree = true;
   else if (raw.degree == null || raw.degree === "") j.degree = detectDegree(text);
   if (raw.posted) j.posted = String(raw.posted).slice(0, 10);
