@@ -24,6 +24,7 @@ const today = new Date().toISOString().slice(0, 10);
 const UA = "Mozilla/5.0 (compatible; GigmapBot/1.0; +https://github.com/e-7022/gigmaps)";
 
 async function getJson(url, init = {}, src) {
+  if (src._import) return src._import;
   if (FIX) return JSON.parse(await readFile(path.join(FIX, `${src.id}.json`), "utf8"));
   const res = await fetch(url, { ...init, headers: { "User-Agent": UA, Accept: "application/json", ...(init.headers || {}) }, signal: AbortSignal.timeout(30000) });
   const text = await res.text();
@@ -97,7 +98,7 @@ const adapters = {
     const out = [];
     for (let page = 1; page <= 30; page++) {
       const url = `https://prod-api.micro1.ai/api/v1/job/portal?page=${page}&limit=100&keyword=`;
-      const data = FIX
+      const data = FIX || src._import
         ? page === 1 ? await getJson(url, {}, src) : { data: [] }
         : await getJson(
             url,
@@ -135,6 +136,17 @@ const adapters = {
   },
 };
 
+const IMPORT_MAX_AGE_DAYS = 3;
+async function readImport(id) {
+  try {
+    const imp = JSON.parse(await readFile(path.join(ROOT, "data/import", `${id}.json`), "utf8"));
+    const age = (Date.now() - new Date(imp.fetchedAt).getTime()) / 864e5;
+    return age <= IMPORT_MAX_AGE_DAYS ? imp : null;
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const cfg = JSON.parse(await readFile(path.join(ROOT, "scripts/sources.json"), "utf8"));
   let prev = [];
@@ -150,7 +162,18 @@ async function main() {
     const inc = src.include ? new RegExp(src.include, "i") : null;
     const exc = src.exclude ? new RegExp(src.exclude, "i") : null;
     try {
-      const raw = await adapters[src.type](src);
+      let raw;
+      try {
+        raw = await adapters[src.type](src);
+        if (!raw.length) throw new Error("source returned 0 jobs");
+      } catch (e) {
+        // Запасной вариант: файл, выгруженный из браузера и загруженный через админку (data/import/<id>.json)
+        const imp = await readImport(src.id);
+        if (!imp) throw e;
+        src._import = imp;
+        raw = await adapters[src.type](src);
+        report.push(`  ${src.id}: live fetch failed (${e.message.slice(0, 80)}), used import from ${imp.fetchedAt}`);
+      }
       const seen = new Set();
       let added = 0;
       for (const r of raw) {

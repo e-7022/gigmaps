@@ -42,7 +42,10 @@ export default async function JobPage({ params }: Props) {
   const pay = formatPay(j.payMin, j.payMax, lang, j.payUnit);
   const { href, isRef } = applyUrl(j);
   const om = overallMap(j);
-  const others = jobs.filter((x) => x.platform === j.platform && x.id !== j.id);
+  const others = jobs
+    .filter((x) => x.platform === j.platform && x.id !== j.id && x.status !== "closed")
+    .sort((a, b) => Number(b.categories.some((c) => j.categories.includes(c))) - Number(a.categories.some((c) => j.categories.includes(c))))
+    .slice(0, 6);
 
   const eligible = COUNTRIES.filter((cc) => {
     const e = jobElig(j, cc);

@@ -23,6 +23,8 @@ export interface Dict {
     sortNew: string;
     reset: string;
     empty: string;
+    showMore: string;
+    seeAll: string;
     jobs: PluralForms;
   };
   cat: Record<"audio" | "design" | "language" | "tech" | "science" | "medicine" | "law" | "business" | "general", string>;
@@ -122,6 +124,8 @@ const en: Dict = {
     sortPay: "Highest pay",
     sortNew: "Newest",
     reset: "Reset filters",
+    showMore: "Show more",
+    seeAll: "See all {n} jobs",
     empty: "No jobs match these filters. Try relaxing one of them.",
     jobs: { one: "job", other: "jobs" },
   },
@@ -244,6 +248,8 @@ const ru: Dict = {
     sortPay: "По ставке",
     sortNew: "Новые",
     reset: "Сбросить фильтры",
+    showMore: "Показать ещё",
+    seeAll: "Все вакансии ({n})",
     empty: "Под эти фильтры ничего не нашлось. Ослабьте один из них.",
     jobs: { one: "вакансия", few: "вакансии", many: "вакансий", other: "вакансии" },
   },
@@ -366,6 +372,8 @@ const es: Dict = {
     sortPay: "Mejor pagadas",
     sortNew: "Más recientes",
     reset: "Restablecer filtros",
+    showMore: "Mostrar más",
+    seeAll: "Ver las {n} vacantes",
     empty: "Ninguna vacante coincide. Prueba a relajar algún filtro.",
     jobs: { one: "vacante", other: "vacantes" },
   },
@@ -488,6 +496,8 @@ const fr: Dict = {
     sortPay: "Mieux payées",
     sortNew: "Plus récentes",
     reset: "Réinitialiser les filtres",
+    showMore: "Afficher plus",
+    seeAll: "Voir les {n} offres",
     empty: "Aucune offre ne correspond. Assouplissez un filtre.",
     jobs: { one: "offre", other: "offres" },
   },
@@ -610,6 +620,8 @@ const zh: Dict = {
     sortPay: "报酬最高",
     sortNew: "最新",
     reset: "重置筛选",
+    showMore: "显示更多",
+    seeAll: "查看全部 {n} 个岗位",
     empty: "没有符合条件的岗位。请放宽筛选条件。",
     jobs: { one: "个岗位", other: "个岗位" },
   },

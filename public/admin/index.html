@@ -63,6 +63,20 @@
     <div class="msg" id="jobs-msg" role="status" aria-live="polite"></div>
   </section>
 
+  <section class="card" aria-labelledby="imp-h">
+    <h2 id="imp-h">micro1 (из браузера)</h2>
+    <p>micro1 не отдаёт вакансии серверам GitHub, поэтому их забирают из вашего браузера. Один раз перетащите кнопку <b>«micro1 → файл»</b> на панель закладок. Дальше раз в день: откройте <a href="https://www.micro1.ai/experts/opportunities" target="_blank" rel="noopener">micro1.ai/experts/opportunities</a>, нажмите закладку — скачается файл <code>micro1-jobs-ДАТА.json</code> — и загрузите его сюда. Новые вакансии появятся на сайте, исчезнувшие станут закрытыми.</p>
+    <div class="row"><a class="btn" id="bm" href="#">micro1 → файл</a></div>
+    <label class="drop" id="imp-drop" style="margin-top:14px">
+      <input type="file" id="imp-file" accept=".json,application/json">
+      <span id="imp-name"><b>Выберите micro1-jobs.json</b> или перетащите сюда</span>
+    </label>
+    <div class="row">
+      <button class="primary" type="button" id="imp-send">Загрузить выгрузку micro1</button>
+    </div>
+    <div class="msg" id="imp-msg" role="status" aria-live="polite"></div>
+  </section>
+
   <section class="card" aria-labelledby="ref-h">
     <h2 id="ref-h">Реферальные ссылки</h2>
     <p>CSV с колонками <code>platform,url,code</code> или JSON <code>{"micro1": {"url": "https://…"}}</code>. Кнопка «Откликнуться» на всех вакансиях платформы поведёт на эту ссылку.</p>
@@ -89,6 +103,7 @@
   </section>
 </main>
 <script>
+var BOOKMARKLET = "javascript:(async()=>{if(!/micro1\\.ai$/.test(location.hostname)){alert('\u041e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 micro1.ai/experts/opportunities \u0438 \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0443 \u0442\u0430\u043c');return}const a=[];for(let p=1;p<=15;p++){const r=await fetch('https://prod-api.micro1.ai/api/v1/job/portal?page='+p+'&limit=100&keyword=',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'get_all_jobs'})}).then(r=>r.json());if(!r.data||!r.data.length)break;a.push(...r.data);if(a.length>=r.total)break}const b=new Blob([JSON.stringify({source:'micro1-portal',fetchedAt:new Date().toISOString(),total:a.length,data:a})],{type:'application/json'});const l=document.createElement('a');l.href=URL.createObjectURL(b);l.download='micro1-jobs-'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(l);l.click();alert('micro1: \u0441\u043a\u0430\u0447\u0430\u043d\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439 \u2014 '+a.length)})()";
 (function () {
   var pw = document.getElementById("pw");
   try { pw.value = sessionStorage.getItem("gigmap.admin") || ""; } catch (e) {}
@@ -107,6 +122,9 @@
   }
   wireDrop("jobs-drop", "jobs-file", "jobs-name");
   wireDrop("ref-drop", "ref-file", "ref-name");
+  wireDrop("imp-drop", "imp-file", "imp-name");
+  document.getElementById("bm").setAttribute("href", BOOKMARKLET);
+  document.getElementById("bm").addEventListener("click", function (e) { e.preventDefault(); alert("Перетащите эту кнопку на панель закладок браузера."); });
 
   function upload(kind, inputId, btnId, msgId) {
     var btn = document.getElementById(btnId);
@@ -125,6 +143,7 @@
   }
   upload("jobs", "jobs-file", "jobs-send", "jobs-msg");
   upload("referrals", "ref-file", "ref-send", "ref-msg");
+  upload("import", "imp-file", "imp-send", "imp-msg");
 
   var run = document.getElementById("run");
   run.addEventListener("click", function () {

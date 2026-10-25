@@ -35,7 +35,7 @@ export default async function Home({ params }: Props) {
     "@type": "ItemList",
     name: d.meta.tagline,
     numberOfItems: jobs.length,
-    itemListElement: jobs.map((j, i) => ({
+    itemListElement: jobs.filter((j) => j.status !== "closed").slice(0, 100).map((j, i) => ({
       "@type": "ListItem",
       position: i + 1,
       name: `${j.title} — ${jobPlatform(j).name}`,

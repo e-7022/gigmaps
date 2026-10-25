@@ -1,0 +1,3091 @@
+{
+ "source": "micro1-portal",
+ "fetchedAt": "2026-10-25T21:30:00Z",
+ "total": 282,
+ "data": [
+  {
+   "job_id": "ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
+   "job_name": "Procurement & Vendor Management Expert",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7c577ab9-89b0-4104-b22e-89b1408187d6",
+   "job_name": "HR & People Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
+   "job_name": "Business Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c05c79ea-1396-4eba-8ca2-95573e981860",
+   "job_name": "Legal & Compliance Expert",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "00ad74df-491a-4327-a38c-5dc7d484ad77",
+   "job_name": "Finance & Accounting Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 90
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7feee246-52db-48df-880c-58a87bbc9c65",
+   "job_name": "Defense Analyst",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b41b55bc-97ef-473f-ad12-f7434a652fda",
+   "job_name": "Army Combat Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
+   "job_name": "Military Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fdc2913f-8c00-4a0e-b4dc-9cd9c500dd05",
+   "job_name": "Weapons Systems Operator",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3afa60e3-4c33-4a5c-b6af-ca18270cc5b7",
+   "job_name": "Special Forces Operator",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a31aab52-c227-4f92-9283-2aa5020aaa84",
+   "job_name": "Transportation and Warehousing Expert",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 70
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "761ff1a6-68bf-4e45-8047-41f475c66823",
+   "job_name": "Fighter Pilot",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6f83d131-cbf2-4817-a66f-99e05104eb47",
+   "job_name": "Rust Architect / Backend Developer",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-10-24",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f08acc61-44ab-45a4-a6dd-85aaadb7cc24",
+   "job_name": "Sales / Revenue / CS Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 85
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5",
+   "job_name": "Revenue Operations Specialist (SaaS)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "82ba10ad-8dbd-49ce-bc11-a83b9bb2169f",
+   "job_name": "AI Agent Tester - Real-World Tasks",
+   "ideal_hourly_rate": {
+    "min": 25,
+    "max": 45
+   },
+   "date_posted": "2026-10-24",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4307f05a-fbd1-4913-91a2-432c782023fb",
+   "job_name": "Applied Scientists — Machine Learning (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "16e1c68d-4f30-431f-a0f8-aa57d4b0893e",
+   "job_name": "Machine Learning Researcher (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
+   "job_name": "Humanitarian Aid Representative",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 70
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "humanities",
+   "engagement_type": null
+  },
+  {
+   "job_id": "21bb587d-cd06-407b-95eb-44a44a5dc803",
+   "job_name": "Military Legal Advisor",
+   "ideal_hourly_rate": {
+    "min": 70,
+    "max": 120
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "36174963-012b-4a8d-b955-12d48aac7b6f",
+   "job_name": "Human Intelligence Collector (HUMINT)",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 80
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+   "job_name": "Intelligence Analyst",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 80
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
+   "job_name": "Generalist",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 49
+   },
+   "date_posted": "2026-10-23",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0db2a044-3c6c-47e9-b610-292eddd305d2",
+   "job_name": "Data Science & Analytic Methodology SME",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 100
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "data-analysis",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f3f5d9b3-7524-4b58-8503-347eafca3b25",
+   "job_name": "Cyber Threat Intelligence SME",
+   "ideal_hourly_rate": {
+    "min": 70,
+    "max": 110
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a287e691-92ad-4e86-bacc-322b0e92aeec",
+   "job_name": "Combat Arms & Targeting SME",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 110
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1031bd16-b859-454b-a97c-a3b8ce1c606c",
+   "job_name": "Lawyer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
+   "job_name": "Senior Marine Cargo and Draft Surveyor",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 60
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fb90c558-6459-4695-aea3-9a5959526f67",
+   "job_name": "Senior Cargo and Parcel Claims Examiner",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 60
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fd986cf9-2c5e-4945-ba63-da6b5b9e06d4",
+   "job_name": "Senior Insurance Claims Expert (Liability, Property, Contents)",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 60
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0e78e401-56d5-423c-8b26-bcf85bab25ff",
+   "job_name": "Junior Lawyer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dc2ca458-5a54-4d0a-971b-3e9aff15a123",
+   "job_name": "Law Student",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9701abf9-febd-4f13-9183-80257478f22a",
+   "job_name": "Mathematics Expert (MSc./PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
+   "job_name": "US Macroeconomist",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5b15b9c9-39d5-4c20-a46f-2a279ec9ec3f",
+   "job_name": "Investment Funds & Asset Management Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5f79859b-3572-42b7-8edc-8ad91532a5cb",
+   "job_name": "Venture Capital & Corporate Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "08a19d61-5371-48c5-94c5-8b57b503f023",
+   "job_name": "FDA & Regulatory Compliance Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "114d9490-fbb0-4533-b891-73d0ee1c859d",
+   "job_name": "Structured Finance Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9dfaae74-1d7b-4742-9303-1a8888f68084",
+   "job_name": "Military Law Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "25ad9f14-76f3-44e2-a521-23b2db426786",
+   "job_name": "Media, Publishing & Communications Law Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1ed51c75-9e40-41a7-a0b3-b7944ef3dedc",
+   "job_name": "Product Safety & Regulatory Compliance Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e8e5f75c-9a53-49c5-a0a8-d5fe54dfda81",
+   "job_name": "Gaming & Gambling Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4915aabd-6a72-46fd-a436-6717ce826afd",
+   "job_name": "Immigration Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "acdf726a-da53-48e9-9343-4b4a4cd29170",
+   "job_name": "Family Law Attorney (AAML Registered)",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f1bc4dbe-39df-4aa5-ac08-fc3e41c40fb1",
+   "job_name": "Healthcare Attorney (BigLaw Firms)",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2116b175-8be3-49bd-8636-dd3ecef38d70",
+   "job_name": "Civil Rights Attorney (BigLaw Firms)",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "95264730-9ca8-479c-971e-a7ed7468f03e",
+   "job_name": "Litigation Associate Attorney (BigLaw Firms)",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2f7c4611-a5b1-4e6a-be39-d11c167573a0",
+   "job_name": "Corporate Attorney (BigLaw Firms)",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e788e018-6c54-4116-a975-1e5d6144429b",
+   "job_name": "Energy & Utilities Regulatory Attorney",
+   "ideal_hourly_rate": {
+    "min": 140,
+    "max": 400
+   },
+   "date_posted": "2026-10-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f796a3ec-8108-4e21-9497-f70b6d3ff3b1",
+   "job_name": "Life Sciences Research Expert (Python)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-21",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
+   "job_name": "Inpatient Medical Coder",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-21",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c476c74d-96cc-4254-ab50-282849e9de5b",
+   "job_name": "Domain Contributor - Evaluation Specialist",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 60
+   },
+   "date_posted": "2026-10-21",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "deb49cd2-8d5f-4600-8baf-7b2cd5656eea",
+   "job_name": "Research Evaluation Specialist (PhD or Masters / Researcher / Professor)",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 60
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3a5698cc-bce4-4ec6-b992-b948a5c46a2b",
+   "job_name": "Evaluation Specialist/Recent Grad",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 60
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
+   "job_name": "Certified Inpatient Coder",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a0417769-16cd-43a1-a5c7-1226f2b10932",
+   "job_name": "Inpatient Coder (CCS)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6fe1b365-e42d-4a8f-a474-89801118311e",
+   "job_name": "Inpatient Care Physician (MD/DO)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 115
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+   "job_name": "Photographer",
+   "ideal_hourly_rate": {
+    "min": 35,
+    "max": 105
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "arts-design",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f78b7cdc-5357-4f5c-b86c-92d88b5de36d",
+   "job_name": "Bluebook Citation Specialist (Law Students & Recent JDs)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "20ea0fc0-b120-4115-83d0-d6bd2b8c8943",
+   "job_name": "Law Review Cite-Checker",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d44dc694-8535-4f4c-8b2b-1b576839e74a",
+   "job_name": "Legal Citation Specialist (Law Students)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3b349b7b-de4d-4763-8aad-e4afff866be3",
+   "job_name": "Dentist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 285
+   },
+   "date_posted": "2026-10-19",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
+   "job_name": "Dentist (DDS/DMD) - Dental Technology",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 285
+   },
+   "date_posted": "2026-10-19",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
+   "job_name": "Investment Banking Associate",
+   "ideal_hourly_rate": {
+    "min": 120,
+    "max": 150
+   },
+   "date_posted": "2026-10-17",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "00276647-e6e5-467b-92d8-1018fe2c7278",
+   "job_name": "US-Licensed Physician",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 125
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ab08cc42-f7e0-4565-b306-11e55beb613f",
+   "job_name": "PhysioNet Competitor (Biomedical Signal Processing & ML)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7944c9e5-73a0-45a0-b298-d93be3db08ed",
+   "job_name": "STEM Expert (MSc./PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "be0ac227-30ab-4126-bde8-e1e0660c940f",
+   "job_name": "ML Engineer (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e",
+   "job_name": "Puzzle Solver (Coding)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "44fc17a0-8964-4970-979b-dd975baad36d",
+   "job_name": "Mechanical Engineering Expert (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "99ef9e98-e4de-4503-b2e3-980390dab872",
+   "job_name": "Aerodynamics Expert (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "aa1993c5-2079-40ac-ad0a-09ebfd77960d",
+   "job_name": "Hardware Expert (MSc. or PhD)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0733d72e-0d2a-4420-9f18-f2bb3d889d47",
+   "job_name": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d7372be7-b297-494d-9f74-20f297d6792a",
+   "job_name": "STEM Expert – Biology & Bioinformatics (PhD)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8648356b-1e04-4d62-bfcc-c72c3d5993b0",
+   "job_name": "English Voice Recording",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 70
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5ba40f6e-b9a0-4a61-91fd-004516fb27f8",
+   "job_name": "App Security Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "cybersecurity",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dfb2a79d-fb7a-4b6f-b867-733289e253c7",
+   "job_name": "Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "22ab4fe5-f39d-4d8a-97f7-db7c16ff79e2",
+   "job_name": "Clinical, Microbiome & Translational Research Scientist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7365d348-e98a-4999-a018-2415a6a737ca",
+   "job_name": "Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "29120525-ef73-4aa9-9a77-9fa59009d4d3",
+   "job_name": "Computational Biology & Bioinformatics Expert (PhD)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a58e1af4-14c2-42a6-8e48-301448d8e61c",
+   "job_name": "Applied Scientist",
+   "ideal_hourly_rate": {
+    "min": 245,
+    "max": 280
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
+   "job_name": "Education Practitioner - Learning & Assessment Specialist",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 130
+   },
+   "date_posted": "2026-10-15",
+   "domain_slug": "education",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
+   "job_name": "Lawyer",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "abdb5807-b650-4eb8-b4e4-20a5a834301d",
+   "job_name": "Tax Attorney",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "68d31799-41cb-4899-987b-527eba2ef40a",
+   "job_name": "Employment Lawyer",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e",
+   "job_name": "Personal Injury Lawyer",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c81e832c-d6fd-4d6e-9f40-3df9bedbf18f",
+   "job_name": "Bilingual Medical Doctor (Korean)",
+   "ideal_hourly_rate": {
+    "min": 125,
+    "max": 125
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d8efbdbf-cb11-428d-bcef-7d9d8d197dfa",
+   "job_name": "Bilingual Medical Doctor (Japanese)",
+   "ideal_hourly_rate": {
+    "min": 125,
+    "max": 125
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f65069d1-f642-4b92-b8f2-76685acbe473",
+   "job_name": "Agriculture, Forestry & Environmental Experts",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 60
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "678001af-5fc0-4173-8320-3b0dc183651d",
+   "job_name": "Retail Trade & Operations Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 70
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "retail-hospitality",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f29dc369-f46f-443e-986b-7120eebe9225",
+   "job_name": "Software Engineer (Open Source Contributor)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "51d28c89-faea-4ff7-8ea5-181b4a6dce86",
+   "job_name": "Investment Banking – M&A Advisory.",
+   "ideal_hourly_rate": {
+    "min": 175,
+    "max": 300
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "168285a8-8063-447f-b55b-222c1da4c7c2",
+   "job_name": "Software Engineer (GitHub Contributor)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-10-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
+   "job_name": "Associate Recruiter (San Francisco based)",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 65
+   },
+   "date_posted": "2026-10-13",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "612ae8d5-8e3d-4750-b779-b3a0e3e02a52",
+   "job_name": "Privacy Analyst",
+   "ideal_hourly_rate": {
+    "min": 31,
+    "max": 60
+   },
+   "date_posted": "2026-10-13",
+   "domain_slug": "data-analysis",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3cfe73e9-28fa-4b8f-a0b7-bdba2b00f3ef",
+   "job_name": "Research Scientist - Computer Science & Computational Physics",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 400
+   },
+   "date_posted": "2026-10-13",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "83ed9d66-130e-4c8f-8e9f-b1d18acdcf98",
+   "job_name": "Principal Research Scientist (Computer Science / Computational Physics)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 400
+   },
+   "date_posted": "2026-10-13",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
+   "job_name": "Competitive Data Scientist (Kaggle)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "622203dd-c0fa-49fc-aae4-6bd742196597",
+   "job_name": "Junior Data Scientist",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 200
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9f949afd-0b76-43d9-93aa-d94a6b479943",
+   "job_name": "Physician AI Trainer – Hospital Medicine",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 125
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fc2b7fdd-2071-416b-8985-23c2976b7d1b",
+   "job_name": "Locum Tenens Hospitalist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 125
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d34e7bec-c2e6-434a-94cf-06355b71ea45",
+   "job_name": "Postal Clerk",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 45
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dc6478b1-00fc-4fd8-929a-6658e39f8553",
+   "job_name": "Medical Specialist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 115
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2332e3d6-3b9a-4f09-be33-a21b73150544",
+   "job_name": "Usability Tester",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a3f69448-b7a9-46b1-9104-17461122ca66",
+   "job_name": "Spanish-Language Consumer Reviewer",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f6338e16-d6aa-4fab-bedc-f93a0c594294",
+   "job_name": "Consumer Reviewer",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5baacaee-bc03-4184-ba84-9b5fc84b3351",
+   "job_name": "211 Specialist",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 40
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dd877e32-2969-494a-af25-c40b2bb96abc",
+   "job_name": "Bilingual (Spanish) Benefits Counselor",
+   "ideal_hourly_rate": {
+    "min": 35,
+    "max": 50
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c7ffca93-f98e-41e6-96db-a17c89b8606d",
+   "job_name": "National Park Ranger",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 45
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "bb117da1-3d6d-41d7-9bb5-69beff1f1104",
+   "job_name": "Financial Aid Advisor",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 50
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "657dcfd9-f374-4371-bf9b-9ba13557fe6f",
+   "job_name": "VA Eligibility Specialist",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 50
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2582f414-1be9-4ac0-9375-01d2f3187217",
+   "job_name": "Veterans Service Officer",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 60
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "cf02a995-bac4-4503-b872-cb8cdbc536de",
+   "job_name": "Consular Officer / Passport Specialist",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c3c2db93-38c2-4a62-8f9f-81b65cdb5c10",
+   "job_name": "Passport Acceptance Agent",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 40
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a6091fe2-e1e0-4460-b9db-6a513ceead46",
+   "job_name": "Medicare Enrollment Specialist",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 60
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "10b91117-cedd-42c0-a468-b056ad004ec3",
+   "job_name": "SHIP Medicare Counselor",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 60
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8f201c75-ddff-42d1-93a6-c88bb330b7cf",
+   "job_name": "Data Privacy Analyst",
+   "ideal_hourly_rate": {
+    "min": 31,
+    "max": 60
+   },
+   "date_posted": "2026-10-12",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "90f04fad-832c-44b2-b942-311422a5841f",
+   "job_name": "Internal Medicine Hospitalist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 115
+   },
+   "date_posted": "2026-10-10",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "53c7be96-8120-4346-9b0d-ec8363614e08",
+   "job_name": "Pediatric Hospitalist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 115
+   },
+   "date_posted": "2026-10-10",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c8cdec0c-76b7-40ae-9764-fb170200408a",
+   "job_name": "Quantitative Rates Researcher",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 150
+   },
+   "date_posted": "2026-10-09",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3fee8e97-5dce-42bd-a8a1-68133f04449a",
+   "job_name": "Rates trader",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 100
+   },
+   "date_posted": "2026-10-09",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ff33f551-ce15-4d0f-96a7-1b03b53776e4",
+   "job_name": "Family Medicine Hospitalist",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 115
+   },
+   "date_posted": "2026-10-09",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "2fea94b5-2f19-4287-b776-f061b413a00f",
+   "job_name": "AI Agent Evaluator",
+   "ideal_hourly_rate": {
+    "min": 25,
+    "max": 45
+   },
+   "date_posted": "2026-10-09",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "40652c88-e755-454c-b41b-d50f8bc34198",
+   "job_name": "Hospitalist Physician",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 120
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe",
+   "job_name": "Family Medicine Physician (MD)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 120
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c25ab1f0-c287-4061-b30b-e13c32372fc2",
+   "job_name": "Registered Nurse",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 70
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9461932b-7cfe-41c8-b7db-4d0b0d599187",
+   "job_name": "Medical Coder (CCS / CIC)",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0c6952e3-b783-407c-a451-b92996992038",
+   "job_name": "Litigation Attorney",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 170
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
+   "job_name": "Senior Data Analyst",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 60
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
+   "job_name": "Recruitment Marketing Specialist",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 40
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "sales-marketing",
+   "engagement_type": null
+  },
+  {
+   "job_id": "404112c9-2082-4e4e-b9f1-a04b8a58a317",
+   "job_name": "Equity/Investment Research Analyst",
+   "ideal_hourly_rate": {
+    "min": 175,
+    "max": 300
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "65311636-4135-402d-8c84-cee8b2dcefdc",
+   "job_name": "Hospitalist Physician",
+   "ideal_hourly_rate": {
+    "min": 70,
+    "max": 115
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3ca164ec-a540-4f18-b298-09c54c377eb2",
+   "job_name": "Imagery Analyst - AI/ML Training Data",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 60
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
+   "job_name": "Medical Coder",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 32
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "31dc936e-0f29-441f-baf9-91c2ff9cc7d4",
+   "job_name": "Senior Mobile Developer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "15258a67-70c6-418b-aabc-af3bb643a336",
+   "job_name": "Paid Photo Contributor Opportunity (Alaska-based)",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-10-07",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6fb2682b-0443-47ad-a9e4-dc56e26d053b",
+   "job_name": "Paid Photo Contributor Opportunity (Hawaii-based)",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-10-07",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "190225df-d67a-402d-bd7f-d9c7c40bb693",
+   "job_name": "Game Developer",
+   "ideal_hourly_rate": {
+    "min": 25,
+    "max": 70
+   },
+   "date_posted": "2026-10-07",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0c0c4da1-6f51-46c2-91f4-13373c7284f7",
+   "job_name": "Graphic Designer",
+   "ideal_hourly_rate": {
+    "min": 35,
+    "max": 105
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "data-analysis",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9a648ee0-2d83-4453-89f5-19df3deb295c",
+   "job_name": "SaaS Contracts Counsel",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 110
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "cbbe4909-70e3-4917-a26b-bc82d89fbb1b",
+   "job_name": "Swiss German Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 25,
+    "max": 30
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6634c1b6-553f-4d60-a692-be005464a798",
+   "job_name": "Software Engineer – Backend",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 100
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
+   "job_name": "Art Related Professional",
+   "ideal_hourly_rate": {
+    "min": 35,
+    "max": 105
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "arts-design",
+   "engagement_type": null
+  },
+  {
+   "job_id": "941cd9a0-94f3-442e-a24a-24d37ca1aa43",
+   "job_name": "Voice Actor/Coaches",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 70
+   },
+   "date_posted": "2026-10-05",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b7222393-60d2-4a14-b038-52eb7493c50b",
+   "job_name": "Litigation Attorney",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 170
+   },
+   "date_posted": "2026-10-05",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
+   "job_name": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 150
+   },
+   "date_posted": "2026-10-03",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "31082a46-eab6-4178-b046-b74021c3e881",
+   "job_name": "Bilingual Cantonese Psychologist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-10-03",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d358fe3a-3fa1-4673-b90a-99293655405d",
+   "job_name": "Software Engineer",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 100
+   },
+   "date_posted": "2026-10-03",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "408aec84-c947-475b-801c-0a88074c547b",
+   "job_name": "Bilingual Cantonese Psychiatrist",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-10-03",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8d04e5c4-2539-4394-a8e3-7f46953d5f4e",
+   "job_name": "Bilingual Vietnamese Psychiatrist",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-10-02",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3a4a3726-ae6d-44a5-9937-d7d7c90fefdc",
+   "job_name": "Bilingual Vietnamese Psychologist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-10-02",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a51311c1-f926-47a1-80a3-c04aec36ee05",
+   "job_name": "CAD Design Expert (Instructor)",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 90
+   },
+   "date_posted": "2026-10-02",
+   "domain_slug": "arts-design",
+   "engagement_type": null
+  },
+  {
+   "job_id": "07ce7f57-ef0c-4b2e-aac2-5837c2c9c004",
+   "job_name": "Senior Mechanical Design Engineer",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 90
+   },
+   "date_posted": "2026-10-02",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
+   "job_name": "Derivatives Counsel (ISDA Specialist)",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 200
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6ec61d0d-4e7b-4e79-bcb6-23fab6b05923",
+   "job_name": "Hospitalist Reviewer",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 115
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "medicine",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
+   "job_name": "Recruitment Ops Manager",
+   "ideal_hourly_rate": {
+    "min": 35,
+    "max": 55
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d0f83737-b673-439b-a66f-0f23bcd2b707",
+   "job_name": "Generalist — U.S. Tax Workflow Evaluation",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 110
+   },
+   "date_posted": "2026-09-30",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
+   "job_name": "Compliance Attorney",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "01c797e9-0eab-4a2f-988b-a0206e84f21d",
+   "job_name": "Bankruptcy Attorney",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "106a1938-b587-4e53-8d54-4b6eba20343a",
+   "job_name": "Corporate Attorney",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 170
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "50d0cd3d-0d16-4c70-9094-8a66bbc9dffb",
+   "job_name": "Litigator / Practicing Attorney (US)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 160
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fded0ebb-c241-4245-9b2d-c656e6f703d2",
+   "job_name": "Georgian Speaking Psychiatrist",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "193724fb-2847-47f6-9f5d-59a53769e40f",
+   "job_name": "Georgian Speaking Psychologist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3bc1ec11-392d-4d52-afe4-d5bc6badcbc1",
+   "job_name": "Finnish Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6d278a40-0028-4b33-b2f0-5db4348e9297",
+   "job_name": "QA & Source Inspection",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0407022a-eead-4195-95b1-fa8c7682b5d8",
+   "job_name": "Senior Machinist / Construction & Field Ops Lead",
+   "ideal_hourly_rate": {
+    "min": 55,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "520ccd84-b67d-45cd-b1e4-3fcadf357f73",
+   "job_name": "Senior Aviation Maintenance Inspector",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "acdf36e4-73a7-48a6-86e6-68a8d26d8cfe",
+   "job_name": "Senior Metallurgist / Welding Inspector",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "397c7dd8-62cd-4068-a572-7addcd8a5fb2",
+   "job_name": "Senior Electronics Quality Engineer",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6",
+   "job_name": "Senior Field Service Technician",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "68ee381e-ee71-4eca-827c-46797703bfcf",
+   "job_name": "Senior NDT Inspector (Level II/III)",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 60
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1e1e771b-bfaf-479a-8c5d-83637c346603",
+   "job_name": "Norwegian Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-09-29",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb",
+   "job_name": "Bilingual Japanese Psychiatrist",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-28",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "64110e6c-a1f5-45dd-9dfb-695b0ee21ee3",
+   "job_name": "Bilingual Japanese Psychologist (PhD)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-28",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ca702454-8e86-4446-8654-1f08c2a9d162",
+   "job_name": "Danish Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 24,
+    "max": 30
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "484708eb-dd2c-4d03-bb59-34684e78579f",
+   "job_name": "Mechanical Design Engineer – CAD & Manufacturing",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "34374189-05e8-4eb2-8506-a831931459c9",
+   "job_name": "Data Science Specialist",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 350
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "data-analysis",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b4ce7861-a888-4f57-bb63-c50fb01ae65d",
+   "job_name": "Software Engineering Specialist",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 350
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e107daa7-2cc8-4153-94c2-ff7806bb9d6e",
+   "job_name": "Finance Specialist",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 350
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7e08e6c8-6e8a-46bb-a594-1bfae53c743b",
+   "job_name": "Consulting Specialist",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 350
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ab52b995-a0f8-4aab-ac1d-98777ce867fa",
+   "job_name": "Senior Book Editor",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 120
+   },
+   "date_posted": "2026-09-24",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "15be616a-44af-4fd5-8283-e2fd51a11f1b",
+   "job_name": "Junior Transactional Attorney",
+   "ideal_hourly_rate": {
+    "min": 70,
+    "max": 90
+   },
+   "date_posted": "2026-09-24",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "eefa6ece-b107-4896-b13c-a1d0c455680a",
+   "job_name": "Brand & Creative Strategy Expert",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 350
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "sales-marketing",
+   "engagement_type": null
+  },
+  {
+   "job_id": "482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef",
+   "job_name": "Contract Attorney",
+   "ideal_hourly_rate": {
+    "min": 85,
+    "max": 105
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6",
+   "job_name": "Senior Accountant Expert",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 120
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
+   "job_name": "Hospitality Worker (Toast POS User)",
+   "ideal_hourly_rate": {
+    "min": 28,
+    "max": 92
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0936cd2a-a0a9-4105-802a-a4ec81cbf466",
+   "job_name": "In-House Counsel",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 130
+   },
+   "date_posted": "2026-09-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4efbbbb6-4536-482a-8f28-9895e719424d",
+   "job_name": "Transactional Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 130
+   },
+   "date_posted": "2026-09-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ff001293-c23b-46eb-a4db-8b2598c27897",
+   "job_name": "Corporate Transactions Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 130
+   },
+   "date_posted": "2026-09-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "81bef975-1ec5-404c-a1a6-7efe49dec2a3",
+   "job_name": "Investment Funds Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 180
+   },
+   "date_posted": "2026-09-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "15fe5ebb-b057-4a33-b0c3-14510fe1065e",
+   "job_name": "General Counsel",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 110
+   },
+   "date_posted": "2026-09-22",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ca1d0b6d-cac6-43a8-996f-d9dc73a68e15",
+   "job_name": "Military Operations & Reporting SME",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-21",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4bf30ed8-24b8-406d-bbcb-f9b63cbdc72f",
+   "job_name": "Senior DoD Staff Writing SME",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-21",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "69c7fdc3-5040-48aa-9de9-a3870e1b3069",
+   "job_name": "Federal Staff Reporting Analyst",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-21",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "314157c3-3907-4d37-853c-80d02690ca0b",
+   "job_name": "Military Writing Specialist",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-21",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6818a81f-b736-4734-8700-aa3375ab5cc4",
+   "job_name": "Backend Security Engineer",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 100
+   },
+   "date_posted": "2026-09-20",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9b3377c5-01da-40d7-9304-39cc8cd20932",
+   "job_name": "Senior Software Engineer",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 100
+   },
+   "date_posted": "2026-09-20",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dbddaa98-09fd-4dde-b301-568d794b085d",
+   "job_name": "AI Legal Fellow — Litigation & Motion Practice",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 300
+   },
+   "date_posted": "2026-09-19",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
+   "job_name": "Recruiter",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 50
+   },
+   "date_posted": "2026-09-19",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "772b9251-fab7-4758-b4cd-f681b863974f",
+   "job_name": "Korean Language Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 36
+   },
+   "date_posted": "2026-09-19",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b0e8fb90-875e-43dc-b725-15072dee832d",
+   "job_name": "Japanese Language Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 36
+   },
+   "date_posted": "2026-09-19",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
+   "job_name": "Educator/ Assessor Writer",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 140
+   },
+   "date_posted": "2026-09-18",
+   "domain_slug": "education",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c99724a5-d4e7-48d0-92b1-73dde88ad9c8",
+   "job_name": "Lawyer/Legal Writer",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 140
+   },
+   "date_posted": "2026-09-18",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "86213f23-d13c-4390-a865-8e3c1cb52eb0",
+   "job_name": "Journalist/Writer",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 140
+   },
+   "date_posted": "2026-09-18",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d130c45f-c85a-4ce6-9a12-53c980a63be7",
+   "job_name": "Medical Communications Manager",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-09-18",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5ed4068f-177a-4ed2-9642-a9d4ba45be39",
+   "job_name": "Clinical Publications Author",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 80
+   },
+   "date_posted": "2026-09-18",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f3abc8e0-2f0e-4f28-aa3f-ee26ca98861f",
+   "job_name": "Paid Photo Contributor Opportunity",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-09-17",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d",
+   "job_name": "Lawyer",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 180
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "076f4149-4798-4082-b157-d35d179a869f",
+   "job_name": "Commercial Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 110
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d01b226a-f47e-4c65-b4ef-4245b4d4ea37",
+   "job_name": "Contracts Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 110
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "18a809aa-0b7f-4523-ac0e-508c9f0f6f66",
+   "job_name": "Open Source Contributor (GitHub)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 150
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dcd53728-6fe1-4c86-b362-31cdc7428e3a",
+   "job_name": "Competitive Coder",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 65
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4010d2c5-4a3d-41fe-9e33-28bc218626e5",
+   "job_name": "Sr. Full-Stack Software Engineer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1309e64b-2af9-4aa2-8894-d67fa2b7dd60",
+   "job_name": "Behavioral Analyst",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 70
+   },
+   "date_posted": "2026-09-15",
+   "domain_slug": "humanities",
+   "engagement_type": null
+  },
+  {
+   "job_id": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
+   "job_name": "Associate Forward Deployed Engineer (aFDE)",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 60
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5c9777fe-afb2-40b1-abbb-31cee8a8d4b6",
+   "job_name": "Software Engineer - Open Source Contributions",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "89d4df86-e9c8-4fba-bd22-ca6e492fd567",
+   "job_name": "Revenue Operations & CRM Systems Specialist (SaaS)",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 90
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6fb11cac-25a3-46de-a144-603468023a1c",
+   "job_name": "Paid Photo Contributor Opportunity (Twins)",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-09-14",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "95006305-f66b-4fba-9a06-339c48f82283",
+   "job_name": "Equity Research Expert",
+   "ideal_hourly_rate": {
+    "min": 175,
+    "max": 300
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "fe1e7380-928e-40b6-ba2c-b0e544e09a5a",
+   "job_name": "Investment Banking Expert",
+   "ideal_hourly_rate": {
+    "min": 175,
+    "max": 300
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "59fc8961-1c55-4822-883b-242f80920ab9",
+   "job_name": "Research Engineer - Code Generation & Model Evaluation",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e7c0aec1-251c-4ab7-8be9-f278faeb4540",
+   "job_name": "FreeCAD Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-11",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e929836f-3c6e-40ef-824d-90d65f99e817",
+   "job_name": "Industrial Design CAD Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-11",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8ea4b6c0-bc6d-43ce-9e3a-212d4a32bfc3",
+   "job_name": "Aerospace CAD Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-11",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4b15e855-b7ad-4e7c-8ad5-c0713de52f31",
+   "job_name": "Mechanical CAD Expert",
+   "ideal_hourly_rate": {
+    "min": 40,
+    "max": 80
+   },
+   "date_posted": "2026-09-11",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9",
+   "job_name": "Cantonese Language Evaluator",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 40
+   },
+   "date_posted": "2026-09-11",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
+   "job_name": "Paid Photo Contributor Opportunity (Aged 50+)",
+   "ideal_hourly_rate": {
+    "min": 139,
+    "max": 140
+   },
+   "date_posted": "2026-09-10",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6cf1339a-ab22-447e-8fa5-2ce79407fa2b",
+   "job_name": "Paid Photo Contributor Opportunity (Siblings)",
+   "ideal_hourly_rate": {
+    "min": 139,
+    "max": 140
+   },
+   "date_posted": "2026-09-09",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "88da544c-5d28-4835-bde7-0272a2a1a4eb",
+   "job_name": "Data Analyst",
+   "ideal_hourly_rate": {
+    "min": 31,
+    "max": 60
+   },
+   "date_posted": "2026-09-09",
+   "domain_slug": "other",
+   "engagement_type": null
+  },
+  {
+   "job_id": "84317e04-23ca-41b5-8df8-87f7557f0541",
+   "job_name": "Visual Creative Expert",
+   "ideal_hourly_rate": {
+    "min": 21,
+    "max": 70
+   },
+   "date_posted": "2026-09-08",
+   "domain_slug": "arts-design",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d65941c5-6aff-4e80-b3d6-4f56c9aede18",
+   "job_name": "Physics Expert (PhD / Postdoc)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1e8c2077-7a9d-4a91-adcd-f96404dc8226",
+   "job_name": "Physics Expert PhD (AMO / Optical Properties of Materials)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3a757d40-98c5-4717-a401-382999db9a3f",
+   "job_name": "Physics Expert PhD (Statistical Physics / Quantum Information / Condensed Matter)",
+   "ideal_hourly_rate": {
+    "min": 100,
+    "max": 200
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "sciences-research",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8dea9829-e259-4841-befd-9a52edb8a9f5",
+   "job_name": "Mandarin Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1949adfa-dfb9-405f-939c-fd531e11c31c",
+   "job_name": "Dutch Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 25,
+    "max": 30
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9",
+   "job_name": "Software Engineer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 100
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "361f9b97-4179-4631-a026-514efee334bc",
+   "job_name": "Cantonese Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 35
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "a5de9ba8-ba95-4737-b985-327e48c2b8d9",
+   "job_name": "CFD Engineer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 150
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "applied-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c9a1355a-74bc-4300-8c68-b88c5a88803f",
+   "job_name": "Attorney",
+   "ideal_hourly_rate": {
+    "min": 90,
+    "max": 110
+   },
+   "date_posted": "2026-09-06",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "eb959833-f2b5-4401-95e0-cb698f0f199f",
+   "job_name": "German Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 20,
+    "max": 30
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4e2c9dd6-10d3-4de3-8f84-289141d692aa",
+   "job_name": "Venture Capital Associate",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 100
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "77a76958-77dc-459f-a623-0842a786a277",
+   "job_name": "Private Equity Associate",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 100
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c0b836e3-f118-4b88-9dbe-46a400c074c2",
+   "job_name": "Investment Banking Associate",
+   "ideal_hourly_rate": {
+    "min": 45,
+    "max": 100
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "dc71a0c0-527b-474b-96e3-022c63e7012d",
+   "job_name": "Data Scientist",
+   "ideal_hourly_rate": {
+    "min": 245,
+    "max": 280
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
+   "job_name": "Investment & Finance Expert",
+   "ideal_hourly_rate": {
+    "min": 245,
+    "max": 280
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
+   "job_name": "IT Manager",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 75
+   },
+   "date_posted": "2026-08-15",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "473cffff-4779-4826-840d-f8b6ae4b3c63",
+   "job_name": "Accountant / Auditor",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-08-15",
+   "domain_slug": "finance",
+   "engagement_type": null
+  },
+  {
+   "job_id": "6fc6311d-f159-46ad-90c9-df1c42c9765b",
+   "job_name": "Lawyer",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 70
+   },
+   "date_posted": "2026-08-15",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
+   "job_name": "Software Developer",
+   "ideal_hourly_rate": {
+    "min": 50,
+    "max": 70
+   },
+   "date_posted": "2026-08-15",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "51a65c2c-07dd-4307-aba6-f7c4af17311c",
+   "job_name": "Open Source GitHub Maintainer",
+   "ideal_hourly_rate": {
+    "min": 150,
+    "max": 300
+   },
+   "date_posted": "2026-08-14",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "40ace067-cec8-4998-bb75-067a565c23b3",
+   "job_name": "Korean Language Expert",
+   "ideal_hourly_rate": {
+    "min": 65,
+    "max": 98
+   },
+   "date_posted": "2026-08-11",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "26044f07-dc45-4a01-8a5e-8154914a1267",
+   "job_name": "Japanese Language Expert",
+   "ideal_hourly_rate": {
+    "min": 65,
+    "max": 98
+   },
+   "date_posted": "2026-08-11",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3751d160-6ea1-45e9-8c40-7af439059844",
+   "job_name": "Machine Learning Engineer",
+   "ideal_hourly_rate": {
+    "min": 80,
+    "max": 140
+   },
+   "date_posted": "2026-04-17",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "f55c5e8b-d0e2-427c-b84f-7642e66e263f",
+   "job_name": "Backend C#/.NET Developer",
+   "ideal_hourly_rate": {
+    "min": 60,
+    "max": 110
+   },
+   "date_posted": "2026-04-17",
+   "domain_slug": "software-engineering",
+   "engagement_type": null
+  },
+  {
+   "job_id": "3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
+   "job_name": "Big Data Engineer",
+   "ideal_hourly_rate": {
+    "min": 30,
+    "max": 80
+   },
+   "date_posted": "2026-04-17",
+   "domain_slug": "data-analysis",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9d60489e-a8f7-4a0f-a140-16c9285adcd9",
+   "job_name": "At-Work Video Recorder [for Business Owners]",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 12
+   },
+   "date_posted": "2026-10-20",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
+   "job_name": "At-Home Video Recorder (LATAM)",
+   "ideal_hourly_rate": {
+    "min": 6,
+    "max": 6
+   },
+   "date_posted": "2026-10-19",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+   "job_name": "At-Home Video Recorder",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 15
+   },
+   "date_posted": "2026-10-19",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "79170f82-64d2-4029-9233-c39f1081e709",
+   "job_name": "AI Product Evaluator",
+   "ideal_hourly_rate": {
+    "min": 14,
+    "max": 36
+   },
+   "date_posted": "2026-10-16",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "c00af525-54b0-4e97-ad41-b6339638d1e9",
+   "job_name": "Video Data Annotator",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 10
+   },
+   "date_posted": "2026-10-08",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "7cb06da3-8e02-4bd1-8a53-46a573e92907",
+   "job_name": "English Teacher",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 40
+   },
+   "date_posted": "2026-10-06",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
+   "job_name": "Car-Mounted 360° Video Recorder",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 30
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "e67f4a0c-b99c-4725-8796-a09b12dd8d06",
+   "job_name": "Gujarati Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 12
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "86d93e70-27d2-4075-8529-53cd2ab68465",
+   "job_name": "Bengali Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 22
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "52e9965d-1d1d-4d85-b958-c020d7886867",
+   "job_name": "Urdu Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 22
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "118b9412-6280-4061-ba6b-66950cc6e4db",
+   "job_name": "Punjabi Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 15
+   },
+   "date_posted": "2026-10-01",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "ea63124a-6a16-4be4-bc4c-2a00d576ecb1",
+   "job_name": "Legal Headhunter - Referral Partner",
+   "ideal_hourly_rate": null,
+   "date_posted": "2026-09-26",
+   "domain_slug": "law",
+   "engagement_type": null
+  },
+  {
+   "job_id": "313b5b7a-a6a8-4acf-9842-017d8506a037",
+   "job_name": "Gmail & Google Calendar AI Assistant Evaluator",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 30
+   },
+   "date_posted": "2026-09-25",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "274e1507-d71c-4249-8d70-ec11e53c5ea6",
+   "job_name": "Community Manager",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 20
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "sales-marketing",
+   "engagement_type": null
+  },
+  {
+   "job_id": "efa1517a-bee2-4687-97bf-42fd1282e883",
+   "job_name": "Senior AI Trainer",
+   "ideal_hourly_rate": {
+    "min": 14,
+    "max": 36
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "ai-machine-learning",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
+   "job_name": "Video Data Annotation Specialist",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 10
+   },
+   "date_posted": "2026-09-23",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "4fb1fcad-4ff0-4c45-bfa7-2b447295f01b",
+   "job_name": "Virtual Assistant",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 30
+   },
+   "date_posted": "2026-09-16",
+   "domain_slug": "business-operations",
+   "engagement_type": null
+  },
+  {
+   "job_id": "8811c1b3-efa7-4a5e-b332-50743f90a05a",
+   "job_name": "Video Annotation Specialist",
+   "ideal_hourly_rate": {
+    "min": 8,
+    "max": 10
+   },
+   "date_posted": "2026-09-14",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "300552bc-f87f-4511-aa7a-9fcf5a483f37",
+   "job_name": "Customer Service Expert",
+   "ideal_hourly_rate": {
+    "min": 18,
+    "max": 28
+   },
+   "date_posted": "2026-09-09",
+   "domain_slug": "retail-hospitality",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9a37ff42-0165-4992-95af-986223b55fcf",
+   "job_name": "Portuguese Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 18
+   },
+   "date_posted": "2026-09-07",
+   "domain_slug": "language-audio",
+   "engagement_type": null
+  },
+  {
+   "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
+   "job_name": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 30
+   },
+   "date_posted": "2026-09-04",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9d57fd44-b189-41ca-a0d4-2fe3903eec41",
+   "job_name": "360° Video Recorder (Insta360 / GoPro MAX)",
+   "ideal_hourly_rate": {
+    "min": 15,
+    "max": 30
+   },
+   "date_posted": "2026-09-03",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "04955b6f-5026-498a-8143-5ec852cbd526",
+   "job_name": "Exocentric Video Recorder",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 30
+   },
+   "date_posted": "2026-09-03",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "9c3be41a-3d6d-4a1e-a917-5234b2b19c14",
+   "job_name": "Tamil Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 24
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "d49df3cc-52f9-4da6-9c84-a4f9ddb6c553",
+   "job_name": "Telugu Transcription Expert",
+   "ideal_hourly_rate": {
+    "min": 10,
+    "max": 24
+   },
+   "date_posted": "2026-08-27",
+   "domain_slug": "generalist",
+   "engagement_type": null
+  },
+  {
+   "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
+   "job_name": "Small/Medium Business – Robotics Data Collection Partner",
+   "ideal_hourly_rate": {
+    "min": 9,
+    "max": 9
+   },
+   "date_posted": "2026-07-06",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  },
+  {
+   "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
+   "job_name": "Data-Video Generalist (US-based)",
+   "ideal_hourly_rate": {
+    "min": 13,
+    "max": 15
+   },
+   "date_posted": "2026-04-21",
+   "domain_slug": "robotics",
+   "engagement_type": null
+  }
+ ]
+}

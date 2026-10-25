@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { formatDate, isLocale, LOCALES } from "@/i18n/config";
-import { t } from "@/i18n/dict";
+import { fill, t } from "@/i18n/dict";
 import { abs } from "@/lib/site";
 import { pageMeta } from "@/lib/seo";
 import { getPlatform, platformApply, platforms } from "@/data/platforms";
@@ -83,10 +83,15 @@ export default async function PlatformPage({ params }: Props) {
       <section className="section" aria-labelledby="pj-h">
         <h2 id="pj-h" style={{ fontSize: 24, marginBottom: 16 }}>{d.platform.jobs}</h2>
         <div className="grid">
-          {list.map((j) => (
+          {list.filter((j) => j.status !== "closed").slice(0, 24).map((j) => (
             <JobCard key={j.id} job={j} locale={lang} d={d} />
           ))}
         </div>
+        {list.length > 24 ? (
+          <p style={{ textAlign: "center", marginTop: 20 }}>
+            <Link className="btn btn-ghost" href={`/${lang}?p=${p.slug}#jobs`}>{fill(d.filters.seeAll, { n: list.length })}</Link>
+          </p>
+        ) : null}
       </section>
     </div>
   );

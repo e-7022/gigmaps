@@ -19,8 +19,9 @@ interface State {
   open: boolean;
   nodegree: boolean;
   sort: Sort;
+  p: string;
 }
-const DEFAULT: State = { q: "", cat: "all", c: "", avail: false, nofluent: false, open: false, nodegree: false, sort: "rec" };
+const DEFAULT: State = { q: "", cat: "all", c: "", avail: false, nofluent: false, open: false, nodegree: false, sort: "rec", p: "" };
 const CATS: Category[] = ["audio", "design", "language", "tech", "science", "medicine", "law", "business", "general"];
 const STORE = "gigmap.country";
 
@@ -38,6 +39,7 @@ function fromParams(sp: URLSearchParams | null): State {
     open: sp.get("open") === "1",
     nodegree: sp.get("nodegree") === "1",
     sort: sort === "pay" || sort === "new" ? sort : "rec",
+    p: sp.get("p") ?? "",
   };
 }
 
@@ -48,6 +50,7 @@ function toQuery(s: State) {
   if (s.q) sp.set("q", s.q);
   for (const k of ["avail", "nofluent", "open", "nodegree"] as const) if (s[k]) sp.set(k, "1");
   if (s.sort !== "rec") sp.set("sort", s.sort);
+  if (s.p) sp.set("p", s.p);
   const str = sp.toString();
   return `${window.location.pathname}${str ? `?${str}` : ""}${window.location.hash}`;
 }
@@ -58,6 +61,7 @@ function filterJobs(list: Job[], s: State) {
   const q = s.q.trim().toLowerCase();
   const out: Job[] = [];
   for (const j of list) {
+    if (s.p && j.platform !== s.p) continue;
     if (s.cat !== "all" && !j.categories.includes(s.cat)) continue;
     if (s.nofluent && j.english === "fluent") continue;
     if (s.open && !(j.status === "open" || j.status === "maybe")) continue;
@@ -82,8 +86,17 @@ function filterJobs(list: Job[], s: State) {
   });
 }
 
+const PAGE = 48;
+
 function View({ locale, d, state, set }: { locale: Locale; d: Dict; state: State; set: (p: Partial<State>) => void }) {
   const q = useDeferredValue(state.q);
+  const [limit, setLimit] = useState(PAGE);
+  const key = JSON.stringify({ ...state, q });
+  const [prevKey, setPrevKey] = useState(key);
+  if (key !== prevKey) {
+    setPrevKey(key);
+    setLimit(PAGE); // новые фильтры — снова первая страница
+  }
   const items = useMemo(() => filterJobs(jobs, { ...state, q }), [state, q]);
   const dirty = JSON.stringify({ ...state, c: "" }) !== JSON.stringify(DEFAULT);
 
@@ -166,11 +179,20 @@ function View({ locale, d, state, set }: { locale: Locale; d: Dict; state: State
       </div>
 
       {items.length ? (
+        <>
         <div className="grid">
-          {items.map((j) => (
+          {items.slice(0, limit).map((j) => (
             <JobCard key={j.id} job={j} locale={locale} d={d} cc={state.c || undefined} inCatalog />
           ))}
         </div>
+        {items.length > limit ? (
+          <div style={{ display: "flex", justifyContent: "center", marginTop: 20 }}>
+            <button type="button" className="btn btn-ghost" onClick={() => setLimit((l) => l + PAGE)}>
+              {d.filters.showMore} ({items.length - limit})
+            </button>
+          </div>
+        ) : null}
+        </>
       ) : (
         <div className="empty">
           <p style={{ margin: "0 0 12px" }}>{d.filters.empty}</p>

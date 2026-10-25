@@ -7123,6 +7123,5174 @@
     "lastSeen": "2026-10-25"
   },
   {
+    "id": "micro1-211-specialist-5baacaee-bc03-4184-ba84-9b5fc84b3351",
+    "platform": "micro1",
+    "title": "211 Specialist",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 40,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/5baacaee-bc03-4184-ba84-9b5fc84b3351",
+    "externalId": "5baacaee-bc03-4184-ba84-9b5fc84b3351",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-360-video-recorder-insta360-gopro-max-9d57fd44-b189-41ca-a0d4-2",
+    "platform": "micro1",
+    "title": "360° Video Recorder (Insta360 / GoPro MAX)",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 30,
+    "posted": "2026-09-03",
+    "url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41",
+    "externalId": "9d57fd44-b189-41ca-a0d4-2fe3903eec41",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-accountant-auditor-473cffff-4779-4826-840d-f8b6ae4b3c63",
+    "platform": "micro1",
+    "title": "Accountant / Auditor",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-08-15",
+    "url": "https://jobs.micro1.ai/post/473cffff-4779-4826-840d-f8b6ae4b3c63",
+    "externalId": "473cffff-4779-4826-840d-f8b6ae4b3c63",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-aerodynamics-expert-msc-or-phd-99ef9e98-e4de-4503-b2e3-980390da",
+    "platform": "micro1",
+    "title": "Aerodynamics Expert (MSc. or PhD)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/99ef9e98-e4de-4503-b2e3-980390dab872",
+    "externalId": "99ef9e98-e4de-4503-b2e3-980390dab872",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-aerospace-cad-expert-8ea4b6c0-bc6d-43ce-9e3a-212d4a32bfc3",
+    "platform": "micro1",
+    "title": "Aerospace CAD Expert",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-11",
+    "url": "https://jobs.micro1.ai/post/8ea4b6c0-bc6d-43ce-9e3a-212d4a32bfc3",
+    "externalId": "8ea4b6c0-bc6d-43ce-9e3a-212d4a32bfc3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-agriculture-forestry-environmental-experts-f65069d1-f642-4b92-b",
+    "platform": "micro1",
+    "title": "Agriculture, Forestry & Environmental Experts",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 60,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/f65069d1-f642-4b92-b8f2-76685acbe473",
+    "externalId": "f65069d1-f642-4b92-b8f2-76685acbe473",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ai-agent-evaluator-2fea94b5-2f19-4287-b776-f061b413a00f",
+    "platform": "micro1",
+    "title": "AI Agent Evaluator",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 25,
+    "payMax": 45,
+    "posted": "2026-10-09",
+    "url": "https://jobs.micro1.ai/post/2fea94b5-2f19-4287-b776-f061b413a00f",
+    "externalId": "2fea94b5-2f19-4287-b776-f061b413a00f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ai-agent-tester-real-world-tasks-82ba10ad-8dbd-49ce-bc11-a83b9b",
+    "platform": "micro1",
+    "title": "AI Agent Tester - Real-World Tasks",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 25,
+    "payMax": 45,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/82ba10ad-8dbd-49ce-bc11-a83b9bb2169f",
+    "externalId": "82ba10ad-8dbd-49ce-bc11-a83b9bb2169f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ai-legal-fellow-litigation-motion-practice-dbddaa98-09fd-4dde-b",
+    "platform": "micro1",
+    "title": "AI Legal Fellow — Litigation & Motion Practice",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 300,
+    "posted": "2026-09-19",
+    "url": "https://jobs.micro1.ai/post/dbddaa98-09fd-4dde-b301-568d794b085d",
+    "externalId": "dbddaa98-09fd-4dde-b301-568d794b085d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ai-product-evaluator-79170f82-64d2-4029-9233-c39f1081e709",
+    "platform": "micro1",
+    "title": "AI Product Evaluator",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 14,
+    "payMax": 36,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/79170f82-64d2-4029-9233-c39f1081e709",
+    "externalId": "79170f82-64d2-4029-9233-c39f1081e709",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-app-security-expert-5ba40f6e-b9a0-4a61-91fd-004516fb27f8",
+    "platform": "micro1",
+    "title": "App Security Expert",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/5ba40f6e-b9a0-4a61-91fd-004516fb27f8",
+    "externalId": "5ba40f6e-b9a0-4a61-91fd-004516fb27f8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-applied-scientist-a58e1af4-14c2-42a6-8e48-301448d8e61c",
+    "platform": "micro1",
+    "title": "Applied Scientist",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 245,
+    "payMax": 280,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/a58e1af4-14c2-42a6-8e48-301448d8e61c",
+    "externalId": "a58e1af4-14c2-42a6-8e48-301448d8e61c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-applied-scientists-machine-learning-msc-or-phd-4307f05a-fbd1-49",
+    "platform": "micro1",
+    "title": "Applied Scientists — Machine Learning (MSc. or PhD)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/4307f05a-fbd1-4913-91a2-432c782023fb",
+    "externalId": "4307f05a-fbd1-4913-91a2-432c782023fb",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-army-combat-operations-expert-b41b55bc-97ef-473f-ad12-f7434a652",
+    "platform": "micro1",
+    "title": "Army Combat Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/b41b55bc-97ef-473f-ad12-f7434a652fda",
+    "externalId": "b41b55bc-97ef-473f-ad12-f7434a652fda",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-art-related-professional-9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
+    "platform": "micro1",
+    "title": "Art Related Professional",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 35,
+    "payMax": 105,
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
+    "externalId": "9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-associate-forward-deployed-engineer-afde-b1316606-46fb-4c3d-a4f",
+    "platform": "micro1",
+    "title": "Associate Forward Deployed Engineer (aFDE)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 60,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70",
+    "externalId": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-associate-recruiter-san-francisco-based-30cdcad1-c75b-412d-94b6",
+    "platform": "micro1",
+    "title": "Associate Recruiter (San Francisco based)",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 65,
+    "posted": "2026-10-13",
+    "url": "https://jobs.micro1.ai/post/30cdcad1-c75b-412d-94b6-2af95f118549",
+    "externalId": "30cdcad1-c75b-412d-94b6-2af95f118549",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-at-home-video-recorder-7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+    "platform": "micro1",
+    "title": "At-Home Video Recorder",
+    "categories": [
+      "general",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 15,
+    "posted": "2026-10-19",
+    "url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+    "externalId": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-at-home-video-recorder-latam-82310fe1-2ad6-4b48-9434-57f2ea679b",
+    "platform": "micro1",
+    "title": "At-Home Video Recorder (LATAM)",
+    "categories": [
+      "general",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 6,
+    "payMax": 6,
+    "posted": "2026-10-19",
+    "url": "https://jobs.micro1.ai/post/82310fe1-2ad6-4b48-9434-57f2ea679bac",
+    "externalId": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-at-work-video-recorder-for-business-owners-9d60489e-a8f7-4a0f-a",
+    "platform": "micro1",
+    "title": "At-Work Video Recorder [for Business Owners]",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 12,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/9d60489e-a8f7-4a0f-a140-16c9285adcd9",
+    "externalId": "9d60489e-a8f7-4a0f-a140-16c9285adcd9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-attorney-c9a1355a-74bc-4300-8c68-b88c5a88803f",
+    "platform": "micro1",
+    "title": "Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 110,
+    "posted": "2026-09-06",
+    "url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f",
+    "externalId": "c9a1355a-74bc-4300-8c68-b88c5a88803f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-backend-c-net-developer-f55c5e8b-d0e2-427c-b84f-7642e66e263f",
+    "platform": "micro1",
+    "title": "Backend C#/.NET Developer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 110,
+    "posted": "2026-04-17",
+    "url": "https://jobs.micro1.ai/post/f55c5e8b-d0e2-427c-b84f-7642e66e263f",
+    "externalId": "f55c5e8b-d0e2-427c-b84f-7642e66e263f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-backend-security-engineer-6818a81f-b736-4734-8700-aa3375ab5cc4",
+    "platform": "micro1",
+    "title": "Backend Security Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 100,
+    "posted": "2026-09-20",
+    "url": "https://jobs.micro1.ai/post/6818a81f-b736-4734-8700-aa3375ab5cc4",
+    "externalId": "6818a81f-b736-4734-8700-aa3375ab5cc4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bankruptcy-attorney-01c797e9-0eab-4a2f-988b-a0206e84f21d",
+    "platform": "micro1",
+    "title": "Bankruptcy Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d",
+    "externalId": "01c797e9-0eab-4a2f-988b-a0206e84f21d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-behavioral-analyst-1309e64b-2af9-4aa2-8894-d67fa2b7dd60",
+    "platform": "micro1",
+    "title": "Behavioral Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 70,
+    "posted": "2026-09-15",
+    "url": "https://jobs.micro1.ai/post/1309e64b-2af9-4aa2-8894-d67fa2b7dd60",
+    "externalId": "1309e64b-2af9-4aa2-8894-d67fa2b7dd60",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bengali-transcription-expert-86d93e70-27d2-4075-8529-53cd2ab684",
+    "platform": "micro1",
+    "title": "Bengali Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 22,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/86d93e70-27d2-4075-8529-53cd2ab68465",
+    "externalId": "86d93e70-27d2-4075-8529-53cd2ab68465",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-big-data-engineer-3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
+    "platform": "micro1",
+    "title": "Big Data Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 80,
+    "posted": "2026-04-17",
+    "url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
+    "externalId": "3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-spanish-benefits-counselor-dd877e32-2969-494a-af25-c4",
+    "platform": "micro1",
+    "title": "Bilingual (Spanish) Benefits Counselor",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 35,
+    "payMax": 50,
+    "language": "es",
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/dd877e32-2969-494a-af25-c40b2bb96abc",
+    "externalId": "dd877e32-2969-494a-af25-c40b2bb96abc",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-cantonese-psychiatrist-408aec84-c947-475b-801c-0a8807",
+    "platform": "micro1",
+    "title": "Bilingual Cantonese Psychiatrist",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "zh",
+    "posted": "2026-10-03",
+    "url": "https://jobs.micro1.ai/post/408aec84-c947-475b-801c-0a88074c547b",
+    "externalId": "408aec84-c947-475b-801c-0a88074c547b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-cantonese-psychologist-phd-31082a46-eab6-4178-b046-b7",
+    "platform": "micro1",
+    "title": "Bilingual Cantonese Psychologist (PhD)",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "zh",
+    "degree": true,
+    "posted": "2026-10-03",
+    "url": "https://jobs.micro1.ai/post/31082a46-eab6-4178-b046-b74021c3e881",
+    "externalId": "31082a46-eab6-4178-b046-b74021c3e881",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-japanese-psychiatrist-f3ca9a77-ffd0-4eb7-b4ba-10deb5c",
+    "platform": "micro1",
+    "title": "Bilingual Japanese Psychiatrist",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "ja",
+    "posted": "2026-09-28",
+    "url": "https://jobs.micro1.ai/post/f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb",
+    "externalId": "f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-japanese-psychologist-phd-64110e6c-a1f5-45dd-9dfb-695",
+    "platform": "micro1",
+    "title": "Bilingual Japanese Psychologist (PhD)",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "ja",
+    "degree": true,
+    "posted": "2026-09-28",
+    "url": "https://jobs.micro1.ai/post/64110e6c-a1f5-45dd-9dfb-695b0ee21ee3",
+    "externalId": "64110e6c-a1f5-45dd-9dfb-695b0ee21ee3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-medical-doctor-japanese-d8efbdbf-cb11-428d-bcef-7d9d8",
+    "platform": "micro1",
+    "title": "Bilingual Medical Doctor (Japanese)",
+    "categories": [
+      "medicine",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 125,
+    "payMax": 125,
+    "language": "ja",
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/d8efbdbf-cb11-428d-bcef-7d9d8d197dfa",
+    "externalId": "d8efbdbf-cb11-428d-bcef-7d9d8d197dfa",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-medical-doctor-korean-c81e832c-d6fd-4d6e-9f40-3df9bed",
+    "platform": "micro1",
+    "title": "Bilingual Medical Doctor (Korean)",
+    "categories": [
+      "medicine",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 125,
+    "payMax": 125,
+    "language": "ko",
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/c81e832c-d6fd-4d6e-9f40-3df9bedbf18f",
+    "externalId": "c81e832c-d6fd-4d6e-9f40-3df9bedbf18f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-vietnamese-psychiatrist-8d04e5c4-2539-4394-a8e3-7f469",
+    "platform": "micro1",
+    "title": "Bilingual Vietnamese Psychiatrist",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "vi",
+    "posted": "2026-10-02",
+    "url": "https://jobs.micro1.ai/post/8d04e5c4-2539-4394-a8e3-7f46953d5f4e",
+    "externalId": "8d04e5c4-2539-4394-a8e3-7f46953d5f4e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bilingual-vietnamese-psychologist-phd-3a4a3726-ae6d-44a5-9937-d",
+    "platform": "micro1",
+    "title": "Bilingual Vietnamese Psychologist (PhD)",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "vi",
+    "degree": true,
+    "posted": "2026-10-02",
+    "url": "https://jobs.micro1.ai/post/3a4a3726-ae6d-44a5-9937-d7d7c90fefdc",
+    "externalId": "3a4a3726-ae6d-44a5-9937-d7d7c90fefdc",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-bluebook-citation-specialist-law-students-recent-jds-f78b7cdc-5",
+    "platform": "micro1",
+    "title": "Bluebook Citation Specialist (Law Students & Recent JDs)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/f78b7cdc-5357-4f5c-b86c-92d88b5de36d",
+    "externalId": "f78b7cdc-5357-4f5c-b86c-92d88b5de36d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-brand-creative-strategy-expert-eefa6ece-b107-4896-b13c-a1d0c455",
+    "platform": "micro1",
+    "title": "Brand & Creative Strategy Expert",
+    "categories": [
+      "business",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 350,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/eefa6ece-b107-4896-b13c-a1d0c455680a",
+    "externalId": "eefa6ece-b107-4896-b13c-a1d0c455680a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-business-operations-expert-f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
+    "platform": "micro1",
+    "title": "Business Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
+    "externalId": "f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-cad-design-expert-instructor-a51311c1-f926-47a1-80a3-c04aec36ee",
+    "platform": "micro1",
+    "title": "CAD Design Expert (Instructor)",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 90,
+    "posted": "2026-10-02",
+    "url": "https://jobs.micro1.ai/post/a51311c1-f926-47a1-80a3-c04aec36ee05",
+    "externalId": "a51311c1-f926-47a1-80a3-c04aec36ee05",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-cantonese-language-evaluator-5ca5feef-a2f0-4da9-ac55-1dfdc01bcd",
+    "platform": "micro1",
+    "title": "Cantonese Language Evaluator",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 40,
+    "language": "zh",
+    "posted": "2026-09-11",
+    "url": "https://jobs.micro1.ai/post/5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9",
+    "externalId": "5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-cantonese-transcription-expert-361f9b97-4179-4631-a026-514efee3",
+    "platform": "micro1",
+    "title": "Cantonese Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 35,
+    "language": "zh",
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/361f9b97-4179-4631-a026-514efee334bc",
+    "externalId": "361f9b97-4179-4631-a026-514efee334bc",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-car-mounted-360-video-recorder-36e1b1f6-b8bf-4273-a09a-94116a1f",
+    "platform": "micro1",
+    "title": "Car-Mounted 360° Video Recorder",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 30,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
+    "externalId": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-certified-inpatient-coder-345daaa5-4cbe-4af3-af6f-4e27382d6d41",
+    "platform": "micro1",
+    "title": "Certified Inpatient Coder",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/345daaa5-4cbe-4af3-af6f-4e27382d6d41",
+    "externalId": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-cfd-engineer-a5de9ba8-ba95-4737-b985-327e48c2b8d9",
+    "platform": "micro1",
+    "title": "CFD Engineer",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 150,
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/a5de9ba8-ba95-4737-b985-327e48c2b8d9",
+    "externalId": "a5de9ba8-ba95-4737-b985-327e48c2b8d9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-civil-rights-attorney-biglaw-firms-2116b175-8be3-49bd-8636-dd3e",
+    "platform": "micro1",
+    "title": "Civil Rights Attorney (BigLaw Firms)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/2116b175-8be3-49bd-8636-dd3ecef38d70",
+    "externalId": "2116b175-8be3-49bd-8636-dd3ecef38d70",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-clinical-publications-author-5ed4068f-177a-4ed2-9642-a9d4ba45be",
+    "platform": "micro1",
+    "title": "Clinical Publications Author",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-09-18",
+    "url": "https://jobs.micro1.ai/post/5ed4068f-177a-4ed2-9642-a9d4ba45be39",
+    "externalId": "5ed4068f-177a-4ed2-9642-a9d4ba45be39",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-clinical-microbiome-translational-research-scientist-phd-22ab4f",
+    "platform": "micro1",
+    "title": "Clinical, Microbiome & Translational Research Scientist (PhD)",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/22ab4fe5-f39d-4d8a-97f7-db7c16ff79e2",
+    "externalId": "22ab4fe5-f39d-4d8a-97f7-db7c16ff79e2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-combat-arms-targeting-sme-a287e691-92ad-4e86-bacc-322b0e92aeec",
+    "platform": "micro1",
+    "title": "Combat Arms & Targeting SME",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 110,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/a287e691-92ad-4e86-bacc-322b0e92aeec",
+    "externalId": "a287e691-92ad-4e86-bacc-322b0e92aeec",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-commercial-attorney-076f4149-4798-4082-b157-d35d179a869f",
+    "platform": "micro1",
+    "title": "Commercial Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 110,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/076f4149-4798-4082-b157-d35d179a869f",
+    "externalId": "076f4149-4798-4082-b157-d35d179a869f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-community-manager-274e1507-d71c-4249-8d70-ec11e53c5ea6",
+    "platform": "micro1",
+    "title": "Community Manager",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 20,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/274e1507-d71c-4249-8d70-ec11e53c5ea6",
+    "externalId": "274e1507-d71c-4249-8d70-ec11e53c5ea6",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-competitive-coder-dcd53728-6fe1-4c86-b362-31cdc7428e3a",
+    "platform": "micro1",
+    "title": "Competitive Coder",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 65,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/dcd53728-6fe1-4c86-b362-31cdc7428e3a",
+    "externalId": "dcd53728-6fe1-4c86-b362-31cdc7428e3a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-competitive-data-scientist-kaggle-0406acdc-9e38-4f22-a8b5-9e9e2",
+    "platform": "micro1",
+    "title": "Competitive Data Scientist (Kaggle)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
+    "externalId": "0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-compliance-attorney-306236e1-0ca6-4096-a8b2-4495678ff1ef",
+    "platform": "micro1",
+    "title": "Compliance Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/306236e1-0ca6-4096-a8b2-4495678ff1ef",
+    "externalId": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-computational-biology-bioinformatics-expert-phd-29120525-ef73-4",
+    "platform": "micro1",
+    "title": "Computational Biology & Bioinformatics Expert (PhD)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/29120525-ef73-4aa9-9a77-9fa59009d4d3",
+    "externalId": "29120525-ef73-4aa9-9a77-9fa59009d4d3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-computational-chemistry-structural-biology-drug-discovery-scien",
+    "platform": "micro1",
+    "title": "Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/7365d348-e98a-4999-a018-2415a6a737ca",
+    "externalId": "7365d348-e98a-4999-a018-2415a6a737ca",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-consular-officer-passport-specialist-cf02a995-bac4-4503-b872-cb",
+    "platform": "micro1",
+    "title": "Consular Officer / Passport Specialist",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/cf02a995-bac4-4503-b872-cb8cdbc536de",
+    "externalId": "cf02a995-bac4-4503-b872-cb8cdbc536de",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-consulting-specialist-7e08e6c8-6e8a-46bb-a594-1bfae53c743b",
+    "platform": "micro1",
+    "title": "Consulting Specialist",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 350,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/7e08e6c8-6e8a-46bb-a594-1bfae53c743b",
+    "externalId": "7e08e6c8-6e8a-46bb-a594-1bfae53c743b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-consumer-reviewer-f6338e16-d6aa-4fab-bedc-f93a0c594294",
+    "platform": "micro1",
+    "title": "Consumer Reviewer",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/f6338e16-d6aa-4fab-bedc-f93a0c594294",
+    "externalId": "f6338e16-d6aa-4fab-bedc-f93a0c594294",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-contract-attorney-482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef",
+    "platform": "micro1",
+    "title": "Contract Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 85,
+    "payMax": 105,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef",
+    "externalId": "482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-contracts-attorney-d01b226a-f47e-4c65-b4ef-4245b4d4ea37",
+    "platform": "micro1",
+    "title": "Contracts Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 110,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/d01b226a-f47e-4c65-b4ef-4245b4d4ea37",
+    "externalId": "d01b226a-f47e-4c65-b4ef-4245b4d4ea37",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-corporate-attorney-106a1938-b587-4e53-8d54-4b6eba20343a",
+    "platform": "micro1",
+    "title": "Corporate Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/106a1938-b587-4e53-8d54-4b6eba20343a",
+    "externalId": "106a1938-b587-4e53-8d54-4b6eba20343a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-corporate-attorney-biglaw-firms-2f7c4611-a5b1-4e6a-be39-d11c167",
+    "platform": "micro1",
+    "title": "Corporate Attorney (BigLaw Firms)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/2f7c4611-a5b1-4e6a-be39-d11c167573a0",
+    "externalId": "2f7c4611-a5b1-4e6a-be39-d11c167573a0",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-corporate-transactions-attorney-ff001293-c23b-46eb-a4db-8b2598c",
+    "platform": "micro1",
+    "title": "Corporate Transactions Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 130,
+    "posted": "2026-09-22",
+    "url": "https://jobs.micro1.ai/post/ff001293-c23b-46eb-a4db-8b2598c27897",
+    "externalId": "ff001293-c23b-46eb-a4db-8b2598c27897",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-customer-service-expert-300552bc-f87f-4511-aa7a-9fcf5a483f37",
+    "platform": "micro1",
+    "title": "Customer Service Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 18,
+    "payMax": 28,
+    "posted": "2026-09-09",
+    "url": "https://jobs.micro1.ai/post/300552bc-f87f-4511-aa7a-9fcf5a483f37",
+    "externalId": "300552bc-f87f-4511-aa7a-9fcf5a483f37",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-cyber-threat-intelligence-sme-f3f5d9b3-7524-4b58-8503-347eafca3",
+    "platform": "micro1",
+    "title": "Cyber Threat Intelligence SME",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 70,
+    "payMax": 110,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/f3f5d9b3-7524-4b58-8503-347eafca3b25",
+    "externalId": "f3f5d9b3-7524-4b58-8503-347eafca3b25",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-danish-transcription-expert-ca702454-8e86-4446-8654-1f08c2a9d16",
+    "platform": "micro1",
+    "title": "Danish Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 24,
+    "payMax": 30,
+    "language": "da",
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/ca702454-8e86-4446-8654-1f08c2a9d162",
+    "externalId": "ca702454-8e86-4446-8654-1f08c2a9d162",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-analyst-88da544c-5d28-4835-bde7-0272a2a1a4eb",
+    "platform": "micro1",
+    "title": "Data Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 31,
+    "payMax": 60,
+    "posted": "2026-09-09",
+    "url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb",
+    "externalId": "88da544c-5d28-4835-bde7-0272a2a1a4eb",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-privacy-analyst-8f201c75-ddff-42d1-93a6-c88bb330b7cf",
+    "platform": "micro1",
+    "title": "Data Privacy Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 31,
+    "payMax": 60,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/8f201c75-ddff-42d1-93a6-c88bb330b7cf",
+    "externalId": "8f201c75-ddff-42d1-93a6-c88bb330b7cf",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-science-analytic-methodology-sme-0db2a044-3c6c-47e9-b610-2",
+    "platform": "micro1",
+    "title": "Data Science & Analytic Methodology SME",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 100,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/0db2a044-3c6c-47e9-b610-292eddd305d2",
+    "externalId": "0db2a044-3c6c-47e9-b610-292eddd305d2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-science-specialist-34374189-05e8-4eb2-8506-a831931459c9",
+    "platform": "micro1",
+    "title": "Data Science Specialist",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 350,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/34374189-05e8-4eb2-8506-a831931459c9",
+    "externalId": "34374189-05e8-4eb2-8506-a831931459c9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-scientist-dc71a0c0-527b-474b-96e3-022c63e7012d",
+    "platform": "micro1",
+    "title": "Data Scientist",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 245,
+    "payMax": 280,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/dc71a0c0-527b-474b-96e3-022c63e7012d",
+    "externalId": "dc71a0c0-527b-474b-96e3-022c63e7012d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-data-video-generalist-us-based-204600bf-1abe-4ab0-a474-cd226499",
+    "platform": "micro1",
+    "title": "Data-Video Generalist (US-based)",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 13,
+    "payMax": 15,
+    "posted": "2026-04-21",
+    "url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149",
+    "externalId": "204600bf-1abe-4ab0-a474-cd2264999149",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-defense-analyst-7feee246-52db-48df-880c-58a87bbc9c65",
+    "platform": "micro1",
+    "title": "Defense Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65",
+    "externalId": "7feee246-52db-48df-880c-58a87bbc9c65",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-dentist-3b349b7b-de4d-4763-8aad-e4afff866be3",
+    "platform": "micro1",
+    "title": "Dentist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 285,
+    "posted": "2026-10-19",
+    "url": "https://jobs.micro1.ai/post/3b349b7b-de4d-4763-8aad-e4afff866be3",
+    "externalId": "3b349b7b-de4d-4763-8aad-e4afff866be3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-dentist-dds-dmd-dental-technology-b59e2f36-d9d3-47b6-b2c2-9a91e",
+    "platform": "micro1",
+    "title": "Dentist (DDS/DMD) - Dental Technology",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 285,
+    "posted": "2026-10-19",
+    "url": "https://jobs.micro1.ai/post/b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
+    "externalId": "b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-derivatives-counsel-isda-specialist-ca43d8de-7ded-4a6d-a8e1-bfc",
+    "platform": "micro1",
+    "title": "Derivatives Counsel (ISDA Specialist)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 200,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
+    "externalId": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-domain-contributor-evaluation-specialist-c476c74d-96cc-4254-ab5",
+    "platform": "micro1",
+    "title": "Domain Contributor - Evaluation Specialist",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 60,
+    "posted": "2026-10-21",
+    "url": "https://jobs.micro1.ai/post/c476c74d-96cc-4254-ab50-282849e9de5b",
+    "externalId": "c476c74d-96cc-4254-ab50-282849e9de5b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-dutch-transcription-expert-1949adfa-dfb9-405f-939c-fd531e11c31c",
+    "platform": "micro1",
+    "title": "Dutch Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 25,
+    "payMax": 30,
+    "language": "nl",
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/1949adfa-dfb9-405f-939c-fd531e11c31c",
+    "externalId": "1949adfa-dfb9-405f-939c-fd531e11c31c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-education-practitioner-learning-assessment-specialist-c3af6520-",
+    "platform": "micro1",
+    "title": "Education Practitioner - Learning & Assessment Specialist",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 130,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
+    "externalId": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-educator-assessor-writer-9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
+    "platform": "micro1",
+    "title": "Educator/ Assessor Writer",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 140,
+    "posted": "2026-09-18",
+    "url": "https://jobs.micro1.ai/post/9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
+    "externalId": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-employment-lawyer-68d31799-41cb-4899-987b-527eba2ef40a",
+    "platform": "micro1",
+    "title": "Employment Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/68d31799-41cb-4899-987b-527eba2ef40a",
+    "externalId": "68d31799-41cb-4899-987b-527eba2ef40a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-energy-utilities-regulatory-attorney-e788e018-6c54-4116-a975-1e",
+    "platform": "micro1",
+    "title": "Energy & Utilities Regulatory Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/e788e018-6c54-4116-a975-1e5d6144429b",
+    "externalId": "e788e018-6c54-4116-a975-1e5d6144429b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-english-teacher-7cb06da3-8e02-4bd1-8a53-46a573e92907",
+    "platform": "micro1",
+    "title": "English Teacher",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 40,
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/7cb06da3-8e02-4bd1-8a53-46a573e92907",
+    "externalId": "7cb06da3-8e02-4bd1-8a53-46a573e92907",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-english-voice-recording-8648356b-1e04-4d62-bfcc-c72c3d5993b0",
+    "platform": "micro1",
+    "title": "English Voice Recording",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 70,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/8648356b-1e04-4d62-bfcc-c72c3d5993b0",
+    "externalId": "8648356b-1e04-4d62-bfcc-c72c3d5993b0",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-equity-research-expert-95006305-f66b-4fba-9a06-339c48f82283",
+    "platform": "micro1",
+    "title": "Equity Research Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 175,
+    "payMax": 300,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/95006305-f66b-4fba-9a06-339c48f82283",
+    "externalId": "95006305-f66b-4fba-9a06-339c48f82283",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-equity-investment-research-analyst-404112c9-2082-4e4e-b9f1-a04b",
+    "platform": "micro1",
+    "title": "Equity/Investment Research Analyst",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 175,
+    "payMax": 300,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/404112c9-2082-4e4e-b9f1-a04b8a58a317",
+    "externalId": "404112c9-2082-4e4e-b9f1-a04b8a58a317",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-evaluation-specialist-recent-grad-3a5698cc-bce4-4ec6-b992-b948a",
+    "platform": "micro1",
+    "title": "Evaluation Specialist/Recent Grad",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 60,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/3a5698cc-bce4-4ec6-b992-b948a5c46a2b",
+    "externalId": "3a5698cc-bce4-4ec6-b992-b948a5c46a2b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-exocentric-video-recorder-04955b6f-5026-498a-8143-5ec852cbd526",
+    "platform": "micro1",
+    "title": "Exocentric Video Recorder",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 30,
+    "posted": "2026-09-03",
+    "url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526",
+    "externalId": "04955b6f-5026-498a-8143-5ec852cbd526",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-family-law-attorney-aaml-registered-acdf726a-da53-48e9-9343-4b4",
+    "platform": "micro1",
+    "title": "Family Law Attorney (AAML Registered)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/acdf726a-da53-48e9-9343-4b4a4cd29170",
+    "externalId": "acdf726a-da53-48e9-9343-4b4a4cd29170",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-family-medicine-hospitalist-ff33f551-ce15-4d0f-96a7-1b03b53776e",
+    "platform": "micro1",
+    "title": "Family Medicine Hospitalist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 115,
+    "posted": "2026-10-09",
+    "url": "https://jobs.micro1.ai/post/ff33f551-ce15-4d0f-96a7-1b03b53776e4",
+    "externalId": "ff33f551-ce15-4d0f-96a7-1b03b53776e4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-family-medicine-physician-md-dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2d",
+    "platform": "micro1",
+    "title": "Family Medicine Physician (MD)",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 120,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe",
+    "externalId": "dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-fda-regulatory-compliance-attorney-08a19d61-5371-48c5-94c5-8b57",
+    "platform": "micro1",
+    "title": "FDA & Regulatory Compliance Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/08a19d61-5371-48c5-94c5-8b57b503f023",
+    "externalId": "08a19d61-5371-48c5-94c5-8b57b503f023",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-federal-staff-reporting-analyst-69c7fdc3-5040-48aa-9de9-a3870e1",
+    "platform": "micro1",
+    "title": "Federal Staff Reporting Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-21",
+    "url": "https://jobs.micro1.ai/post/69c7fdc3-5040-48aa-9de9-a3870e1b3069",
+    "externalId": "69c7fdc3-5040-48aa-9de9-a3870e1b3069",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-fighter-pilot-761ff1a6-68bf-4e45-8047-41f475c66823",
+    "platform": "micro1",
+    "title": "Fighter Pilot",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/761ff1a6-68bf-4e45-8047-41f475c66823",
+    "externalId": "761ff1a6-68bf-4e45-8047-41f475c66823",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-finance-accounting-expert-00ad74df-491a-4327-a38c-5dc7d484ad77",
+    "platform": "micro1",
+    "title": "Finance & Accounting Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 90,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/00ad74df-491a-4327-a38c-5dc7d484ad77",
+    "externalId": "00ad74df-491a-4327-a38c-5dc7d484ad77",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-finance-specialist-e107daa7-2cc8-4153-94c2-ff7806bb9d6e",
+    "platform": "micro1",
+    "title": "Finance Specialist",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 350,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/e107daa7-2cc8-4153-94c2-ff7806bb9d6e",
+    "externalId": "e107daa7-2cc8-4153-94c2-ff7806bb9d6e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-financial-aid-advisor-bb117da1-3d6d-41d7-9bb5-69beff1f1104",
+    "platform": "micro1",
+    "title": "Financial Aid Advisor",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 50,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/bb117da1-3d6d-41d7-9bb5-69beff1f1104",
+    "externalId": "bb117da1-3d6d-41d7-9bb5-69beff1f1104",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-finnish-transcription-expert-3bc1ec11-392d-4d52-afe4-d5bc6badcb",
+    "platform": "micro1",
+    "title": "Finnish Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "language": "fi",
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/3bc1ec11-392d-4d52-afe4-d5bc6badcbc1",
+    "externalId": "3bc1ec11-392d-4d52-afe4-d5bc6badcbc1",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-freecad-expert-e7c0aec1-251c-4ab7-8be9-f278faeb4540",
+    "platform": "micro1",
+    "title": "FreeCAD Expert",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-11",
+    "url": "https://jobs.micro1.ai/post/e7c0aec1-251c-4ab7-8be9-f278faeb4540",
+    "externalId": "e7c0aec1-251c-4ab7-8be9-f278faeb4540",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-game-developer-190225df-d67a-402d-bd7f-d9c7c40bb693",
+    "platform": "micro1",
+    "title": "Game Developer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 25,
+    "payMax": 70,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/190225df-d67a-402d-bd7f-d9c7c40bb693",
+    "externalId": "190225df-d67a-402d-bd7f-d9c7c40bb693",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-gaming-gambling-attorney-e8e5f75c-9a53-49c5-a0a8-d5fe54dfda81",
+    "platform": "micro1",
+    "title": "Gaming & Gambling Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/e8e5f75c-9a53-49c5-a0a8-d5fe54dfda81",
+    "externalId": "e8e5f75c-9a53-49c5-a0a8-d5fe54dfda81",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-general-counsel-15fe5ebb-b057-4a33-b0c3-14510fe1065e",
+    "platform": "micro1",
+    "title": "General Counsel",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 110,
+    "posted": "2026-09-22",
+    "url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e",
+    "externalId": "15fe5ebb-b057-4a33-b0c3-14510fe1065e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-generalist-6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
+    "platform": "micro1",
+    "title": "Generalist",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 49,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
+    "externalId": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-generalist-u-s-tax-workflow-evaluation-d0f83737-b673-439b-a66f-",
+    "platform": "micro1",
+    "title": "Generalist — U.S. Tax Workflow Evaluation",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 110,
+    "posted": "2026-09-30",
+    "url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707",
+    "externalId": "d0f83737-b673-439b-a66f-0f23bcd2b707",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-georgian-speaking-psychiatrist-fded0ebb-c241-4245-9b2d-c656e6f7",
+    "platform": "micro1",
+    "title": "Georgian Speaking Psychiatrist",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "ka",
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/fded0ebb-c241-4245-9b2d-c656e6f703d2",
+    "externalId": "fded0ebb-c241-4245-9b2d-c656e6f703d2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-georgian-speaking-psychologist-phd-193724fb-2847-47f6-9f5d-59a5",
+    "platform": "micro1",
+    "title": "Georgian Speaking Psychologist (PhD)",
+    "categories": [
+      "science",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "language": "ka",
+    "degree": true,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/193724fb-2847-47f6-9f5d-59a53769e40f",
+    "externalId": "193724fb-2847-47f6-9f5d-59a53769e40f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-german-transcription-expert-eb959833-f2b5-4401-95e0-cb698f0f199",
+    "platform": "micro1",
+    "title": "German Transcription Expert",
+    "categories": [
+      "general",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "language": "de",
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/eb959833-f2b5-4401-95e0-cb698f0f199f",
+    "externalId": "eb959833-f2b5-4401-95e0-cb698f0f199f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-gmail-google-calendar-ai-assistant-evaluator-313b5b7a-a6a8-4acf",
+    "platform": "micro1",
+    "title": "Gmail & Google Calendar AI Assistant Evaluator",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 30,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/313b5b7a-a6a8-4acf-9842-017d8506a037",
+    "externalId": "313b5b7a-a6a8-4acf-9842-017d8506a037",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-graphic-designer-0c0c4da1-6f51-46c2-91f4-13373c7284f7",
+    "platform": "micro1",
+    "title": "Graphic Designer",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 35,
+    "payMax": 105,
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/0c0c4da1-6f51-46c2-91f4-13373c7284f7",
+    "externalId": "0c0c4da1-6f51-46c2-91f4-13373c7284f7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-gujarati-transcription-expert-e67f4a0c-b99c-4725-8796-a09b12dd8",
+    "platform": "micro1",
+    "title": "Gujarati Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 12,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/e67f4a0c-b99c-4725-8796-a09b12dd8d06",
+    "externalId": "e67f4a0c-b99c-4725-8796-a09b12dd8d06",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hardware-expert-msc-or-phd-aa1993c5-2079-40ac-ad0a-09ebfd77960d",
+    "platform": "micro1",
+    "title": "Hardware Expert (MSc. or PhD)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/aa1993c5-2079-40ac-ad0a-09ebfd77960d",
+    "externalId": "aa1993c5-2079-40ac-ad0a-09ebfd77960d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-healthcare-attorney-biglaw-firms-f1bc4dbe-39df-4aa5-ac08-fc3e41",
+    "platform": "micro1",
+    "title": "Healthcare Attorney (BigLaw Firms)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/f1bc4dbe-39df-4aa5-ac08-fc3e41c40fb1",
+    "externalId": "f1bc4dbe-39df-4aa5-ac08-fc3e41c40fb1",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hospitalist-physician-40652c88-e755-454c-b41b-d50f8bc34198",
+    "platform": "micro1",
+    "title": "Hospitalist Physician",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 120,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/40652c88-e755-454c-b41b-d50f8bc34198",
+    "externalId": "40652c88-e755-454c-b41b-d50f8bc34198",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hospitalist-physician-65311636-4135-402d-8c84-cee8b2dcefdc",
+    "platform": "micro1",
+    "title": "Hospitalist Physician",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 70,
+    "payMax": 115,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/65311636-4135-402d-8c84-cee8b2dcefdc",
+    "externalId": "65311636-4135-402d-8c84-cee8b2dcefdc",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hospitalist-reviewer-6ec61d0d-4e7b-4e79-bcb6-23fab6b05923",
+    "platform": "micro1",
+    "title": "Hospitalist Reviewer",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 115,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/6ec61d0d-4e7b-4e79-bcb6-23fab6b05923",
+    "externalId": "6ec61d0d-4e7b-4e79-bcb6-23fab6b05923",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hospitality-worker-toast-pos-user-5fae0ae4-40c9-4fcb-9923-1d1e3",
+    "platform": "micro1",
+    "title": "Hospitality Worker (Toast POS User)",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 28,
+    "payMax": 92,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
+    "externalId": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-hr-people-operations-expert-7c577ab9-89b0-4104-b22e-89b1408187d",
+    "platform": "micro1",
+    "title": "HR & People Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/7c577ab9-89b0-4104-b22e-89b1408187d6",
+    "externalId": "7c577ab9-89b0-4104-b22e-89b1408187d6",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-human-intelligence-collector-humint-36174963-012b-4a8d-b955-12d",
+    "platform": "micro1",
+    "title": "Human Intelligence Collector (HUMINT)",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 80,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/36174963-012b-4a8d-b955-12d48aac7b6f",
+    "externalId": "36174963-012b-4a8d-b955-12d48aac7b6f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-humanitarian-aid-representative-6ea926f9-3711-40d7-ba08-6b53367",
+    "platform": "micro1",
+    "title": "Humanitarian Aid Representative",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 70,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/6ea926f9-3711-40d7-ba08-6b53367ebbb5",
+    "externalId": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-imagery-analyst-ai-ml-training-data-3ca164ec-a540-4f18-b298-09c",
+    "platform": "micro1",
+    "title": "Imagery Analyst - AI/ML Training Data",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 60,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/3ca164ec-a540-4f18-b298-09c54c377eb2",
+    "externalId": "3ca164ec-a540-4f18-b298-09c54c377eb2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-immigration-attorney-4915aabd-6a72-46fd-a436-6717ce826afd",
+    "platform": "micro1",
+    "title": "Immigration Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/4915aabd-6a72-46fd-a436-6717ce826afd",
+    "externalId": "4915aabd-6a72-46fd-a436-6717ce826afd",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-in-house-counsel-0936cd2a-a0a9-4105-802a-a4ec81cbf466",
+    "platform": "micro1",
+    "title": "In-House Counsel",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 130,
+    "posted": "2026-09-22",
+    "url": "https://jobs.micro1.ai/post/0936cd2a-a0a9-4105-802a-a4ec81cbf466",
+    "externalId": "0936cd2a-a0a9-4105-802a-a4ec81cbf466",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-industrial-design-cad-expert-e929836f-3c6e-40ef-824d-90d65f99e8",
+    "platform": "micro1",
+    "title": "Industrial Design CAD Expert",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-11",
+    "url": "https://jobs.micro1.ai/post/e929836f-3c6e-40ef-824d-90d65f99e817",
+    "externalId": "e929836f-3c6e-40ef-824d-90d65f99e817",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-inpatient-care-physician-md-do-6fe1b365-e42d-4a8f-a474-89801118",
+    "platform": "micro1",
+    "title": "Inpatient Care Physician (MD/DO)",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 115,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/6fe1b365-e42d-4a8f-a474-89801118311e",
+    "externalId": "6fe1b365-e42d-4a8f-a474-89801118311e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-inpatient-coder-ccs-a0417769-16cd-43a1-a5c7-1226f2b10932",
+    "platform": "micro1",
+    "title": "Inpatient Coder (CCS)",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/a0417769-16cd-43a1-a5c7-1226f2b10932",
+    "externalId": "a0417769-16cd-43a1-a5c7-1226f2b10932",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-inpatient-medical-coder-55901470-d138-47d9-a2b2-cc5566df2cea",
+    "platform": "micro1",
+    "title": "Inpatient Medical Coder",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-21",
+    "url": "https://jobs.micro1.ai/post/55901470-d138-47d9-a2b2-cc5566df2cea",
+    "externalId": "55901470-d138-47d9-a2b2-cc5566df2cea",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-intelligence-analyst-e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+    "platform": "micro1",
+    "title": "Intelligence Analyst",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 80,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+    "externalId": "e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-internal-medicine-hospitalist-90f04fad-832c-44b2-b942-311422a58",
+    "platform": "micro1",
+    "title": "Internal Medicine Hospitalist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 115,
+    "posted": "2026-10-10",
+    "url": "https://jobs.micro1.ai/post/90f04fad-832c-44b2-b942-311422a5841f",
+    "externalId": "90f04fad-832c-44b2-b942-311422a5841f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-finance-expert-3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
+    "platform": "micro1",
+    "title": "Investment & Finance Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 245,
+    "payMax": 280,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
+    "externalId": "3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-banking-m-a-advisory-51d28c89-faea-4ff7-8ea5-181b4a6",
+    "platform": "micro1",
+    "title": "Investment Banking – M&A Advisory.",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 175,
+    "payMax": 300,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/51d28c89-faea-4ff7-8ea5-181b4a6dce86",
+    "externalId": "51d28c89-faea-4ff7-8ea5-181b4a6dce86",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-banking-associate-254e0a96-f823-486f-b0f5-cc82dca094",
+    "platform": "micro1",
+    "title": "Investment Banking Associate",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 120,
+    "payMax": 150,
+    "posted": "2026-10-17",
+    "url": "https://jobs.micro1.ai/post/254e0a96-f823-486f-b0f5-cc82dca09427",
+    "externalId": "254e0a96-f823-486f-b0f5-cc82dca09427",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-banking-associate-c0b836e3-f118-4b88-9dbe-46a400c074",
+    "platform": "micro1",
+    "title": "Investment Banking Associate",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 100,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/c0b836e3-f118-4b88-9dbe-46a400c074c2",
+    "externalId": "c0b836e3-f118-4b88-9dbe-46a400c074c2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-banking-expert-fe1e7380-928e-40b6-ba2c-b0e544e09a5a",
+    "platform": "micro1",
+    "title": "Investment Banking Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 175,
+    "payMax": 300,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/fe1e7380-928e-40b6-ba2c-b0e544e09a5a",
+    "externalId": "fe1e7380-928e-40b6-ba2c-b0e544e09a5a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-funds-asset-management-attorney-5b15b9c9-39d5-4c20-a",
+    "platform": "micro1",
+    "title": "Investment Funds & Asset Management Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/5b15b9c9-39d5-4c20-a46f-2a279ec9ec3f",
+    "externalId": "5b15b9c9-39d5-4c20-a46f-2a279ec9ec3f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-investment-funds-attorney-81bef975-1ec5-404c-a1a6-7efe49dec2a3",
+    "platform": "micro1",
+    "title": "Investment Funds Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 180,
+    "posted": "2026-09-22",
+    "url": "https://jobs.micro1.ai/post/81bef975-1ec5-404c-a1a6-7efe49dec2a3",
+    "externalId": "81bef975-1ec5-404c-a1a6-7efe49dec2a3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-it-manager-1a90eb63-30e8-4c77-9996-94dc4b02d909",
+    "platform": "micro1",
+    "title": "IT Manager",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 75,
+    "posted": "2026-08-15",
+    "url": "https://jobs.micro1.ai/post/1a90eb63-30e8-4c77-9996-94dc4b02d909",
+    "externalId": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-japanese-language-expert-b0e8fb90-875e-43dc-b725-15072dee832d",
+    "platform": "micro1",
+    "title": "Japanese Language Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 36,
+    "language": "ja",
+    "posted": "2026-09-19",
+    "url": "https://jobs.micro1.ai/post/b0e8fb90-875e-43dc-b725-15072dee832d",
+    "externalId": "b0e8fb90-875e-43dc-b725-15072dee832d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-japanese-language-expert-26044f07-dc45-4a01-8a5e-8154914a1267",
+    "platform": "micro1",
+    "title": "Japanese Language Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 65,
+    "payMax": 98,
+    "language": "ja",
+    "posted": "2026-08-11",
+    "url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267",
+    "externalId": "26044f07-dc45-4a01-8a5e-8154914a1267",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-journalist-writer-86213f23-d13c-4390-a865-8e3c1cb52eb0",
+    "platform": "micro1",
+    "title": "Journalist/Writer",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 140,
+    "posted": "2026-09-18",
+    "url": "https://jobs.micro1.ai/post/86213f23-d13c-4390-a865-8e3c1cb52eb0",
+    "externalId": "86213f23-d13c-4390-a865-8e3c1cb52eb0",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-junior-data-scientist-622203dd-c0fa-49fc-aae4-6bd742196597",
+    "platform": "micro1",
+    "title": "Junior Data Scientist",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 200,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/622203dd-c0fa-49fc-aae4-6bd742196597",
+    "externalId": "622203dd-c0fa-49fc-aae4-6bd742196597",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-junior-lawyer-0e78e401-56d5-423c-8b26-bcf85bab25ff",
+    "platform": "micro1",
+    "title": "Junior Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/0e78e401-56d5-423c-8b26-bcf85bab25ff",
+    "externalId": "0e78e401-56d5-423c-8b26-bcf85bab25ff",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-junior-transactional-attorney-15be616a-44af-4fd5-8283-e2fd51a11",
+    "platform": "micro1",
+    "title": "Junior Transactional Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 70,
+    "payMax": 90,
+    "posted": "2026-09-24",
+    "url": "https://jobs.micro1.ai/post/15be616a-44af-4fd5-8283-e2fd51a11f1b",
+    "externalId": "15be616a-44af-4fd5-8283-e2fd51a11f1b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-korean-language-expert-772b9251-fab7-4758-b4cd-f681b863974f",
+    "platform": "micro1",
+    "title": "Korean Language Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 36,
+    "language": "ko",
+    "posted": "2026-09-19",
+    "url": "https://jobs.micro1.ai/post/772b9251-fab7-4758-b4cd-f681b863974f",
+    "externalId": "772b9251-fab7-4758-b4cd-f681b863974f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-korean-language-expert-40ace067-cec8-4998-bb75-067a565c23b3",
+    "platform": "micro1",
+    "title": "Korean Language Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 65,
+    "payMax": 98,
+    "language": "ko",
+    "posted": "2026-08-11",
+    "url": "https://jobs.micro1.ai/post/40ace067-cec8-4998-bb75-067a565c23b3",
+    "externalId": "40ace067-cec8-4998-bb75-067a565c23b3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-law-review-cite-checker-20ea0fc0-b120-4115-83d0-d6bd2b8c8943",
+    "platform": "micro1",
+    "title": "Law Review Cite-Checker",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/20ea0fc0-b120-4115-83d0-d6bd2b8c8943",
+    "externalId": "20ea0fc0-b120-4115-83d0-d6bd2b8c8943",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-law-student-dc2ca458-5a54-4d0a-971b-3e9aff15a123",
+    "platform": "micro1",
+    "title": "Law Student",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123",
+    "externalId": "dc2ca458-5a54-4d0a-971b-3e9aff15a123",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-lawyer-1031bd16-b859-454b-a97c-a3b8ce1c606c",
+    "platform": "micro1",
+    "title": "Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/1031bd16-b859-454b-a97c-a3b8ce1c606c",
+    "externalId": "1031bd16-b859-454b-a97c-a3b8ce1c606c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-lawyer-d484ab8c-eb8b-4b2f-b742-3d00719ca143",
+    "platform": "micro1",
+    "title": "Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/d484ab8c-eb8b-4b2f-b742-3d00719ca143",
+    "externalId": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-lawyer-b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d",
+    "platform": "micro1",
+    "title": "Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 180,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d",
+    "externalId": "b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-lawyer-6fc6311d-f159-46ad-90c9-df1c42c9765b",
+    "platform": "micro1",
+    "title": "Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 70,
+    "posted": "2026-08-15",
+    "url": "https://jobs.micro1.ai/post/6fc6311d-f159-46ad-90c9-df1c42c9765b",
+    "externalId": "6fc6311d-f159-46ad-90c9-df1c42c9765b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-lawyer-legal-writer-c99724a5-d4e7-48d0-92b1-73dde88ad9c8",
+    "platform": "micro1",
+    "title": "Lawyer/Legal Writer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 140,
+    "posted": "2026-09-18",
+    "url": "https://jobs.micro1.ai/post/c99724a5-d4e7-48d0-92b1-73dde88ad9c8",
+    "externalId": "c99724a5-d4e7-48d0-92b1-73dde88ad9c8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-legal-compliance-expert-c05c79ea-1396-4eba-8ca2-95573e981860",
+    "platform": "micro1",
+    "title": "Legal & Compliance Expert",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/c05c79ea-1396-4eba-8ca2-95573e981860",
+    "externalId": "c05c79ea-1396-4eba-8ca2-95573e981860",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-legal-citation-specialist-law-students-d44dc694-8535-4f4c-8b2b-",
+    "platform": "micro1",
+    "title": "Legal Citation Specialist (Law Students)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/d44dc694-8535-4f4c-8b2b-1b576839e74a",
+    "externalId": "d44dc694-8535-4f4c-8b2b-1b576839e74a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-legal-headhunter-referral-partner-ea63124a-6a16-4be4-bc4c-2a00d",
+    "platform": "micro1",
+    "title": "Legal Headhunter - Referral Partner",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-09-26",
+    "url": "https://jobs.micro1.ai/post/ea63124a-6a16-4be4-bc4c-2a00d576ecb1",
+    "externalId": "ea63124a-6a16-4be4-bc4c-2a00d576ecb1",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-life-sciences-research-expert-python-f796a3ec-8108-4e21-9497-f7",
+    "platform": "micro1",
+    "title": "Life Sciences Research Expert (Python)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "posted": "2026-10-21",
+    "url": "https://jobs.micro1.ai/post/f796a3ec-8108-4e21-9497-f70b6d3ff3b1",
+    "externalId": "f796a3ec-8108-4e21-9497-f70b6d3ff3b1",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-life-sciences-research-scientist-phd-wet-lab-computational-biol",
+    "platform": "micro1",
+    "title": "Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-15",
+    "url": "https://jobs.micro1.ai/post/dfb2a79d-fb7a-4b6f-b867-733289e253c7",
+    "externalId": "dfb2a79d-fb7a-4b6f-b867-733289e253c7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-litigation-associate-attorney-biglaw-firms-95264730-9ca8-479c-9",
+    "platform": "micro1",
+    "title": "Litigation Associate Attorney (BigLaw Firms)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/95264730-9ca8-479c-971e-a7ed7468f03e",
+    "externalId": "95264730-9ca8-479c-971e-a7ed7468f03e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-litigation-attorney-0c6952e3-b783-407c-a451-b92996992038",
+    "platform": "micro1",
+    "title": "Litigation Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 170,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/0c6952e3-b783-407c-a451-b92996992038",
+    "externalId": "0c6952e3-b783-407c-a451-b92996992038",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-litigation-attorney-b7222393-60d2-4a14-b038-52eb7493c50b",
+    "platform": "micro1",
+    "title": "Litigation Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 170,
+    "posted": "2026-10-05",
+    "url": "https://jobs.micro1.ai/post/b7222393-60d2-4a14-b038-52eb7493c50b",
+    "externalId": "b7222393-60d2-4a14-b038-52eb7493c50b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-litigator-practicing-attorney-us-50d0cd3d-0d16-4c70-9094-8a66bb",
+    "platform": "micro1",
+    "title": "Litigator / Practicing Attorney (US)",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 160,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb",
+    "externalId": "50d0cd3d-0d16-4c70-9094-8a66bbc9dffb",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-locum-tenens-hospitalist-fc2b7fdd-2071-416b-8985-23c2976b7d1b",
+    "platform": "micro1",
+    "title": "Locum Tenens Hospitalist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 125,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/fc2b7fdd-2071-416b-8985-23c2976b7d1b",
+    "externalId": "fc2b7fdd-2071-416b-8985-23c2976b7d1b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-machine-learning-engineer-3751d160-6ea1-45e9-8c40-7af439059844",
+    "platform": "micro1",
+    "title": "Machine Learning Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 140,
+    "posted": "2026-04-17",
+    "url": "https://jobs.micro1.ai/post/3751d160-6ea1-45e9-8c40-7af439059844",
+    "externalId": "3751d160-6ea1-45e9-8c40-7af439059844",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-machine-learning-researcher-msc-or-phd-16e1c68d-4f30-431f-a0f8-",
+    "platform": "micro1",
+    "title": "Machine Learning Researcher (MSc. or PhD)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/16e1c68d-4f30-431f-a0f8-aa57d4b0893e",
+    "externalId": "16e1c68d-4f30-431f-a0f8-aa57d4b0893e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-mandarin-transcription-expert-8dea9829-e259-4841-befd-9a52edb8a",
+    "platform": "micro1",
+    "title": "Mandarin Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "language": "zh",
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/8dea9829-e259-4841-befd-9a52edb8a9f5",
+    "externalId": "8dea9829-e259-4841-befd-9a52edb8a9f5",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-mathematics-expert-msc-phd-9701abf9-febd-4f13-9183-80257478f22a",
+    "platform": "micro1",
+    "title": "Mathematics Expert (MSc./PhD)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a",
+    "externalId": "9701abf9-febd-4f13-9183-80257478f22a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-mechanical-cad-expert-4b15e855-b7ad-4e7c-8ad5-c0713de52f31",
+    "platform": "micro1",
+    "title": "Mechanical CAD Expert",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-11",
+    "url": "https://jobs.micro1.ai/post/4b15e855-b7ad-4e7c-8ad5-c0713de52f31",
+    "externalId": "4b15e855-b7ad-4e7c-8ad5-c0713de52f31",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-mechanical-design-engineer-cad-manufacturing-484708eb-dd2c-4d03",
+    "platform": "micro1",
+    "title": "Mechanical Design Engineer – CAD & Manufacturing",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/484708eb-dd2c-4d03-bb59-34684e78579f",
+    "externalId": "484708eb-dd2c-4d03-bb59-34684e78579f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-mechanical-engineering-expert-msc-or-phd-44fc17a0-8964-4970-979",
+    "platform": "micro1",
+    "title": "Mechanical Engineering Expert (MSc. or PhD)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/44fc17a0-8964-4970-979b-dd975baad36d",
+    "externalId": "44fc17a0-8964-4970-979b-dd975baad36d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-media-publishing-communications-law-attorney-25ad9f14-76f3-44e2",
+    "platform": "micro1",
+    "title": "Media, Publishing & Communications Law Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/25ad9f14-76f3-44e2-a521-23b2db426786",
+    "externalId": "25ad9f14-76f3-44e2-a521-23b2db426786",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-medical-coder-865bada5-304f-4f28-aa8d-5b0331975b16",
+    "platform": "micro1",
+    "title": "Medical Coder",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 32,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/865bada5-304f-4f28-aa8d-5b0331975b16",
+    "externalId": "865bada5-304f-4f28-aa8d-5b0331975b16",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-medical-coder-ccs-cic-9461932b-7cfe-41c8-b7db-4d0b0d599187",
+    "platform": "micro1",
+    "title": "Medical Coder (CCS / CIC)",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/9461932b-7cfe-41c8-b7db-4d0b0d599187",
+    "externalId": "9461932b-7cfe-41c8-b7db-4d0b0d599187",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-medical-communications-manager-d130c45f-c85a-4ce6-9a12-53c980a6",
+    "platform": "micro1",
+    "title": "Medical Communications Manager",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 80,
+    "posted": "2026-09-18",
+    "url": "https://jobs.micro1.ai/post/d130c45f-c85a-4ce6-9a12-53c980a63be7",
+    "externalId": "d130c45f-c85a-4ce6-9a12-53c980a63be7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-medical-specialist-dc6478b1-00fc-4fd8-929a-6658e39f8553",
+    "platform": "micro1",
+    "title": "Medical Specialist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 115,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/dc6478b1-00fc-4fd8-929a-6658e39f8553",
+    "externalId": "dc6478b1-00fc-4fd8-929a-6658e39f8553",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-medicare-enrollment-specialist-a6091fe2-e1e0-4460-b9db-6a513cee",
+    "platform": "micro1",
+    "title": "Medicare Enrollment Specialist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 60,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/a6091fe2-e1e0-4460-b9db-6a513ceead46",
+    "externalId": "a6091fe2-e1e0-4460-b9db-6a513ceead46",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-military-law-attorney-9dfaae74-1d7b-4742-9303-1a8888f68084",
+    "platform": "micro1",
+    "title": "Military Law Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/9dfaae74-1d7b-4742-9303-1a8888f68084",
+    "externalId": "9dfaae74-1d7b-4742-9303-1a8888f68084",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-military-legal-advisor-21bb587d-cd06-407b-95eb-44a44a5dc803",
+    "platform": "micro1",
+    "title": "Military Legal Advisor",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 70,
+    "payMax": 120,
+    "posted": "2026-10-23",
+    "url": "https://jobs.micro1.ai/post/21bb587d-cd06-407b-95eb-44a44a5dc803",
+    "externalId": "21bb587d-cd06-407b-95eb-44a44a5dc803",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-military-operations-reporting-sme-ca1d0b6d-cac6-43a8-996f-d9dc7",
+    "platform": "micro1",
+    "title": "Military Operations & Reporting SME",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-21",
+    "url": "https://jobs.micro1.ai/post/ca1d0b6d-cac6-43a8-996f-d9dc73a68e15",
+    "externalId": "ca1d0b6d-cac6-43a8-996f-d9dc73a68e15",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-military-operations-expert-badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
+    "platform": "micro1",
+    "title": "Military Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
+    "externalId": "badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-military-writing-specialist-314157c3-3907-4d37-853c-80d02690ca0",
+    "platform": "micro1",
+    "title": "Military Writing Specialist",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-21",
+    "url": "https://jobs.micro1.ai/post/314157c3-3907-4d37-853c-80d02690ca0b",
+    "externalId": "314157c3-3907-4d37-853c-80d02690ca0b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ml-engineer-msc-or-phd-be0ac227-30ab-4126-bde8-e1e0660c940f",
+    "platform": "micro1",
+    "title": "ML Engineer (MSc. or PhD)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/be0ac227-30ab-4126-bde8-e1e0660c940f",
+    "externalId": "be0ac227-30ab-4126-bde8-e1e0660c940f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-national-park-ranger-c7ffca93-f98e-41e6-96db-a17c89b8606d",
+    "platform": "micro1",
+    "title": "National Park Ranger",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 45,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/c7ffca93-f98e-41e6-96db-a17c89b8606d",
+    "externalId": "c7ffca93-f98e-41e6-96db-a17c89b8606d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-norwegian-transcription-expert-1e1e771b-bfaf-479a-8c5d-83637c34",
+    "platform": "micro1",
+    "title": "Norwegian Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "language": "no",
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/1e1e771b-bfaf-479a-8c5d-83637c346603",
+    "externalId": "1e1e771b-bfaf-479a-8c5d-83637c346603",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-open-source-contributor-github-18a809aa-0b7f-4523-ac0e-508c9f0f",
+    "platform": "micro1",
+    "title": "Open Source Contributor (GitHub)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 150,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/18a809aa-0b7f-4523-ac0e-508c9f0f6f66",
+    "externalId": "18a809aa-0b7f-4523-ac0e-508c9f0f6f66",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-open-source-github-maintainer-51a65c2c-07dd-4307-aba6-f7c4af173",
+    "platform": "micro1",
+    "title": "Open Source GitHub Maintainer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 300,
+    "posted": "2026-08-14",
+    "url": "https://jobs.micro1.ai/post/51a65c2c-07dd-4307-aba6-f7c4af17311c",
+    "externalId": "51a65c2c-07dd-4307-aba6-f7c4af17311c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-f3abc8e0-2f0e-4f28-aa3f-ee26",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-09-17",
+    "url": "https://jobs.micro1.ai/post/f3abc8e0-2f0e-4f28-aa3f-ee26ca98861f",
+    "externalId": "f3abc8e0-2f0e-4f28-aa3f-ee26ca98861f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-aged-50-e07e971f-2ab2-4ce7-9",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Aged 50+)",
+    "categories": [
+      "general",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 139,
+    "payMax": 140,
+    "posted": "2026-09-10",
+    "url": "https://jobs.micro1.ai/post/e07e971f-2ab2-4ce7-9351-33f086f4834f",
+    "externalId": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-alaska-based-15258a67-70c6-4",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Alaska-based)",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/15258a67-70c6-418b-aabc-af3bb643a336",
+    "externalId": "15258a67-70c6-418b-aabc-af3bb643a336",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-hawaii-based-6fb2682b-0443-4",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Hawaii-based)",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/6fb2682b-0443-47ad-a9e4-dc56e26d053b",
+    "externalId": "6fb2682b-0443-47ad-a9e4-dc56e26d053b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-siblings-6cf1339a-ab22-447e-",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Siblings)",
+    "categories": [
+      "general",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 139,
+    "payMax": 140,
+    "posted": "2026-09-09",
+    "url": "https://jobs.micro1.ai/post/6cf1339a-ab22-447e-8fa5-2ce79407fa2b",
+    "externalId": "6cf1339a-ab22-447e-8fa5-2ce79407fa2b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-paid-photo-contributor-opportunity-twins-6fb11cac-25a3-46de-a14",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Twins)",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/6fb11cac-25a3-46de-a144-603468023a1c",
+    "externalId": "6fb11cac-25a3-46de-a144-603468023a1c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-passport-acceptance-agent-c3c2db93-38c2-4a62-8f9f-81b65cdb5c10",
+    "platform": "micro1",
+    "title": "Passport Acceptance Agent",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 40,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/c3c2db93-38c2-4a62-8f9f-81b65cdb5c10",
+    "externalId": "c3c2db93-38c2-4a62-8f9f-81b65cdb5c10",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-pediatric-hospitalist-53c7be96-8120-4346-9b0d-ec8363614e08",
+    "platform": "micro1",
+    "title": "Pediatric Hospitalist",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 115,
+    "posted": "2026-10-10",
+    "url": "https://jobs.micro1.ai/post/53c7be96-8120-4346-9b0d-ec8363614e08",
+    "externalId": "53c7be96-8120-4346-9b0d-ec8363614e08",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-personal-injury-lawyer-47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e",
+    "platform": "micro1",
+    "title": "Personal Injury Lawyer",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e",
+    "externalId": "47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-photographer-e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+    "platform": "micro1",
+    "title": "Photographer",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 35,
+    "payMax": 105,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+    "externalId": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-physician-ai-trainer-hospital-medicine-9f949afd-0b76-43d9-93aa-",
+    "platform": "micro1",
+    "title": "Physician AI Trainer – Hospital Medicine",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 125,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/9f949afd-0b76-43d9-93aa-d94a6b479943",
+    "externalId": "9f949afd-0b76-43d9-93aa-d94a6b479943",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-physics-expert-phd-postdoc-d65941c5-6aff-4e80-b3d6-4f56c9aede18",
+    "platform": "micro1",
+    "title": "Physics Expert (PhD / Postdoc)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "degree": true,
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/d65941c5-6aff-4e80-b3d6-4f56c9aede18",
+    "externalId": "d65941c5-6aff-4e80-b3d6-4f56c9aede18",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-physics-expert-phd-amo-optical-properties-of-materials-1e8c2077",
+    "platform": "micro1",
+    "title": "Physics Expert PhD (AMO / Optical Properties of Materials)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "degree": true,
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/1e8c2077-7a9d-4a91-adcd-f96404dc8226",
+    "externalId": "1e8c2077-7a9d-4a91-adcd-f96404dc8226",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-physics-expert-phd-statistical-physics-quantum-information-cond",
+    "platform": "micro1",
+    "title": "Physics Expert PhD (Statistical Physics / Quantum Information / Condensed Matter)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 200,
+    "degree": true,
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/3a757d40-98c5-4717-a401-382999db9a3f",
+    "externalId": "3a757d40-98c5-4717-a401-382999db9a3f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-physionet-competitor-biomedical-signal-processing-ml-ab08cc42-f",
+    "platform": "micro1",
+    "title": "PhysioNet Competitor (Biomedical Signal Processing & ML)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/ab08cc42-f7e0-4565-b306-11e55beb613f",
+    "externalId": "ab08cc42-f7e0-4565-b306-11e55beb613f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-portuguese-transcription-expert-9a37ff42-0165-4992-95af-986223b",
+    "platform": "micro1",
+    "title": "Portuguese Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 18,
+    "language": "pt",
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/9a37ff42-0165-4992-95af-986223b55fcf",
+    "externalId": "9a37ff42-0165-4992-95af-986223b55fcf",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-postal-clerk-d34e7bec-c2e6-434a-94cf-06355b71ea45",
+    "platform": "micro1",
+    "title": "Postal Clerk",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 45,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/d34e7bec-c2e6-434a-94cf-06355b71ea45",
+    "externalId": "d34e7bec-c2e6-434a-94cf-06355b71ea45",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-principal-research-scientist-computer-science-computational-phy",
+    "platform": "micro1",
+    "title": "Principal Research Scientist (Computer Science / Computational Physics)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 400,
+    "posted": "2026-10-13",
+    "url": "https://jobs.micro1.ai/post/83ed9d66-130e-4c8f-8e9f-b1d18acdcf98",
+    "externalId": "83ed9d66-130e-4c8f-8e9f-b1d18acdcf98",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-privacy-analyst-612ae8d5-8e3d-4750-b779-b3a0e3e02a52",
+    "platform": "micro1",
+    "title": "Privacy Analyst",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 31,
+    "payMax": 60,
+    "posted": "2026-10-13",
+    "url": "https://jobs.micro1.ai/post/612ae8d5-8e3d-4750-b779-b3a0e3e02a52",
+    "externalId": "612ae8d5-8e3d-4750-b779-b3a0e3e02a52",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-private-equity-associate-77a76958-77dc-459f-a623-0842a786a277",
+    "platform": "micro1",
+    "title": "Private Equity Associate",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 100,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/77a76958-77dc-459f-a623-0842a786a277",
+    "externalId": "77a76958-77dc-459f-a623-0842a786a277",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-procurement-vendor-management-expert-ec9f7a0d-9757-4885-8ac9-6e",
+    "platform": "micro1",
+    "title": "Procurement & Vendor Management Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
+    "externalId": "ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-product-safety-regulatory-compliance-attorney-1ed51c75-9e40-41a",
+    "platform": "micro1",
+    "title": "Product Safety & Regulatory Compliance Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/1ed51c75-9e40-41a7-a0b3-b7944ef3dedc",
+    "externalId": "1ed51c75-9e40-41a7-a0b3-b7944ef3dedc",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-punjabi-transcription-expert-118b9412-6280-4061-ba6b-66950cc6e4",
+    "platform": "micro1",
+    "title": "Punjabi Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 15,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/118b9412-6280-4061-ba6b-66950cc6e4db",
+    "externalId": "118b9412-6280-4061-ba6b-66950cc6e4db",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-puzzle-solver-coding-1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e",
+    "platform": "micro1",
+    "title": "Puzzle Solver (Coding)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e",
+    "externalId": "1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-qa-source-inspection-6d278a40-0028-4b33-b2f0-5db4348e9297",
+    "platform": "micro1",
+    "title": "QA & Source Inspection",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/6d278a40-0028-4b33-b2f0-5db4348e9297",
+    "externalId": "6d278a40-0028-4b33-b2f0-5db4348e9297",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-quantitative-rates-researcher-c8cdec0c-76b7-40ae-9764-fb1702004",
+    "platform": "micro1",
+    "title": "Quantitative Rates Researcher",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 150,
+    "posted": "2026-10-09",
+    "url": "https://jobs.micro1.ai/post/c8cdec0c-76b7-40ae-9764-fb170200408a",
+    "externalId": "c8cdec0c-76b7-40ae-9764-fb170200408a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-rates-trader-3fee8e97-5dce-42bd-a8a1-68133f04449a",
+    "platform": "micro1",
+    "title": "Rates trader",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 100,
+    "posted": "2026-10-09",
+    "url": "https://jobs.micro1.ai/post/3fee8e97-5dce-42bd-a8a1-68133f04449a",
+    "externalId": "3fee8e97-5dce-42bd-a8a1-68133f04449a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-recruiter-4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
+    "platform": "micro1",
+    "title": "Recruiter",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 50,
+    "posted": "2026-09-19",
+    "url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
+    "externalId": "4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-recruitment-marketing-specialist-479e1aa8-2d92-42b7-a77c-aa8336",
+    "platform": "micro1",
+    "title": "Recruitment Marketing Specialist",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 40,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/479e1aa8-2d92-42b7-a77c-aa83369cece8",
+    "externalId": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-recruitment-ops-manager-0175ab60-933c-4a94-b842-5207e2d09c99",
+    "platform": "micro1",
+    "title": "Recruitment Ops Manager",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 35,
+    "payMax": 55,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/0175ab60-933c-4a94-b842-5207e2d09c99",
+    "externalId": "0175ab60-933c-4a94-b842-5207e2d09c99",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-registered-nurse-c25ab1f0-c287-4061-b30b-e13c32372fc2",
+    "platform": "micro1",
+    "title": "Registered Nurse",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 70,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/c25ab1f0-c287-4061-b30b-e13c32372fc2",
+    "externalId": "c25ab1f0-c287-4061-b30b-e13c32372fc2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-research-engineer-code-generation-model-evaluation-59fc8961-1c5",
+    "platform": "micro1",
+    "title": "Research Engineer - Code Generation & Model Evaluation",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/59fc8961-1c55-4822-883b-242f80920ab9",
+    "externalId": "59fc8961-1c55-4822-883b-242f80920ab9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-research-evaluation-specialist-phd-or-masters-researcher-profes",
+    "platform": "micro1",
+    "title": "Research Evaluation Specialist (PhD or Masters / Researcher / Professor)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 60,
+    "degree": true,
+    "posted": "2026-10-20",
+    "url": "https://jobs.micro1.ai/post/deb49cd2-8d5f-4600-8baf-7b2cd5656eea",
+    "externalId": "deb49cd2-8d5f-4600-8baf-7b2cd5656eea",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-research-scientist-computer-science-computational-physics-3cfe7",
+    "platform": "micro1",
+    "title": "Research Scientist - Computer Science & Computational Physics",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 400,
+    "posted": "2026-10-13",
+    "url": "https://jobs.micro1.ai/post/3cfe73e9-28fa-4b8f-a0b7-bdba2b00f3ef",
+    "externalId": "3cfe73e9-28fa-4b8f-a0b7-bdba2b00f3ef",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-retail-trade-operations-expert-678001af-5fc0-4173-8320-3b0dc183",
+    "platform": "micro1",
+    "title": "Retail Trade & Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 70,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/678001af-5fc0-4173-8320-3b0dc183651d",
+    "externalId": "678001af-5fc0-4173-8320-3b0dc183651d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-revenue-operations-crm-systems-specialist-saas-89d4df86-e9c8-4f",
+    "platform": "micro1",
+    "title": "Revenue Operations & CRM Systems Specialist (SaaS)",
+    "categories": [
+      "business",
+      "audio"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/89d4df86-e9c8-4fba-bd22-ca6e492fd567",
+    "externalId": "89d4df86-e9c8-4fba-bd22-ca6e492fd567",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-revenue-operations-specialist-saas-2bfad9ec-1ea5-4de1-a40c-6daf",
+    "platform": "micro1",
+    "title": "Revenue Operations Specialist (SaaS)",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5",
+    "externalId": "2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-rust-architect-backend-developer-6f83d131-cbf2-4817-a66f-99e051",
+    "platform": "micro1",
+    "title": "Rust Architect / Backend Developer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/6f83d131-cbf2-4817-a66f-99e05104eb47",
+    "externalId": "6f83d131-cbf2-4817-a66f-99e05104eb47",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-saas-contracts-counsel-9a648ee0-2d83-4453-89f5-19df3deb295c",
+    "platform": "micro1",
+    "title": "SaaS Contracts Counsel",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 110,
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/9a648ee0-2d83-4453-89f5-19df3deb295c",
+    "externalId": "9a648ee0-2d83-4453-89f5-19df3deb295c",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-sales-revenue-cs-operations-expert-f08acc61-44ab-45a4-a6dd-85aa",
+    "platform": "micro1",
+    "title": "Sales / Revenue / CS Operations Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 85,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/f08acc61-44ab-45a4-a6dd-85aaadb7cc24",
+    "externalId": "f08acc61-44ab-45a4-a6dd-85aaadb7cc24",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-accountant-expert-5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6",
+    "platform": "micro1",
+    "title": "Senior Accountant Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6",
+    "externalId": "5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-ai-trainer-efa1517a-bee2-4687-97bf-42fd1282e883",
+    "platform": "micro1",
+    "title": "Senior AI Trainer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 14,
+    "payMax": 36,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/efa1517a-bee2-4687-97bf-42fd1282e883",
+    "externalId": "efa1517a-bee2-4687-97bf-42fd1282e883",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-aviation-maintenance-inspector-520ccd84-b67d-45cd-b1e4-3",
+    "platform": "micro1",
+    "title": "Senior Aviation Maintenance Inspector",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/520ccd84-b67d-45cd-b1e4-3fcadf357f73",
+    "externalId": "520ccd84-b67d-45cd-b1e4-3fcadf357f73",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-book-editor-ab52b995-a0f8-4aab-ac1d-98777ce867fa",
+    "platform": "micro1",
+    "title": "Senior Book Editor",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 120,
+    "posted": "2026-09-24",
+    "url": "https://jobs.micro1.ai/post/ab52b995-a0f8-4aab-ac1d-98777ce867fa",
+    "externalId": "ab52b995-a0f8-4aab-ac1d-98777ce867fa",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-cargo-and-parcel-claims-examiner-fb90c558-6459-4695-aea3",
+    "platform": "micro1",
+    "title": "Senior Cargo and Parcel Claims Examiner",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 60,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/fb90c558-6459-4695-aea3-9a5959526f67",
+    "externalId": "fb90c558-6459-4695-aea3-9a5959526f67",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-data-analyst-0f607154-b56d-4894-9415-9cc861f24d17",
+    "platform": "micro1",
+    "title": "Senior Data Analyst",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 60,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/0f607154-b56d-4894-9415-9cc861f24d17",
+    "externalId": "0f607154-b56d-4894-9415-9cc861f24d17",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-dod-staff-writing-sme-4bf30ed8-24b8-406d-bbcb-f9b63cbdc7",
+    "platform": "micro1",
+    "title": "Senior DoD Staff Writing SME",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-09-21",
+    "url": "https://jobs.micro1.ai/post/4bf30ed8-24b8-406d-bbcb-f9b63cbdc72f",
+    "externalId": "4bf30ed8-24b8-406d-bbcb-f9b63cbdc72f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-electronics-quality-engineer-397c7dd8-62cd-4068-a572-7ad",
+    "platform": "micro1",
+    "title": "Senior Electronics Quality Engineer",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/397c7dd8-62cd-4068-a572-7addcd8a5fb2",
+    "externalId": "397c7dd8-62cd-4068-a572-7addcd8a5fb2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-field-service-technician-36d86bb0-b201-4d57-88e3-9fb0ff9",
+    "platform": "micro1",
+    "title": "Senior Field Service Technician",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6",
+    "externalId": "36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-insurance-claims-expert-liability-property-contents-fd98",
+    "platform": "micro1",
+    "title": "Senior Insurance Claims Expert (Liability, Property, Contents)",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 60,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/fd986cf9-2c5e-4945-ba63-da6b5b9e06d4",
+    "externalId": "fd986cf9-2c5e-4945-ba63-da6b5b9e06d4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-machinist-construction-field-ops-lead-0407022a-eead-4195",
+    "platform": "micro1",
+    "title": "Senior Machinist / Construction & Field Ops Lead",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 55,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/0407022a-eead-4195-95b1-fa8c7682b5d8",
+    "externalId": "0407022a-eead-4195-95b1-fa8c7682b5d8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-marine-cargo-and-draft-surveyor-dc341efb-fab5-4d87-8916-",
+    "platform": "micro1",
+    "title": "Senior Marine Cargo and Draft Surveyor",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 60,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/dc341efb-fab5-4d87-8916-e0f6fdb283fa",
+    "externalId": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-mechanical-design-engineer-07ce7f57-ef0c-4b2e-aac2-5837c",
+    "platform": "micro1",
+    "title": "Senior Mechanical Design Engineer",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 90,
+    "posted": "2026-10-02",
+    "url": "https://jobs.micro1.ai/post/07ce7f57-ef0c-4b2e-aac2-5837c2c9c004",
+    "externalId": "07ce7f57-ef0c-4b2e-aac2-5837c2c9c004",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-metallurgist-welding-inspector-acdf36e4-73a7-48a6-86e6-6",
+    "platform": "micro1",
+    "title": "Senior Metallurgist / Welding Inspector",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/acdf36e4-73a7-48a6-86e6-68a8d26d8cfe",
+    "externalId": "acdf36e4-73a7-48a6-86e6-68a8d26d8cfe",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-mobile-developer-31dc936e-0f29-441f-baf9-91c2ff9cc7d4",
+    "platform": "micro1",
+    "title": "Senior Mobile Developer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-10-07",
+    "url": "https://jobs.micro1.ai/post/31dc936e-0f29-441f-baf9-91c2ff9cc7d4",
+    "externalId": "31dc936e-0f29-441f-baf9-91c2ff9cc7d4",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-ndt-inspector-level-ii-iii-68ee381e-ee71-4eca-827c-46797",
+    "platform": "micro1",
+    "title": "Senior NDT Inspector (Level II/III)",
+    "categories": [
+      "science"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 60,
+    "posted": "2026-09-29",
+    "url": "https://jobs.micro1.ai/post/68ee381e-ee71-4eca-827c-46797703bfcf",
+    "externalId": "68ee381e-ee71-4eca-827c-46797703bfcf",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-senior-software-engineer-9b3377c5-01da-40d7-9304-39cc8cd20932",
+    "platform": "micro1",
+    "title": "Senior Software Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 100,
+    "posted": "2026-09-20",
+    "url": "https://jobs.micro1.ai/post/9b3377c5-01da-40d7-9304-39cc8cd20932",
+    "externalId": "9b3377c5-01da-40d7-9304-39cc8cd20932",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-ship-medicare-counselor-10b91117-cedd-42c0-a468-b056ad004ec3",
+    "platform": "micro1",
+    "title": "SHIP Medicare Counselor",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 60,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/10b91117-cedd-42c0-a468-b056ad004ec3",
+    "externalId": "10b91117-cedd-42c0-a468-b056ad004ec3",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-simulation-expert-real-to-sim-3d-environments-assets-333fddbb-5",
+    "platform": "micro1",
+    "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
+    "categories": [
+      "science",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 150,
+    "posted": "2026-10-03",
+    "url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538",
+    "externalId": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-small-medium-business-robotics-data-collection-partner-14883aba",
+    "platform": "micro1",
+    "title": "Small/Medium Business – Robotics Data Collection Partner",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 9,
+    "payMax": 9,
+    "posted": "2026-07-06",
+    "url": "https://jobs.micro1.ai/post/14883aba-fc23-4ca4-8935-9d8d72794668",
+    "externalId": "14883aba-fc23-4ca4-8935-9d8d72794668",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-developer-92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
+    "platform": "micro1",
+    "title": "Software Developer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-08-15",
+    "url": "https://jobs.micro1.ai/post/92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
+    "externalId": "92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-d358fe3a-3fa1-4673-b90a-99293655405d",
+    "platform": "micro1",
+    "title": "Software Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 100,
+    "posted": "2026-10-03",
+    "url": "https://jobs.micro1.ai/post/d358fe3a-3fa1-4673-b90a-99293655405d",
+    "externalId": "d358fe3a-3fa1-4673-b90a-99293655405d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9",
+    "platform": "micro1",
+    "title": "Software Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-09-07",
+    "url": "https://jobs.micro1.ai/post/d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9",
+    "externalId": "d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-open-source-contributions-5c9777fe-afb2-40b1-",
+    "platform": "micro1",
+    "title": "Software Engineer - Open Source Contributions",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/5c9777fe-afb2-40b1-abbb-31cee8a8d4b6",
+    "externalId": "5c9777fe-afb2-40b1-abbb-31cee8a8d4b6",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-backend-6634c1b6-553f-4d60-a692-be005464a798",
+    "platform": "micro1",
+    "title": "Software Engineer – Backend",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 100,
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/6634c1b6-553f-4d60-a692-be005464a798",
+    "externalId": "6634c1b6-553f-4d60-a692-be005464a798",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-github-contributor-168285a8-8063-447f-b55b-22",
+    "platform": "micro1",
+    "title": "Software Engineer (GitHub Contributor)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2",
+    "externalId": "168285a8-8063-447f-b55b-222c1da4c7c2",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineer-open-source-contributor-f29dc369-f46f-443e-98",
+    "platform": "micro1",
+    "title": "Software Engineer (Open Source Contributor)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/f29dc369-f46f-443e-986b-7120eebe9225",
+    "externalId": "f29dc369-f46f-443e-986b-7120eebe9225",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-software-engineering-specialist-b4ce7861-a888-4f57-bb63-c50fb01",
+    "platform": "micro1",
+    "title": "Software Engineering Specialist",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 150,
+    "payMax": 350,
+    "posted": "2026-09-25",
+    "url": "https://jobs.micro1.ai/post/b4ce7861-a888-4f57-bb63-c50fb01ae65d",
+    "externalId": "b4ce7861-a888-4f57-bb63-c50fb01ae65d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-spanish-language-consumer-reviewer-a3f69448-b7a9-46b1-9104-1746",
+    "platform": "micro1",
+    "title": "Spanish-Language Consumer Reviewer",
+    "categories": [
+      "general",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "language": "es",
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/a3f69448-b7a9-46b1-9104-17461122ca66",
+    "externalId": "a3f69448-b7a9-46b1-9104-17461122ca66",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-special-forces-operator-3afa60e3-4c33-4a5c-b6af-ca18270cc5b7",
+    "platform": "micro1",
+    "title": "Special Forces Operator",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/3afa60e3-4c33-4a5c-b6af-ca18270cc5b7",
+    "externalId": "3afa60e3-4c33-4a5c-b6af-ca18270cc5b7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-sr-full-stack-software-engineer-4010d2c5-4a3d-41fe-9e33-28bc218",
+    "platform": "micro1",
+    "title": "Sr. Full-Stack Software Engineer",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 100,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/4010d2c5-4a3d-41fe-9e33-28bc218626e5",
+    "externalId": "4010d2c5-4a3d-41fe-9e33-28bc218626e5",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-stem-expert-biology-bioinformatics-phd-d7372be7-b297-494d-9f74-",
+    "platform": "micro1",
+    "title": "STEM Expert – Biology & Bioinformatics (PhD)",
+    "categories": [
+      "science",
+      "audio"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/d7372be7-b297-494d-9f74-20f297d6792a",
+    "externalId": "d7372be7-b297-494d-9f74-20f297d6792a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-stem-expert-chemistry-computational-chemistry-phd-0733d72e-0d2a",
+    "platform": "micro1",
+    "title": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
+    "categories": [
+      "science",
+      "audio"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 90,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/0733d72e-0d2a-4420-9f18-f2bb3d889d47",
+    "externalId": "0733d72e-0d2a-4420-9f18-f2bb3d889d47",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-stem-expert-msc-phd-7944c9e5-73a0-45a0-b298-d93be3db08ed",
+    "platform": "micro1",
+    "title": "STEM Expert (MSc./PhD)",
+    "categories": [
+      "audio"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 60,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/7944c9e5-73a0-45a0-b298-d93be3db08ed",
+    "externalId": "7944c9e5-73a0-45a0-b298-d93be3db08ed",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-structured-finance-attorney-114d9490-fbb0-4533-b891-73d0ee1c859",
+    "platform": "micro1",
+    "title": "Structured Finance Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/114d9490-fbb0-4533-b891-73d0ee1c859d",
+    "externalId": "114d9490-fbb0-4533-b891-73d0ee1c859d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-swiss-german-transcription-expert-cbbe4909-70e3-4917-a26b-bc82d",
+    "platform": "micro1",
+    "title": "Swiss German Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 25,
+    "payMax": 30,
+    "language": "de",
+    "posted": "2026-10-06",
+    "url": "https://jobs.micro1.ai/post/cbbe4909-70e3-4917-a26b-bc82d89fbb1b",
+    "externalId": "cbbe4909-70e3-4917-a26b-bc82d89fbb1b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-tamil-transcription-expert-9c3be41a-3d6d-4a1e-a917-5234b2b19c14",
+    "platform": "micro1",
+    "title": "Tamil Transcription Expert",
+    "categories": [
+      "general",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 24,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/9c3be41a-3d6d-4a1e-a917-5234b2b19c14",
+    "externalId": "9c3be41a-3d6d-4a1e-a917-5234b2b19c14",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-tax-attorney-abdb5807-b650-4eb8-b4e4-20a5a834301d",
+    "platform": "micro1",
+    "title": "Tax Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 100,
+    "payMax": 170,
+    "posted": "2026-10-14",
+    "url": "https://jobs.micro1.ai/post/abdb5807-b650-4eb8-b4e4-20a5a834301d",
+    "externalId": "abdb5807-b650-4eb8-b4e4-20a5a834301d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-telugu-transcription-expert-d49df3cc-52f9-4da6-9c84-a4f9ddb6c55",
+    "platform": "micro1",
+    "title": "Telugu Transcription Expert",
+    "categories": [
+      "general",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 24,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/d49df3cc-52f9-4da6-9c84-a4f9ddb6c553",
+    "externalId": "d49df3cc-52f9-4da6-9c84-a4f9ddb6c553",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-transactional-attorney-4efbbbb6-4536-482a-8f28-9895e719424d",
+    "platform": "micro1",
+    "title": "Transactional Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 90,
+    "payMax": 130,
+    "posted": "2026-09-22",
+    "url": "https://jobs.micro1.ai/post/4efbbbb6-4536-482a-8f28-9895e719424d",
+    "externalId": "4efbbbb6-4536-482a-8f28-9895e719424d",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-transportation-and-warehousing-expert-a31aab52-c227-4f92-9283-2",
+    "platform": "micro1",
+    "title": "Transportation and Warehousing Expert",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 70,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/a31aab52-c227-4f92-9283-2aa5020aaa84",
+    "externalId": "a31aab52-c227-4f92-9283-2aa5020aaa84",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-urdu-transcription-expert-52e9965d-1d1d-4d85-b958-c020d7886867",
+    "platform": "micro1",
+    "title": "Urdu Transcription Expert",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 22,
+    "posted": "2026-10-01",
+    "url": "https://jobs.micro1.ai/post/52e9965d-1d1d-4d85-b958-c020d7886867",
+    "externalId": "52e9965d-1d1d-4d85-b958-c020d7886867",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-us-macroeconomist-eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
+    "platform": "micro1",
+    "title": "US Macroeconomist",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 50,
+    "payMax": 70,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
+    "externalId": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-us-licensed-physician-00276647-e6e5-467b-92d8-1018fe2c7278",
+    "platform": "micro1",
+    "title": "US-Licensed Physician",
+    "categories": [
+      "medicine"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 80,
+    "payMax": 125,
+    "posted": "2026-10-16",
+    "url": "https://jobs.micro1.ai/post/00276647-e6e5-467b-92d8-1018fe2c7278",
+    "externalId": "00276647-e6e5-467b-92d8-1018fe2c7278",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-usability-tester-2332e3d6-3b9a-4f09-be33-a21b73150544",
+    "platform": "micro1",
+    "title": "Usability Tester",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 20,
+    "payMax": 30,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/2332e3d6-3b9a-4f09-be33-a21b73150544",
+    "externalId": "2332e3d6-3b9a-4f09-be33-a21b73150544",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-va-eligibility-specialist-657dcfd9-f374-4371-bf9b-9ba13557fe6f",
+    "platform": "micro1",
+    "title": "VA Eligibility Specialist",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 50,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/657dcfd9-f374-4371-bf9b-9ba13557fe6f",
+    "externalId": "657dcfd9-f374-4371-bf9b-9ba13557fe6f",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-venture-capital-corporate-attorney-5f79859b-3572-42b7-8edc-8ad9",
+    "platform": "micro1",
+    "title": "Venture Capital & Corporate Attorney",
+    "categories": [
+      "law"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 400,
+    "posted": "2026-10-22",
+    "url": "https://jobs.micro1.ai/post/5f79859b-3572-42b7-8edc-8ad91532a5cb",
+    "externalId": "5f79859b-3572-42b7-8edc-8ad91532a5cb",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-venture-capital-associate-4e2c9dd6-10d3-4de3-8f84-289141d692aa",
+    "platform": "micro1",
+    "title": "Venture Capital Associate",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 45,
+    "payMax": 100,
+    "posted": "2026-08-27",
+    "url": "https://jobs.micro1.ai/post/4e2c9dd6-10d3-4de3-8f84-289141d692aa",
+    "externalId": "4e2c9dd6-10d3-4de3-8f84-289141d692aa",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-veterans-service-officer-2582f414-1be9-4ac0-9375-01d2f3187217",
+    "platform": "micro1",
+    "title": "Veterans Service Officer",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 60,
+    "posted": "2026-10-12",
+    "url": "https://jobs.micro1.ai/post/2582f414-1be9-4ac0-9375-01d2f3187217",
+    "externalId": "2582f414-1be9-4ac0-9375-01d2f3187217",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-video-annotation-specialist-8811c1b3-efa7-4a5e-b332-50743f90a05",
+    "platform": "micro1",
+    "title": "Video Annotation Specialist",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 10,
+    "posted": "2026-09-14",
+    "url": "https://jobs.micro1.ai/post/8811c1b3-efa7-4a5e-b332-50743f90a05a",
+    "externalId": "8811c1b3-efa7-4a5e-b332-50743f90a05a",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-video-data-annotation-specialist-4256a2e1-877f-42d5-8fef-20147a",
+    "platform": "micro1",
+    "title": "Video Data Annotation Specialist",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 10,
+    "posted": "2026-09-23",
+    "url": "https://jobs.micro1.ai/post/4256a2e1-877f-42d5-8fef-20147a0b2db7",
+    "externalId": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-video-data-annotator-c00af525-54b0-4e97-ad41-b6339638d1e9",
+    "platform": "micro1",
+    "title": "Video Data Annotator",
+    "categories": [
+      "tech",
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 8,
+    "payMax": 10,
+    "posted": "2026-10-08",
+    "url": "https://jobs.micro1.ai/post/c00af525-54b0-4e97-ad41-b6339638d1e9",
+    "externalId": "c00af525-54b0-4e97-ad41-b6339638d1e9",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-virtual-assistant-4fb1fcad-4ff0-4c45-bfa7-2b447295f01b",
+    "platform": "micro1",
+    "title": "Virtual Assistant",
+    "categories": [
+      "business"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 15,
+    "payMax": 30,
+    "posted": "2026-09-16",
+    "url": "https://jobs.micro1.ai/post/4fb1fcad-4ff0-4c45-bfa7-2b447295f01b",
+    "externalId": "4fb1fcad-4ff0-4c45-bfa7-2b447295f01b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-visual-creative-expert-84317e04-23ca-41b5-8df8-87f7557f0541",
+    "platform": "micro1",
+    "title": "Visual Creative Expert",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 21,
+    "payMax": 70,
+    "posted": "2026-09-08",
+    "url": "https://jobs.micro1.ai/post/84317e04-23ca-41b5-8df8-87f7557f0541",
+    "externalId": "84317e04-23ca-41b5-8df8-87f7557f0541",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-vlogger-insta360-dji-osmo-gopro-max-0f2c4f59-00c6-4296-a9dc-fb7",
+    "platform": "micro1",
+    "title": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
+    "categories": [
+      "tech"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 10,
+    "payMax": 30,
+    "posted": "2026-09-04",
+    "url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
+    "externalId": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-voice-actor-coaches-941cd9a0-94f3-442e-a24a-24d37ca1aa43",
+    "platform": "micro1",
+    "title": "Voice Actor/Coaches",
+    "categories": [
+      "audio",
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 30,
+    "payMax": 70,
+    "posted": "2026-10-05",
+    "url": "https://jobs.micro1.ai/post/941cd9a0-94f3-442e-a24a-24d37ca1aa43",
+    "externalId": "941cd9a0-94f3-442e-a24a-24d37ca1aa43",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "id": "micro1-weapons-systems-operator-fdc2913f-8c00-4a0e-b4dc-9cd9c500dd05",
+    "platform": "micro1",
+    "title": "Weapons Systems Operator",
+    "categories": [
+      "audio"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 40,
+    "payMax": 80,
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/fdc2913f-8c00-4a0e-b4dc-9cd9c500dd05",
+    "externalId": "fdc2913f-8c00-4a0e-b4dc-9cd9c500dd05",
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
     "id": "xai-ai-tutor-croatian-5207340007",
     "platform": "xai",
     "title": "AI Tutor - Croatian",

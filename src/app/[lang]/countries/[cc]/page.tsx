@@ -78,10 +78,15 @@ export default async function CountryPage({ params }: Props) {
         <section className="section" style={{ paddingTop: 8 }} aria-labelledby="av-h">
           <h2 id="av-h" style={{ fontSize: 24, marginBottom: 16 }}>{d.countryPage.available}</h2>
           <div className="grid">
-            {g.available.map((j) => (
+            {g.available.slice(0, 24).map((j) => (
               <JobCard key={j.id} job={j} locale={lang} d={d} cc={CC} />
             ))}
           </div>
+          {g.available.length > 24 ? (
+            <p style={{ textAlign: "center", marginTop: 20 }}>
+              <Link className="btn btn-ghost" href={`/${lang}?c=${CC}&avail=1#jobs`}>{fill(d.filters.seeAll, { n: g.available.length })}</Link>
+            </p>
+          ) : null}
         </section>
       ) : null}
 
@@ -89,7 +94,7 @@ export default async function CountryPage({ params }: Props) {
         <section className="section" style={{ paddingTop: 8 }} aria-labelledby="mb-h">
           <h2 id="mb-h" style={{ fontSize: 24, marginBottom: 16 }}>{d.countryPage.maybe}</h2>
           <div className="grid">
-            {g.maybe.map((j) => (
+            {g.maybe.slice(0, 12).map((j) => (
               <JobCard key={j.id} job={j} locale={lang} d={d} cc={CC} />
             ))}
           </div>

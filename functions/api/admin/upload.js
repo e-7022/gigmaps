@@ -68,6 +68,20 @@ export async function onRequestPost({ request, env }) {
       return json({ ok: true, message: "Referral links saved. The site will rebuild in ~2–3 minutes." });
     }
 
+    if (kind === "import") {
+      // Выгрузка из браузера (закладка «micro1 → файл»): сохраняем как источник скрапера
+      const data = JSON.parse(text);
+      const list = Array.isArray(data) ? data : data.data;
+      if (!Array.isArray(list) || !list.length) return json({ error: "File has no jobs" }, 400);
+      let source = data.source;
+      if (!source && list[0]?.job_id) source = "micro1-portal";
+      const ALLOWED = ["micro1-portal"];
+      if (!ALLOWED.includes(source)) return json({ error: `Unknown import source. Expected one of: ${ALLOWED.join(", ")}` }, 400);
+      const payload = { source, fetchedAt: data.fetchedAt || new Date().toISOString(), total: list.length, data: list };
+      await putFile(env, `data/import/${source}.json`, JSON.stringify(payload) + "\n", `chore(data): import ${list.length} jobs for ${source}`);
+      return json({ ok: true, count: list.length, message: `Imported ${list.length} jobs from ${source}. Jobs update in ~5 minutes.` });
+    }
+
     return json({ error: "Unknown upload kind" }, 400);
   } catch (e) {
     return json({ error: e.message || String(e) }, 400);

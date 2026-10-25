@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "0 11 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/import/**"
 
 permissions:
   contents: write
