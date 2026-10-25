@@ -76,8 +76,7 @@
     "platform": "appen",
     "title": "[Malay] - Voice Recording Specialist",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -204,7 +203,6 @@
     "platform": "appen",
     "title": "Czech Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -225,7 +223,7 @@
     "platform": "appen",
     "title": "EGO Embodied Data Collector Short-Term Project Contractor | Kuala Lumpur, Malaysia",
     "categories": [
-      "audio"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -245,7 +243,6 @@
     "title": "French: Audio Transcription/Segmentation",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -267,7 +264,6 @@
     "title": "French: Voice Recording - Data Collection",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -289,7 +285,6 @@
     "title": "German: Audio Transcription/Segmentation",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -311,7 +306,6 @@
     "title": "German: Voice Recording - Data Collection",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -332,8 +326,6 @@
     "platform": "appen",
     "title": "Gig Guru Wanted: Dive into Flexible Pay-by-Task Opportunities for Arabic Speakers in United States",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -357,8 +349,7 @@
     "platform": "appen",
     "title": "Gig Guru Wanted: Dive into Flexible Pay-by-Task Opportunities in the Central African Republic",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -375,7 +366,6 @@
     "platform": "appen",
     "title": "Greek Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -396,7 +386,6 @@
     "platform": "appen",
     "title": "Hebrew Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -418,7 +407,6 @@
     "title": "Italian: Audio Transcription/Segmentation",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -440,7 +428,6 @@
     "title": "Italian: Voice Recording - Data Collection",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -462,7 +449,6 @@
     "title": "Japanese: Audio Transcription/Segmentation",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -484,7 +470,6 @@
     "title": "Japanese: Voice Recording - Data Collection",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -505,7 +490,6 @@
     "platform": "appen",
     "title": "Mandarin Chinese (Simplified) Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -527,7 +511,6 @@
     "title": "Mandarin Chinese (Traditional): Audio Transcription/Segmentation",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -549,7 +532,6 @@
     "title": "Mandarin Chinese (Traditional): Voice Recording - Data Collection",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -570,8 +552,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Arabic (Egypt)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -590,9 +570,7 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - English (USA)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "fluent",
     "status": "open",
@@ -614,8 +592,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - French",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "fluent",
@@ -639,8 +615,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - German (Germany)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -664,8 +638,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Hindi (India)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -684,8 +656,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Japanese (Japan)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -704,8 +674,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Mandarin Chinese (Malaysia)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -724,8 +692,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Mandarin Chinese (Taiwan)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -744,8 +710,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Russian (Armenia, Georgia and Kazakhstan)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -764,8 +728,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Spanish (Argentina)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -784,8 +746,6 @@
     "platform": "appen",
     "title": "Mobile Device Data Collection - Spanish (Spain)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -809,7 +769,6 @@
     "platform": "appen",
     "title": "Native Japanese Kansai Dialect Speakers",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -830,7 +789,6 @@
     "platform": "appen",
     "title": "Polish Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -851,7 +809,6 @@
     "platform": "appen",
     "title": "Portuguese Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -872,8 +829,7 @@
     "platform": "appen",
     "title": "Remote Work From Home: Lao Voice Recording Project",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -890,7 +846,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Argentinian Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -909,7 +864,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Chilean Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -928,7 +882,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Colombian Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -947,7 +900,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Costa Rican Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -966,7 +918,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Mexican Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -990,7 +941,6 @@
     "platform": "appen",
     "title": "Remote Work From Home: Record Peruvian Spanish",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -1009,8 +959,7 @@
     "platform": "appen",
     "title": "Social Media Evaluator (Burmese-Myanmar)",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1048,7 +997,6 @@
     "platform": "appen",
     "title": "Thai Language Transcription Expert",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -1069,7 +1017,6 @@
     "platform": "appen",
     "title": "Transcription Specialist -- Amharic",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -1089,7 +1036,6 @@
     "platform": "appen",
     "title": "Transcription Specialist -- Arabic",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -1110,7 +1056,6 @@
     "platform": "appen",
     "title": "Transcription Specialist -- Vietnamese",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -1153,7 +1098,7 @@
     "platform": "mercor",
     "title": "[LONG PROJECT] Anonymization Quality Reviewer",
     "categories": [
-      "medicine"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1172,7 +1117,7 @@
     "platform": "mercor",
     "title": "[LONG PROJECT] Anonymization Writer",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -1211,9 +1156,7 @@
     "platform": "mercor",
     "title": "Accounting & Audit Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -1233,8 +1176,7 @@
     "platform": "mercor",
     "title": "Administrative Services Managers",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -1253,7 +1195,7 @@
     "platform": "mercor",
     "title": "Agent Engineer",
     "categories": [
-      "audio"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -1272,7 +1214,7 @@
     "platform": "mercor",
     "title": "AI Assistant User – Weekly Feedback Study",
     "categories": [
-      "medicine"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1291,7 +1233,7 @@
     "platform": "mercor",
     "title": "AI Developer Trace Task Auditor",
     "categories": [
-      "audio"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -1310,8 +1252,6 @@
     "platform": "mercor",
     "title": "AI Safety Experts — English & Vietnamese",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "fluent",
@@ -1370,7 +1310,7 @@
     "platform": "mercor",
     "title": "Application Users - Android Studio on macOS - Code",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1389,8 +1329,7 @@
     "platform": "mercor",
     "title": "Application Users - AutoCAD Mechanical - STEM",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -1409,7 +1348,7 @@
     "platform": "mercor",
     "title": "Application Users - Blender on Windows - Generalist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1428,7 +1367,7 @@
     "platform": "mercor",
     "title": "Application Users - DaVinci Resolve on macOS - Generalist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1466,7 +1405,7 @@
     "platform": "mercor",
     "title": "Application Users - Excel on macOS - Professionals",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1485,8 +1424,7 @@
     "platform": "mercor",
     "title": "Application Users - FruitLoops Studio on Windows - Generalist",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1505,8 +1443,7 @@
     "platform": "mercor",
     "title": "Application Users - Inventor Professional on Windows - STEM",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -1525,7 +1462,6 @@
     "platform": "mercor",
     "title": "Application Users - Linux Ubuntu 24.04 Expert - Professionals",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "unknown",
@@ -1545,8 +1481,7 @@
     "platform": "mercor",
     "title": "Application Users - macOS Sonoma 14.5 Expert - Professionals",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1622,7 +1557,7 @@
     "platform": "mercor",
     "title": "Application Users - PowerPoint on Windows - Professionals",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1642,7 +1577,7 @@
     "platform": "mercor",
     "title": "Application Users - Premiere on Windows - Generalist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1661,7 +1596,7 @@
     "platform": "mercor",
     "title": "Application Users - PyCharm on macOS - Code",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1680,7 +1615,7 @@
     "platform": "mercor",
     "title": "Application Users - Quartus II on Windows - Code",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1699,8 +1634,7 @@
     "platform": "mercor",
     "title": "Application Users - SolidWorks Premium on Windows - STEM",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -1738,7 +1672,7 @@
     "platform": "mercor",
     "title": "Application Users - Unreal Engine on Windows - Generalist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1757,8 +1691,7 @@
     "platform": "mercor",
     "title": "Application Users - Visual Studio Code on macOS - Code",
     "categories": [
-      "design",
-      "language"
+      "design"
     ],
     "english": "unknown",
     "status": "open",
@@ -1777,8 +1710,7 @@
     "platform": "mercor",
     "title": "Application Users - Vivado on Windows - STEM",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -1797,7 +1729,7 @@
     "platform": "mercor",
     "title": "Application Users - VMware Fusion on macOS - Code",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1816,7 +1748,7 @@
     "platform": "mercor",
     "title": "Application Users - Windows 11 Professional Expert - Professionals",
     "categories": [
-      "audio"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1835,7 +1767,7 @@
     "platform": "mercor",
     "title": "Application Users - Word on macOS - Professionals",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1854,8 +1786,7 @@
     "platform": "mercor",
     "title": "Applied Engineer, Evaluations Role",
     "categories": [
-      "audio",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -1874,8 +1805,7 @@
     "platform": "mercor",
     "title": "Applied Philosophy Benchmark Specialist",
     "categories": [
-      "audio",
-      "language"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -1895,8 +1825,7 @@
     "platform": "mercor",
     "title": "Applied Physics Benchmark Specialist",
     "categories": [
-      "design",
-      "language"
+      "science"
     ],
     "english": "written",
     "status": "open",
@@ -1935,7 +1864,6 @@
     "platform": "mercor",
     "title": "Arts & Design Expert",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "unknown",
@@ -1955,7 +1883,7 @@
     "platform": "mercor",
     "title": "Asset & Wealth Management Expert",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -1974,7 +1902,7 @@
     "platform": "mercor",
     "title": "Atomic Layer Deposition (ALD) Experts",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -1994,8 +1922,7 @@
     "platform": "mercor",
     "title": "Atomic, Molecular and Optical Physicist (PhD)",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2015,7 +1942,7 @@
     "platform": "mercor",
     "title": "Atomistic Materials Modeling Expert",
     "categories": [
-      "audio"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2078,7 +2005,6 @@
     "title": "Audiobook QA Expert — Dutch",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2099,9 +2025,7 @@
     "platform": "mercor",
     "title": "Audiobook QA Expert — English (US)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -2121,7 +2045,6 @@
     "title": "Audiobook QA Expert — French",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2143,7 +2066,6 @@
     "title": "Audiobook QA Expert — German",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2165,7 +2087,6 @@
     "title": "Audiobook QA Expert — Italian",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2187,7 +2108,6 @@
     "title": "Audiobook QA Expert — Portuguese (Brazil)",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2209,7 +2129,6 @@
     "title": "Audiobook QA Expert — Portuguese (Portugal)",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2231,7 +2150,6 @@
     "title": "Audiobook QA Expert — Spanish (US)",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -2252,8 +2170,7 @@
     "platform": "mercor",
     "title": "AWS Serverless & Infrastructure-as-Code Task Auditor",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2272,8 +2189,7 @@
     "platform": "mercor",
     "title": "Backend Engineer Talent Network",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -2292,9 +2208,7 @@
     "platform": "mercor",
     "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -2319,9 +2233,7 @@
     "platform": "mercor",
     "title": "Biochemistry & Life Sciences Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2341,7 +2253,7 @@
     "platform": "mercor",
     "title": "Biologist Talent Network",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2360,8 +2272,7 @@
     "platform": "mercor",
     "title": "Biology Expert",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2381,7 +2292,7 @@
     "platform": "mercor",
     "title": "Biotech Investment Analyst — Drug Asset & Company Assessment",
     "categories": [
-      "medicine"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -2400,8 +2311,7 @@
     "platform": "mercor",
     "title": "Biotechnology Expert",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2420,7 +2330,7 @@
     "platform": "mercor",
     "title": "Brazil Personal & Cross-Border Finance – Paid Research Study",
     "categories": [
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -2439,9 +2349,7 @@
     "platform": "mercor",
     "title": "Business & Sales Operations Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -2461,7 +2369,7 @@
     "platform": "mercor",
     "title": "Business Intelligence Analyst Talent Network",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2480,8 +2388,7 @@
     "platform": "mercor",
     "title": "Business Operations Expert",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -2500,7 +2407,7 @@
     "platform": "mercor",
     "title": "Cardiologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2519,8 +2426,7 @@
     "platform": "mercor",
     "title": "Central Bank Expert — Non-G7 Policy Communication",
     "categories": [
-      "audio",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2539,9 +2445,7 @@
     "platform": "mercor",
     "title": "Certified Medical Coder (ICD-10) — Multilingual Clinical Documentation & AI Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "fluent",
     "status": "open",
@@ -2560,7 +2464,7 @@
     "platform": "mercor",
     "title": "Chemical Defense Researcher",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2579,7 +2483,7 @@
     "platform": "mercor",
     "title": "Chemist Talent Network",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2598,7 +2502,7 @@
     "platform": "mercor",
     "title": "Chemistry Expert",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2618,7 +2522,7 @@
     "platform": "mercor",
     "title": "Chemistry Specialist, Synthetic & Analytical Chemistry",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -2638,8 +2542,7 @@
     "platform": "mercor",
     "title": "Cinematographer",
     "categories": [
-      "design",
-      "language"
+      "design"
     ],
     "english": "unknown",
     "status": "open",
@@ -2663,7 +2566,7 @@
     "platform": "mercor",
     "title": "Civil / Survey Engineer — Vulcan",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -2682,7 +2585,7 @@
     "platform": "mercor",
     "title": "Civil Engineers & Architects (Must own MacBook)",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -2702,9 +2605,7 @@
     "platform": "mercor",
     "title": "Clinical Medicine Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -2723,8 +2624,7 @@
     "platform": "mercor",
     "title": "Clinical Mental Health Expert — AI Conversation Evaluation",
     "categories": [
-      "audio",
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -2743,8 +2643,7 @@
     "platform": "mercor",
     "title": "Clinical Survey Research & Methodology Expert (Physician / PhD)",
     "categories": [
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -2764,8 +2663,7 @@
     "platform": "mercor",
     "title": "Clinicians",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -2784,8 +2682,7 @@
     "platform": "mercor",
     "title": "Clinicians Survey – Ambulatory & Community Care Insights",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2804,8 +2701,7 @@
     "platform": "mercor",
     "title": "Cloud / DevOps Engineer (Infra & IaC)",
     "categories": [
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -2824,7 +2720,7 @@
     "platform": "mercor",
     "title": "Code Plan Reviewer (Plans Examiner) — Vulcan",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2843,9 +2739,7 @@
     "platform": "mercor",
     "title": "Colorist & Finishing Editor",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2869,7 +2763,7 @@
     "platform": "mercor",
     "title": "Commercial Blasting Engineer",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -2888,7 +2782,7 @@
     "platform": "mercor",
     "title": "Company Analysis Expert — Event Propagation",
     "categories": [
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2907,7 +2801,7 @@
     "platform": "mercor",
     "title": "Compliance & Risk Specialist Talent Network",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2926,8 +2820,7 @@
     "platform": "mercor",
     "title": "Computer Power Users & Automation Builders (Must own MacBook)",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -2947,9 +2840,7 @@
     "platform": "mercor",
     "title": "Condensed Matter Physicist (PhD)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -3029,8 +2920,7 @@
     "platform": "mercor",
     "title": "Consumer & Lifestyle Expert",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3049,7 +2939,7 @@
     "platform": "mercor",
     "title": "Critical Care Physician",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -3068,8 +2958,7 @@
     "platform": "mercor",
     "title": "Customer Experience Operations (India)",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -3088,7 +2977,7 @@
     "platform": "mercor",
     "title": "Customer Success - Operations (India Region)",
     "categories": [
-      "language"
+      "business"
     ],
     "english": "fluent",
     "status": "open",
@@ -3107,9 +2996,7 @@
     "platform": "mercor",
     "title": "Customer Success Engineer (India)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "fluent",
     "status": "open",
@@ -3128,9 +3015,7 @@
     "platform": "mercor",
     "title": "Customer Success Engineer (LatAm)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "fluent",
     "status": "open",
@@ -3149,8 +3034,7 @@
     "platform": "mercor",
     "title": "CVE Vulnerability Expert",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3169,8 +3053,7 @@
     "platform": "mercor",
     "title": "Cybersecurity Research Expert – Offensive Security & Vulnerability Research",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3189,7 +3072,7 @@
     "platform": "mercor",
     "title": "Data Analysis Expert",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3208,7 +3091,7 @@
     "platform": "mercor",
     "title": "Data Analysts & Spreadsheet Specialists (Must own MacBook)",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3228,9 +3111,7 @@
     "platform": "mercor",
     "title": "Data Scientist Talent Network",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3249,8 +3130,7 @@
     "platform": "mercor",
     "title": "Database Systems Evaluation Expert",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -3270,7 +3150,7 @@
     "platform": "mercor",
     "title": "Dermatologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3289,7 +3169,7 @@
     "platform": "mercor",
     "title": "DevOps / Platform Engineer Talent Network",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3308,7 +3188,7 @@
     "platform": "mercor",
     "title": "Disease-Area Clinician — Trial Endpoints & Prescribing",
     "categories": [
-      "medicine"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3327,7 +3207,7 @@
     "platform": "mercor",
     "title": "Drug Discovery Scientist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3347,7 +3227,7 @@
     "platform": "mercor",
     "title": "Drug Discovery Specialist, Pharmacology & ADME/Tox",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -3367,8 +3247,7 @@
     "platform": "mercor",
     "title": "Education & Training Expert",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3387,8 +3266,7 @@
     "platform": "mercor",
     "title": "Electrical & Hardware Engineering Experts",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3407,9 +3285,7 @@
     "platform": "mercor",
     "title": "Electrical Design Specialist",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "design"
     ],
     "english": "unknown",
     "status": "open",
@@ -3429,9 +3305,7 @@
     "platform": "mercor",
     "title": "Electrical Engineer",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3455,8 +3329,7 @@
     "platform": "mercor",
     "title": "Electrical Engineering Expert",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3475,8 +3348,7 @@
     "platform": "mercor",
     "title": "Electrical Test Automation Engineer",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3496,7 +3368,7 @@
     "platform": "mercor",
     "title": "Emergency Response Specialist",
     "categories": [
-      "medicine"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3515,7 +3387,7 @@
     "platform": "mercor",
     "title": "Endocrinologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3534,8 +3406,7 @@
     "platform": "mercor",
     "title": "Energetic Materials Expert for Redteaming",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3554,9 +3425,7 @@
     "platform": "mercor",
     "title": "Engineering & Software Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3576,7 +3445,7 @@
     "platform": "mercor",
     "title": "Engineering Expert",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -3595,7 +3464,7 @@
     "platform": "mercor",
     "title": "Epidemiologist — Patient Population Sizing",
     "categories": [
-      "audio"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3615,7 +3484,7 @@
     "platform": "mercor",
     "title": "Equity Research Expert — Single-Name Analyst Publications",
     "categories": [
-      "language"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -3634,8 +3503,7 @@
     "platform": "mercor",
     "title": "Excel Expert — Finance",
     "categories": [
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -3659,8 +3527,7 @@
     "platform": "mercor",
     "title": "Excel Expert — General",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3685,7 +3552,7 @@
     "platform": "mercor",
     "title": "Expert Interviewer",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3704,7 +3571,7 @@
     "platform": "mercor",
     "title": "Expert Project Manager",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3723,7 +3590,7 @@
     "platform": "mercor",
     "title": "Federal Certified Materials Specialist / Incident Analyst",
     "categories": [
-      "science"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3742,8 +3609,7 @@
     "platform": "mercor",
     "title": "Film & Video Craft Expert (Camera, VFX, Editing & Performance)",
     "categories": [
-      "design",
-      "language"
+      "design"
     ],
     "english": "unknown",
     "status": "open",
@@ -3762,9 +3628,7 @@
     "platform": "mercor",
     "title": "Finance Domain Expert — AI Training & Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -3784,7 +3648,7 @@
     "platform": "mercor",
     "title": "Finance Expert",
     "categories": [
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -3863,7 +3727,7 @@
     "platform": "mercor",
     "title": "Financial Analyst Talent Network",
     "categories": [
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -3882,8 +3746,7 @@
     "platform": "mercor",
     "title": "Financial Managers",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "written",
     "status": "open",
@@ -3902,9 +3765,7 @@
     "platform": "mercor",
     "title": "Fire & Life Safety Reviewer — Vulcan",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3923,7 +3784,7 @@
     "platform": "mercor",
     "title": "Fluid Dynamics and Convection Stability Physicist (PhD)",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -3943,7 +3804,7 @@
     "platform": "mercor",
     "title": "Forensic / Toxicological Chemist",
     "categories": [
-      "business"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -3962,7 +3823,7 @@
     "platform": "mercor",
     "title": "Forensic Scientist — Nuclear Materials",
     "categories": [
-      "business"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -3981,7 +3842,7 @@
     "platform": "mercor",
     "title": "Frontend Engineer Talent Network",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4000,7 +3861,7 @@
     "platform": "mercor",
     "title": "Full-Stack Engineer Talent Network",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4019,7 +3880,7 @@
     "platform": "mercor",
     "title": "General Physician",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -4038,7 +3899,7 @@
     "platform": "mercor",
     "title": "General Surgeon",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4057,9 +3918,7 @@
     "platform": "mercor",
     "title": "Generalist (Must own MacBook)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4079,8 +3938,7 @@
     "platform": "mercor",
     "title": "Generalist Expert",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4099,8 +3957,7 @@
     "platform": "mercor",
     "title": "Genomics & Cell Biology Specialist",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4120,7 +3977,7 @@
     "platform": "mercor",
     "title": "Geriatrician",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4139,8 +3996,6 @@
     "platform": "mercor",
     "title": "German Language and Literature Expert (German)",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -4161,8 +4016,7 @@
     "platform": "mercor",
     "title": "GPU Kernel Expert",
     "categories": [
-      "audio",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4220,7 +4074,7 @@
     "platform": "mercor",
     "title": "Gravitation, Cosmology and Astrophysics Physicist (PhD)",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4240,7 +4094,7 @@
     "platform": "mercor",
     "title": "Hazardous Device Specialist / Public Safety Professional",
     "categories": [
-      "business"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4259,7 +4113,7 @@
     "platform": "mercor",
     "title": "Health Physicist",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -4278,7 +4132,7 @@
     "platform": "mercor",
     "title": "High Energy Physicist (PhD)",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4298,7 +4152,7 @@
     "platform": "mercor",
     "title": "HR & Administration Specialist Talent Network",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4337,7 +4191,6 @@
     "platform": "mercor",
     "title": "Human Resources Expert, Mandarin Chinese (mainland China)",
     "categories": [
-      "audio",
       "language"
     ],
     "english": "unknown",
@@ -4378,7 +4231,7 @@
     "platform": "mercor",
     "title": "Humanities Expert",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4398,8 +4251,7 @@
     "platform": "mercor",
     "title": "Industrial & Manufacturing Engineers (Must own MacBook)",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4419,7 +4271,7 @@
     "platform": "mercor",
     "title": "Industrial Hygienist / Process Safety Engineer",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4438,7 +4290,7 @@
     "platform": "mercor",
     "title": "Infectious Disease Physician",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -4457,9 +4309,7 @@
     "platform": "mercor",
     "title": "Infrastructure / Site Reliability Engineer (SRE)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4478,8 +4328,7 @@
     "platform": "mercor",
     "title": "Inorganic Chemistry & Synthesis Expert",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4499,7 +4348,7 @@
     "platform": "mercor",
     "title": "Inorganic Materials, Semiconductor & Superconductor Experts",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -4519,9 +4368,7 @@
     "platform": "mercor",
     "title": "Insurance Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4540,9 +4387,7 @@
     "platform": "mercor",
     "title": "Investment Banking & M&A - Finance Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -4562,7 +4407,7 @@
     "platform": "mercor",
     "title": "Investment Banking Expert",
     "categories": [
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -4581,7 +4426,7 @@
     "platform": "mercor",
     "title": "Kubernetes Task Auditor",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4601,7 +4446,6 @@
     "title": "Language & Audio Expert",
     "categories": [
       "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -4621,7 +4465,7 @@
     "platform": "mercor",
     "title": "Lawyer Talent Network",
     "categories": [
-      "design"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -4640,8 +4484,7 @@
     "platform": "mercor",
     "title": "Lean Engineer, Formal Mathematics (Lean 4, Mathlib, Theorem Proving)",
     "categories": [
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4660,9 +4503,7 @@
     "platform": "mercor",
     "title": "Legacy Codebase Migration Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4681,9 +4522,7 @@
     "platform": "mercor",
     "title": "Legal Domain Expert — AI Training & Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -4702,7 +4541,7 @@
     "platform": "mercor",
     "title": "Legal Expert",
     "categories": [
-      "design"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -4721,7 +4560,7 @@
     "platform": "mercor",
     "title": "Legal Expert (J.D./LL.B.)",
     "categories": [
-      "design"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -4800,8 +4639,7 @@
     "platform": "mercor",
     "title": "Life, Physical & Social Science Expert",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4821,9 +4659,7 @@
     "platform": "mercor",
     "title": "LLM Research Scientist (Pre-training & Computer Vision & Adversarial Robustness)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -4843,7 +4679,7 @@
     "platform": "mercor",
     "title": "Machine Learning Engineer Talent Network",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4862,8 +4698,7 @@
     "platform": "mercor",
     "title": "Machine Learning Expert",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -4882,8 +4717,7 @@
     "platform": "mercor",
     "title": "Management Consultant Talent Network",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4902,7 +4736,7 @@
     "platform": "mercor",
     "title": "Management Consultant Talent Network",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4921,7 +4755,7 @@
     "platform": "mercor",
     "title": "Management Consulting Expert",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4940,7 +4774,7 @@
     "platform": "mercor",
     "title": "Marketing Specialist Talent Network",
     "categories": [
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -4959,9 +4793,7 @@
     "platform": "mercor",
     "title": "Materials Science Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -4981,8 +4813,7 @@
     "platform": "mercor",
     "title": "Materials Science Expert",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5002,8 +4833,7 @@
     "platform": "mercor",
     "title": "Mathematical Physicist (PhD)",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5023,7 +4853,7 @@
     "platform": "mercor",
     "title": "Mathematician Talent Network",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5042,7 +4872,7 @@
     "platform": "mercor",
     "title": "Mathematics Expert",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5062,7 +4892,7 @@
     "platform": "mercor",
     "title": "Mechanical & CAD Engineers (Must own MacBook)",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5082,9 +4912,7 @@
     "platform": "mercor",
     "title": "Mechanical Engineer",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5108,7 +4936,7 @@
     "platform": "mercor",
     "title": "Mechanical Engineering Expert",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5127,8 +4955,7 @@
     "platform": "mercor",
     "title": "Mechanical Engineering Experts",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5147,7 +4974,7 @@
     "platform": "mercor",
     "title": "Medical Expert",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5166,7 +4993,7 @@
     "platform": "mercor",
     "title": "Medical Expert (M.D./D.O.)",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5245,8 +5072,7 @@
     "platform": "mercor",
     "title": "Medicare Advantage Brokers Survey – Agent & Enrollment Insights",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5270,7 +5096,7 @@
     "platform": "mercor",
     "title": "ML Challenge Task Auditor",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5289,9 +5115,7 @@
     "platform": "mercor",
     "title": "MLOps Engineer, LLM Performance (Kernels, Profiling, Serving)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5310,7 +5134,7 @@
     "platform": "mercor",
     "title": "Molecular Biology Experts - UK",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5330,7 +5154,7 @@
     "platform": "mercor",
     "title": "Molecular Biology Experts - US",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5350,9 +5174,7 @@
     "platform": "mercor",
     "title": "Multilingual Inpatient Hospitalist (MD) — Clinical Documentation & AI Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "fluent",
     "status": "open",
@@ -5371,9 +5193,7 @@
     "platform": "mercor",
     "title": "Multilingual Primary Care Physician (MD) — Clinical Documentation & AI Evaluation",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "fluent",
     "status": "open",
@@ -5392,7 +5212,7 @@
     "platform": "mercor",
     "title": "Nephrologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5411,8 +5231,7 @@
     "platform": "mercor",
     "title": "Network Engineer - Talent Network (Data for Autonomous Systems)",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -5431,7 +5250,7 @@
     "platform": "mercor",
     "title": "Neurologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5450,9 +5269,7 @@
     "platform": "mercor",
     "title": "Neurologists (MD/DO) – Paid Research Study (Migraine)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5476,8 +5293,7 @@
     "platform": "mercor",
     "title": "News Analysts, Reporters, and Journalists",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -5496,7 +5312,7 @@
     "platform": "mercor",
     "title": "Nonproliferation Analyst",
     "categories": [
-      "science"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5515,8 +5331,7 @@
     "platform": "mercor",
     "title": "Nuclear Engineer, Fuel Cycle",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5535,7 +5350,7 @@
     "platform": "mercor",
     "title": "Nuclear Engineering & Safeguards Experts for Red Team",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5554,7 +5369,7 @@
     "platform": "mercor",
     "title": "Nuclear Medicine Physicist / Cyclotron RSO",
     "categories": [
-      "audio"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5573,8 +5388,7 @@
     "platform": "mercor",
     "title": "Nuclear Security Engineer",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5593,7 +5407,7 @@
     "platform": "mercor",
     "title": "Nursing Talent Network",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5612,7 +5426,7 @@
     "platform": "mercor",
     "title": "Obstetrician-Gynecologist (OB/GYN)",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5631,7 +5445,7 @@
     "platform": "mercor",
     "title": "Office & Productivity Software Expert",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -5650,7 +5464,7 @@
     "platform": "mercor",
     "title": "Oncologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5669,7 +5483,7 @@
     "platform": "mercor",
     "title": "Orthopedic Surgeon",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5688,7 +5502,7 @@
     "platform": "mercor",
     "title": "Otolaryngologist (ENT)",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5707,9 +5521,7 @@
     "platform": "mercor",
     "title": "Partner & General Counsel - Legal Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -5728,7 +5540,7 @@
     "platform": "mercor",
     "title": "Payer & Market Access Expert — Gross-to-Net & Formulary Strategy",
     "categories": [
-      "medicine"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5747,8 +5559,7 @@
     "platform": "mercor",
     "title": "Pediatric Emergency / Urgent Care Physician (MD)",
     "categories": [
-      "audio",
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5767,9 +5578,7 @@
     "platform": "mercor",
     "title": "Pediatric Inpatient Nurses (RN)",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5788,8 +5597,7 @@
     "platform": "mercor",
     "title": "Performance & Directing Supervisor",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -5832,9 +5640,7 @@
     "platform": "mercor",
     "title": "Pharmaceutical R&D Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5854,8 +5660,7 @@
     "platform": "mercor",
     "title": "Pharmacist / Pharmacy Technician — Medication Pronunciation Reviewer",
     "categories": [
-      "audio",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5874,7 +5679,7 @@
     "platform": "mercor",
     "title": "Physical Scientist Talent Network",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5893,7 +5698,7 @@
     "platform": "mercor",
     "title": "Physician Talent Network",
     "categories": [
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5912,7 +5717,7 @@
     "platform": "mercor",
     "title": "Physicist Talent Network",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5931,8 +5736,7 @@
     "platform": "mercor",
     "title": "Physics Expert",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -5952,9 +5756,7 @@
     "platform": "mercor",
     "title": "Preclinical R&D Expert – ADC & Bispecifics",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5973,9 +5775,7 @@
     "platform": "mercor",
     "title": "Preclinical R&D Expert – In-house Drug Development",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -5994,8 +5794,7 @@
     "platform": "mercor",
     "title": "Private Detectives and Investigators",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "written",
     "status": "open",
@@ -6014,9 +5813,7 @@
     "platform": "mercor",
     "title": "Private Equity & Venture Capital - Finance Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -6036,7 +5833,7 @@
     "platform": "mercor",
     "title": "Private Equity Associate – Consumer & Leisure (France/Europe)",
     "categories": [
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6055,7 +5852,7 @@
     "platform": "mercor",
     "title": "Private Equity Associate – Real Estate (US)",
     "categories": [
-      "business"
+      "general"
     ],
     "english": "fluent",
     "status": "open",
@@ -6074,9 +5871,7 @@
     "platform": "mercor",
     "title": "Program Lead",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6100,8 +5895,7 @@
     "platform": "mercor",
     "title": "Project Management Specialists",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -6120,8 +5914,7 @@
     "platform": "mercor",
     "title": "Property, Real Estate, and Community Association Managers",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "written",
     "status": "open",
@@ -6140,8 +5933,7 @@
     "platform": "mercor",
     "title": "Propulsion & Effects Engineer",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6160,7 +5952,7 @@
     "platform": "mercor",
     "title": "Psychiatrist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6179,7 +5971,7 @@
     "platform": "mercor",
     "title": "Public Defenders — Paid Research Study",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6198,8 +5990,7 @@
     "platform": "mercor",
     "title": "Quantum Information Science Physicist (PhD)",
     "categories": [
-      "audio",
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6219,7 +6010,7 @@
     "platform": "mercor",
     "title": "Radiation Safety Officer",
     "categories": [
-      "science"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6238,9 +6029,7 @@
     "platform": "mercor",
     "title": "Radio Frequency and Electromagnetic Engineering Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6260,7 +6049,7 @@
     "platform": "mercor",
     "title": "Radiologicals Safety for Redteaming",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6279,7 +6068,7 @@
     "platform": "mercor",
     "title": "Radiologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6298,7 +6087,7 @@
     "platform": "mercor",
     "title": "Retail Trader",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6317,7 +6106,7 @@
     "platform": "mercor",
     "title": "Rheumatologist",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6336,8 +6125,7 @@
     "platform": "mercor",
     "title": "Safeguards Analyst / IAEA or Euratom Inspector",
     "categories": [
-      "audio",
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6356,8 +6144,7 @@
     "platform": "mercor",
     "title": "Sales and Marketing Expert",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "unknown",
     "status": "open",
@@ -6376,8 +6163,7 @@
     "platform": "mercor",
     "title": "Securities, Commodities, and Financial Services Sales Agents",
     "categories": [
-      "audio",
-      "design"
+      "business"
     ],
     "english": "written",
     "status": "open",
@@ -6396,8 +6182,7 @@
     "platform": "mercor",
     "title": "Senior Character Animator",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6416,9 +6201,7 @@
     "platform": "mercor",
     "title": "Senior Counsel — Legal Domain Expert",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -6437,8 +6220,7 @@
     "platform": "mercor",
     "title": "Senior Product Designer, UI/UX",
     "categories": [
-      "design",
-      "language"
+      "design"
     ],
     "english": "unknown",
     "status": "open",
@@ -6481,7 +6263,7 @@
     "platform": "mercor",
     "title": "SOC Investigation Specialist Talent Network",
     "categories": [
-      "audio"
+      "business"
     ],
     "english": "fluent",
     "status": "open",
@@ -6500,8 +6282,7 @@
     "platform": "mercor",
     "title": "Software & Firmware Engineering Experts",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6520,8 +6301,7 @@
     "platform": "mercor",
     "title": "Software Developers (Must own MacBook)",
     "categories": [
-      "design",
-      "language"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6579,7 +6359,6 @@
     "platform": "mercor",
     "title": "Software Engineer (AI-Native Platform & Integrations)",
     "categories": [
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -6599,8 +6378,7 @@
     "platform": "mercor",
     "title": "Software Engineering Expert",
     "categories": [
-      "audio",
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6619,7 +6397,7 @@
     "platform": "mercor",
     "title": "Source Security Specialist",
     "categories": [
-      "design"
+      "tech"
     ],
     "english": "unknown",
     "status": "open",
@@ -6658,7 +6436,7 @@
     "platform": "mercor",
     "title": "Specialty Materials Chemist — Pyrotechnics or Propulsion",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6677,7 +6455,7 @@
     "platform": "mercor",
     "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)",
     "categories": [
-      "design"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6701,7 +6479,7 @@
     "platform": "mercor",
     "title": "Statistical Physics and Thermodynamics Physicist (PhD)",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6787,8 +6565,7 @@
     "platform": "mercor",
     "title": "STEM Researchers - MSc/PhD (Must own MacBook)",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -6808,7 +6585,7 @@
     "platform": "mercor",
     "title": "Stochastic Biophysics Physicist (PhD)",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6828,7 +6605,7 @@
     "platform": "mercor",
     "title": "SWE-Bench Task Auditor",
     "categories": [
-      "audio"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6847,7 +6624,7 @@
     "platform": "mercor",
     "title": "Synthetic / Process Chemist",
     "categories": [
-      "design"
+      "science"
     ],
     "english": "unknown",
     "status": "open",
@@ -6866,8 +6643,7 @@
     "platform": "mercor",
     "title": "Systems & Integration Engineering Experts",
     "categories": [
-      "audio",
-      "design"
+      "audio"
     ],
     "english": "unknown",
     "status": "open",
@@ -6886,7 +6662,7 @@
     "platform": "mercor",
     "title": "Trainium (NKI) Kernel Expert",
     "categories": [
-      "tech"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -6906,7 +6682,6 @@
     "platform": "mercor",
     "title": "UI/UX Designers (Must own MacBook)",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "unknown",
@@ -6927,8 +6702,7 @@
     "platform": "mercor",
     "title": "Urologists & Medical Oncologists (Prostate Cancer) – Paid Research Study",
     "categories": [
-      "audio",
-      "design"
+      "medicine"
     ],
     "english": "unknown",
     "status": "open",
@@ -6952,7 +6726,7 @@
     "platform": "mercor",
     "title": "US Contract Attorney — Federal Litigation",
     "categories": [
-      "design"
+      "law"
     ],
     "english": "unknown",
     "status": "open",
@@ -7028,8 +6802,7 @@
     "platform": "mercor",
     "title": "VFX & Compositing Supervisor",
     "categories": [
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -7091,8 +6864,7 @@
     "platform": "mercor",
     "title": "Voice Actor: CX Agent Voice Cloning (Australian English)",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -7153,8 +6925,7 @@
     "platform": "mercor",
     "title": "Voice Actor: CX Agent Voice Cloning (South African English)",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -7173,8 +6944,7 @@
     "platform": "mercor",
     "title": "Voice Actor: CX Agent Voice Cloning (Southern USA)",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -7319,8 +7089,7 @@
     "platform": "mercor",
     "title": "Voice Actor: CX Agent Voice Cloning (UK English)",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -7339,8 +7108,7 @@
     "platform": "mercor",
     "title": "Voice Actor: CX Agent Voice Cloning (USA)",
     "categories": [
-      "audio",
-      "language"
+      "audio"
     ],
     "english": "fluent",
     "status": "open",
@@ -7359,8 +7127,6 @@
     "platform": "xai",
     "title": "AI Tutor - Croatian",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -7383,7 +7149,6 @@
     "platform": "xai",
     "title": "AI Tutor - Design",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "unknown",
@@ -7404,8 +7169,6 @@
     "platform": "xai",
     "title": "AI Tutor - Finnish",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -7428,8 +7191,6 @@
     "platform": "xai",
     "title": "AI Tutor - German",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -7452,9 +7213,7 @@
     "platform": "xai",
     "title": "AI Tutor - Humanities",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -7475,8 +7234,7 @@
     "platform": "xai",
     "title": "AI Tutor - Legal & Compliance",
     "categories": [
-      "audio",
-      "design"
+      "law"
     ],
     "english": "fluent",
     "status": "open",
@@ -7496,8 +7254,6 @@
     "platform": "xai",
     "title": "AI Tutor - Portuguese",
     "categories": [
-      "audio",
-      "design",
       "language"
     ],
     "english": "unknown",
@@ -7520,7 +7276,6 @@
     "platform": "xai",
     "title": "AI Tutor - Video",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "unknown",
@@ -7541,7 +7296,6 @@
     "platform": "xai",
     "title": "AI Tutor - Video (Weekend)",
     "categories": [
-      "audio",
       "design"
     ],
     "english": "written",
@@ -7562,9 +7316,7 @@
     "platform": "xai",
     "title": "AI Tutor - Writing",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
@@ -7585,9 +7337,7 @@
     "platform": "xai",
     "title": "AI Tutor - Yoruba",
     "categories": [
-      "audio",
-      "design",
-      "language"
+      "general"
     ],
     "english": "unknown",
     "status": "open",
