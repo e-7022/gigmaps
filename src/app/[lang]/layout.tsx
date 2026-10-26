@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { notFound } from "next/navigation";
+import "@fontsource-variable/onest";
 import "../globals.css";
 import { HTML_LANG, LOCALES, isLocale } from "@/i18n/config";
 import { t } from "@/i18n/dict";
@@ -35,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#faf9f5" },
-    { media: "(prefers-color-scheme: dark)", color: "#141413" },
+    { media: "(prefers-color-scheme: light)", color: "#f4f4f0" },
+    { media: "(prefers-color-scheme: dark)", color: "#0f0f0e" },
   ],
 };
 

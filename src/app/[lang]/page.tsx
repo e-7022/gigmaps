@@ -19,6 +19,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return pageMeta(lang as Locale, "", d.meta.title, d.meta.description);
 }
 
+function Pin({ className, fill }: { className: string; fill: string }) {
+  return (
+    <svg className={`pin ${className}`} viewBox="0 0 64 80" aria-hidden="true" focusable="false">
+      <path d="M32 3C16.5 3 5 14.8 5 29.5 5 49 32 77 32 77s27-28 27-47.5C59 14.8 47.5 3 32 3Z" fill={fill} stroke="var(--line)" strokeWidth="2.5" strokeLinejoin="round" />
+      <circle cx="32" cy="29" r="9.5" fill="var(--bg)" stroke="var(--line)" strokeWidth="2.5" />
+    </svg>
+  );
+}
+
 export default async function Home({ params }: Props) {
   const { lang } = await params;
   if (!isLocale(lang)) return null;
@@ -50,11 +59,13 @@ export default async function Home({ params }: Props) {
 
       <section className="hero">
         <div className="container fade-up">
+          <Pin className="pin-1" fill="var(--accent)" />
+          <Pin className="pin-2" fill="var(--sun)" />
           <span className="eyebrow">
             <span className="dot" aria-hidden="true" />
             {fill(d.hero.eyebrow, { date: formatDate(site.lastVerified, lang) })}
           </span>
-          <h1 style={{ maxWidth: "15em" }}>{d.hero.h1}</h1>
+          <h1>{d.hero.h1}</h1>
           <p className="lede">{d.hero.lede}</p>
           <div className="cta-row">
             <a className="btn btn-primary" href="#jobs">
@@ -92,7 +103,7 @@ export default async function Home({ params }: Props) {
         </div>
       </section>
 
-      <section className="section" aria-labelledby="faq-h">
+      <section className="section band" aria-labelledby="faq-h">
         <div className="container">
           <div className="section-head">
             <h2 id="faq-h">FAQ</h2>

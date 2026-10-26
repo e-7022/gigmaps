@@ -8,10 +8,10 @@ import { LangSwitcher } from "./LangSwitcher";
 function Mark() {
   return (
     <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
-      <rect width="26" height="26" rx="8" fill="var(--accent)" />
+      <rect x=".75" y=".75" width="24.5" height="24.5" rx="7" fill="var(--accent)" stroke="var(--line)" strokeWidth="1.5" />
       <circle cx="9" cy="13" r="2.4" fill="var(--accent-ink)" />
-      <circle cx="17" cy="9" r="2.4" fill="var(--accent-ink)" opacity=".7" />
-      <circle cx="17" cy="17" r="2.4" fill="var(--accent-ink)" opacity=".45" />
+      <circle cx="17" cy="9" r="2.4" fill="var(--accent-ink)" />
+      <circle cx="17" cy="17" r="2.4" fill="var(--accent-ink)" />
     </svg>
   );
 }
