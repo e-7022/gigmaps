@@ -44,7 +44,7 @@ npm run build    # статический экспорт в папку out/
 
 ## Публикация на Cloudflare Pages
 
-Домен задаётся переменной `NEXT_PUBLIC_SITE_URL` (по умолчанию `https://gigmap.pages.dev`). Пересоберите после смены адреса.
+Домен задаётся переменной `NEXT_PUBLIC_SITE_URL` (по умолчанию `https://gigmaps.pages.dev`). Пересоберите после смены адреса.
 
 **Без GitHub:** Workers & Pages → Create → Pages → Upload assets → загрузить содержимое `out/` (архив `gigmap-site.zip`).
 
