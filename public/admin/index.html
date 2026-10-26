@@ -65,7 +65,7 @@
 
   <section class="card" aria-labelledby="imp-h">
     <h2 id="imp-h">micro1 (из браузера)</h2>
-    <p>micro1 не отдаёт вакансии серверам GitHub, поэтому их забирают из вашего браузера. Один раз перетащите кнопку <b>«micro1 → файл»</b> на панель закладок. Дальше раз в день: откройте <a href="https://www.micro1.ai/experts/opportunities" target="_blank" rel="noopener">micro1.ai/experts/opportunities</a>, нажмите закладку — скачается файл <code>micro1-jobs-ДАТА.json</code> — и загрузите его сюда. Новые вакансии появятся на сайте, исчезнувшие станут закрытыми.</p>
+    <p>micro1 не отдаёт вакансии серверам GitHub, поэтому их забирают из вашего браузера. Один раз перетащите кнопку <b>«micro1 → файл»</b> на панель закладок (если закладка уже была — удалите старую и перетащите заново: теперь она выгружает ещё и полные описания). Дальше раз в день: откройте <a href="https://www.micro1.ai/experts/opportunities" target="_blank" rel="noopener">micro1.ai/experts/opportunities</a>, нажмите закладку и подождите около минуты (справа внизу идёт счётчик) — скачается файл <code>micro1-jobs-ДАТА.json</code> — и загрузите его сюда. Новые вакансии появятся на сайте, исчезнувшие станут закрытыми.</p>
     <div class="row"><a class="btn" id="bm" href="#">micro1 → файл</a></div>
     <label class="drop" id="imp-drop" style="margin-top:14px">
       <input type="file" id="imp-file" accept=".json,application/json">
@@ -103,7 +103,49 @@
   </section>
 </main>
 <script>
-var BOOKMARKLET = "javascript:(async()=>{if(!/micro1\\.ai$/.test(location.hostname)){alert('\u041e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 micro1.ai/experts/opportunities \u0438 \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0443 \u0442\u0430\u043c');return}const a=[];for(let p=1;p<=15;p++){const r=await fetch('https://prod-api.micro1.ai/api/v1/job/portal?page='+p+'&limit=100&keyword=',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'get_all_jobs'})}).then(r=>r.json());if(!r.data||!r.data.length)break;a.push(...r.data);if(a.length>=r.total)break}const b=new Blob([JSON.stringify({source:'micro1-portal',fetchedAt:new Date().toISOString(),total:a.length,data:a})],{type:'application/json'});const l=document.createElement('a');l.href=URL.createObjectURL(b);l.download='micro1-jobs-'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(l);l.click();alert('micro1: \u0441\u043a\u0430\u0447\u0430\u043d\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439 \u2014 '+a.length)})()";
+// Закладка выгружает список вакансий micro1 и полное описание каждой (описание, навыки, число мест, формат работы).
+function micro1Export() {
+  var API = "https://prod-api.micro1.ai/api/v1/job/portal";
+  var H = { "Content-Type": "application/json" };
+  if (!/micro1\.ai$/.test(location.hostname)) { alert("\u041e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 micro1.ai/experts/opportunities \u0438 \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0443 \u0442\u0430\u043c"); return; }
+  var box = document.createElement("div");
+  box.style.cssText = "position:fixed;z-index:99999;right:16px;bottom:16px;padding:12px 16px;background:#141413;color:#fff;font:14px/1.4 system-ui;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,.3)";
+  document.body.appendChild(box);
+  var say = function (t) { box.textContent = t; };
+  (async function () {
+    var a = [];
+    for (var p = 1; p <= 15; p++) {
+      say("micro1: \u0441\u043f\u0438\u0441\u043e\u043a, \u0441\u0442\u0440. " + p);
+      var r = await fetch(API + "?page=" + p + "&limit=100&keyword=", { method: "POST", headers: H, body: JSON.stringify({ action: "get_all_jobs" }) }).then(function (x) { return x.json(); });
+      if (!r.data || !r.data.length) break;
+      a.push.apply(a, r.data);
+      if (a.length >= r.total) break;
+    }
+    var todo = a.filter(function (j) { var m = j.ideal_hourly_rate; return j.engagement_type !== "full-time" && !(m && m.max >= 1000) && !j.ideal_yearly_compensation; });
+    var done = 0, i = 0, keys = ["job_description", "required_skills", "job_tags", "no_of_openings", "referral_reward_amount", "is_referral_enabled", "location_name", "location_type", "required_availability", "required_communication", "hire_start_time"];
+    async function worker() {
+      while (i < todo.length) {
+        var j = todo[i++];
+        try {
+          var d = await fetch(API, { method: "POST", headers: H, body: JSON.stringify({ action: "get_job_description", job_id: j.job_id }) }).then(function (x) { return x.json(); });
+          if (d && d.data) { var o = {}; keys.forEach(function (k) { if (d.data[k] != null) o[k] = d.data[k]; }); j.detail = o; }
+        } catch (e) {}
+        done++;
+        if (done % 5 === 0 || done === todo.length) say("micro1: \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f " + done + " / " + todo.length);
+      }
+    }
+    await Promise.all([1, 2, 3, 4, 5, 6].map(worker));
+    var b = new Blob([JSON.stringify({ source: "micro1-portal", fetchedAt: new Date().toISOString(), total: a.length, data: a })], { type: "application/json" });
+    var l = document.createElement("a");
+    l.href = URL.createObjectURL(b);
+    l.download = "micro1-jobs-" + new Date().toISOString().slice(0, 10) + ".json";
+    document.body.appendChild(l);
+    l.click();
+    say("micro1: \u0433\u043e\u0442\u043e\u0432\u043e \u2014 " + a.length + " \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439, \u0444\u0430\u0439\u043b \u0441\u043a\u0430\u0447\u0430\u043d");
+    setTimeout(function () { box.remove(); }, 8000);
+  })().catch(function (e) { say("\u041e\u0448\u0438\u0431\u043a\u0430: " + e.message); });
+}
+var BOOKMARKLET = "javascript:(" + micro1Export.toString().replace(/\s*\n\s*/g, " ") + ")()";
 (function () {
   var pw = document.getElementById("pw");
   try { pw.value = sessionStorage.getItem("gigmap.admin") || ""; } catch (e) {}

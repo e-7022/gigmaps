@@ -38,13 +38,13 @@ jobs:
       - name: Commit changes
         id: commit
         run: |
-          if git diff --quiet -- data/jobs.scraped.json; then
+          if [ -z "$(git status --porcelain -- data/jobs.scraped.json data/jobs.details.json)" ]; then
             echo "No job changes"
             exit 0
           fi
           git config user.name "gigmap-bot"
           git config user.email "gigmap-bot@users.noreply.github.com"
-          git add data/jobs.scraped.json data/scrape-report.json
+          git add data/jobs.scraped.json data/jobs.details.json data/scrape-report.json
           git commit -m "chore(data): update scraped jobs $(date -u +%F)"
           git push
           echo "changed=1" >> "$GITHUB_OUTPUT"

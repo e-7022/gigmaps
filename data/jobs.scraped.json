@@ -10977,6 +10977,31 @@
     "lastSeen": "2026-10-25"
   },
   {
+    "id": "micro1-paid-photo-contributor-opportunity-egypt-based-57f7606f-5b4f-42",
+    "platform": "micro1",
+    "title": "Paid Photo Contributor Opportunity (Egypt-based)",
+    "categories": [
+      "design"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "micro1-portal",
+    "payMin": 140,
+    "payMax": 140,
+    "payUnit": "task",
+    "posted": "2026-10-24",
+    "url": "https://jobs.micro1.ai/post/57f7606f-5b4f-42a5-af38-e4b148f2c06a",
+    "externalId": "57f7606f-5b4f-42a5-af38-e4b148f2c06a",
+    "countries": {
+      "allow": [
+        "ZZ"
+      ]
+    },
+    "summary": "micro1 is recruiting participants for a paid photo data collection project supporting the development and evaluation of artificial intelligence (AI) systems.",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "micro1-paid-photo-contributor-opportunity-hawaii-based-6fb2682b-0443-4",
     "platform": "micro1",
     "title": "Paid Photo Contributor Opportunity (Hawaii-based)",
@@ -11103,6 +11128,7 @@
     "posted": "2026-10-20",
     "url": "https://jobs.micro1.ai/post/e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
     "externalId": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+    "summary": "micro1 is looking for professional photographers to help train AI systems by providing high-quality images and photography expertise. No AI experience is required.",
     "firstSeen": "2026-10-25",
     "lastSeen": "2026-10-25"
   },
@@ -11298,7 +11324,7 @@
     "categories": [
       "business"
     ],
-    "english": "unknown",
+    "english": "written",
     "status": "open",
     "source": "micro1-portal",
     "payMin": 45,
@@ -11306,6 +11332,7 @@
     "posted": "2026-10-24",
     "url": "https://jobs.micro1.ai/post/ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
     "externalId": "ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
+    "summary": "micro1 is engaging experienced procurement and vendor management practitioners to design the tasks that measure what AI systems can actually do. Your domain knowledge is what matters here — no prior AI experience required.",
     "firstSeen": "2026-10-25",
     "lastSeen": "2026-10-25"
   },

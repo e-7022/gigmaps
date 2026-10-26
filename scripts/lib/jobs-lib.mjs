@@ -87,6 +87,12 @@ export function detectLanguage(text) {
 
 export function detectEnglish(text) {
   const t = text.toLowerCase();
+  // Уровень по шкале CEFR рядом со словом English: берём минимальный из названных («B2 minimum, C1 preferred» → B2)
+  const levels = [...t.matchAll(/english[^.\n]{0,60}?\b([abc][12])\b(?:[^.\n]{0,40}?\b([abc][12])\b)?|\b([abc][12])\b[^.\n]{0,40}english/g)]
+    .flatMap((m) => [m[1], m[2], m[3]])
+    .filter(Boolean)
+    .map((l) => ({ a1: 0, a2: 0, b1: 0, b2: 1, c1: 2, c2: 2 })[l]);
+  if (levels.length) return ["basic", "written", "fluent"][Math.min(...levels)];
   if (/(native|fluent|c1|c2|advanced|professional)[^.]{0,40}english|english[^.]{0,30}(fluency|fluent|native|c1|c2)/.test(t)) return "fluent";
   if (/(clear|strong|good)[^.]{0,20}written[^.]{0,20}english|written english/.test(t)) return "written";
   if (/basic english|conversational english/.test(t)) return "basic";
@@ -127,6 +133,13 @@ export function countriesFromTitle(title = "") {
   const t = String(title);
   if (/\b(US|U\.S\.)[- ]?(based|licensed|only)\b|\(US\)|\bU\.S\.|\bUS (Macro|Tax)|American|Alaska|Hawaii|San Francisco|Medicare|\bVA\b|Veterans|National Park|Federal|DoD|Bluebook|BigLaw|AAML|HIPAA|UCMJ/i.test(t)) return ["US"];
   if (/\bLATAM\b/i.test(t)) return ["MX"];
+  // «(Egypt-based)», «(Poland-based)»: страна из каталога или ZZ, если её в каталоге нет
+  const based = t.match(/\(\s*([A-Z][a-z]+(?: [A-Z][a-z]+)?)[- ]based\s*\)/);
+  if (based && !/^(Remote|Home|Office|Field|Cloud|Web|Team|Project)$/i.test(based[1])) {
+    const n = based[1].toLowerCase();
+    const cc = Object.keys(COUNTRY_NAMES).find((k) => COUNTRY_NAMES[k].some((x) => x === n || x.startsWith(n)));
+    return [cc ?? "ZZ"];
+  }
   return undefined;
 }
 
@@ -227,4 +240,167 @@ export function toCsv(jobs) {
     lines.push(CSV_COLUMNS.map((k) => esc(row[k])).join(","));
   }
   return lines.join("\n") + "\n";
+}
+
+// --- Подробности вакансии: описание в виде блоков + ключевые факты ---
+// Блок: {t:"h",x} заголовок · {t:"p",x} абзац · {t:"ul"|"ol",i:[...]} список. Только обычный текст — на сайте он выводится без dangerouslySetInnerHTML.
+const MAX_DESC_CHARS = 16000;
+
+function decodeEntities(s) {
+  return String(s)
+    .replace(/&nbsp;|&#160;/g, " ").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'").replace(/&rsquo;/g, "’").replace(/&lsquo;/g, "‘").replace(/&ndash;/g, "–").replace(/&mdash;/g, "—")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/g, "&");
+}
+const clean = (s) => decodeEntities(s).replace(/[ \t ]+/g, " ").replace(/\s*\n\s*/g, " ").trim();
+const looksLikeHeading = (s) => s.length > 0 && s.length <= 70 && !/[.!?]$/.test(s) && (s.endsWith(":") || s === s.toUpperCase());
+
+export function htmlToBlocks(html = "") {
+  let src = String(html);
+  // Greenhouse отдаёт HTML экранированным (&lt;p&gt;…)
+  if (/&lt;\/?[a-z][^&]*&gt;/i.test(src) && !/<(p|div|ul|li|h\d|br)\b/i.test(src)) src = decodeEntities(src);
+  src = src.replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, "").replace(/<!--[\s\S]*?-->/g, "");
+  const blocks = [];
+  let buf = "", boldChars = 0, plainChars = 0, bold = 0, list = null, item = null, head = null;
+  const pushPara = () => {
+    const x = clean(buf);
+    if (x) {
+      if (head != null) blocks.push({ t: "h", x: x.replace(/:$/, "") });
+      else if (bold === 0 && boldChars > 0 && plainChars === 0 && x.length <= 80 && !/[.!?]$/.test(x)) blocks.push({ t: "h", x: x.replace(/:$/, "") });
+      else if (looksLikeHeading(x)) blocks.push({ t: "h", x: x.replace(/:$/, "") });
+      else blocks.push({ t: "p", x });
+    }
+    buf = ""; boldChars = 0; plainChars = 0;
+  };
+  const closeList = () => {
+    if (list && list.i.length) blocks.push(list);
+    list = null;
+  };
+  const re = /<(\/?)([a-z][a-z0-9]*)\b([^>]*)>|([^<]+)/gi;
+  let m;
+  while ((m = re.exec(src))) {
+    if (m[4] !== undefined) {
+      const txt = m[4];
+      if (item != null) item += txt;
+      else {
+        buf += txt;
+        const n = txt.replace(/\s/g, "").length;
+        if (bold > 0) boldChars += n; else plainChars += n;
+      }
+      continue;
+    }
+    const close = m[1] === "/", tag = m[2].toLowerCase(), attrs = m[3] || "";
+    if (/^h[1-6]$/.test(tag)) {
+      if (!close) { if (item == null) { pushPara(); head = true; } } else { pushPara(); head = null; }
+    } else if (tag === "p" || tag === "div" || tag === "section" || tag === "tr") {
+      if (item == null) pushPara();
+    } else if (tag === "br") {
+      if (item != null) item += " "; else buf += "\n";
+    } else if (tag === "ul" || tag === "ol") {
+      if (!close) { if (item == null) { pushPara(); closeList(); } list = list || { t: tag, i: [] }; }
+      else if (item == null) closeList();
+    } else if (tag === "li") {
+      if (!close) {
+        if (!list) { pushPara(); list = { t: "ul", i: [] }; }
+        if (/data-list=["']ordered/i.test(attrs)) list.t = "ol";
+        else if (/data-list=["']bullet/i.test(attrs)) list.t = "ul";
+        item = "";
+      } else {
+        const x = clean(item ?? "");
+        if (x && list) list.i.push(x);
+        item = null;
+      }
+    } else if (tag === "strong" || tag === "b") {
+      bold += close ? -1 : 1;
+      if (bold < 0) bold = 0;
+    }
+  }
+  pushPara();
+  closeList();
+  return capBlocks(blocks);
+}
+
+export function mdToBlocks(text = "") {
+  const blocks = [];
+  let list = null;
+  const inline = (s) => decodeEntities(s)
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/(\*\*|__)(.*?)\1/g, "$2").replace(/(^|[\s(])[*_]([^*_]+)[*_](?=[\s).,;:]|$)/g, "$1$2").replace(/`([^`]+)`/g, "$1")
+    .replace(/\s+/g, " ").trim();
+  const flush = () => { if (list && list.i.length) blocks.push(list); list = null; };
+  for (const raw of String(text).replace(/\r/g, "").split("\n")) {
+    const line = raw.trim();
+    if (!line) { flush(); continue; }
+    let m;
+    if ((m = line.match(/^#{1,6}\s+(.*)$/))) { flush(); const x = inline(m[1]).replace(/:$/, ""); if (x) blocks.push({ t: "h", x }); continue; }
+    if ((m = line.match(/^(?:\*\*|__)([^*_]{2,80}?)(?:\*\*|__):?$/))) { flush(); blocks.push({ t: "h", x: inline(m[1]).replace(/:$/, "") }); continue; }
+    if ((m = line.match(/^(?:[-*•▪◦·]|\d+[.)])\s+(.*)$/))) {
+      const ordered = /^\d/.test(line);
+      if (!list || list.t !== (ordered ? "ol" : "ul")) { flush(); list = { t: ordered ? "ol" : "ul", i: [] }; }
+      const x = inline(m[1]);
+      if (x) list.i.push(x);
+      continue;
+    }
+    flush();
+    const x = inline(line);
+    if (!x) continue;
+    blocks.push(looksLikeHeading(x) ? { t: "h", x: x.replace(/:$/, "") } : { t: "p", x });
+  }
+  flush();
+  return capBlocks(blocks);
+}
+
+function capBlocks(blocks) {
+  const out = [];
+  let n = 0;
+  for (const b of blocks) {
+    const len = b.t === "ul" || b.t === "ol" ? b.i.reduce((a, s) => a + s.length, 0) : b.x.length;
+    if (n + len > MAX_DESC_CHARS) break;
+    n += len;
+    out.push(b);
+  }
+  // заголовок в самом конце без текста под ним бесполезен
+  while (out.length && out[out.length - 1].t === "h") out.pop();
+  return out;
+}
+
+export function blocksToText(blocks = []) {
+  return blocks.map((b) => (b.t === "ul" || b.t === "ol" ? b.i.map((s) => `- ${s}`).join("\n") : b.t === "h" ? `${b.x}:` : b.x)).join("\n");
+}
+
+// «Label: value» из описания: формат работы, занятость, нагрузка
+export function factsFromText(text = "") {
+  const f = {};
+  const first = (re) => {
+    const m = String(text).match(re);
+    return m ? m[1].replace(/\s+/g, " ").trim().replace(/[.;]$/, "").slice(0, 140) : undefined;
+  };
+  f.employment = first(/(?:^|\n)\s*(?:Role Type|Employment Type|Job Type|Engagement(?: Type)?)\s*:\s*([^\n]+)/i);
+  f.location = first(/(?:^|\n)\s*Location\s*:\s*([^\n]+)/i);
+  f.commitment = first(/(?:^|\n)\s*(?:Time per task|Time Commitment|Hours per week|Commitment|Weekly Commitment|Workload)\s*:\s*([^\n]+)/i);
+  f.duration = first(/(?:^|\n)\s*(?:Project )?(?:Duration|Contract length|Contract Duration)\s*:\s*([^\n]+)/i);
+  f.startDate = first(/(?:^|\n)\s*Start(?: date)?\s*:\s*([^\n]+)/i);
+  return f;
+}
+
+// raw: { html? | markdown? | text?, facts? }. Возвращает { blocks, facts } или undefined, если нечего сохранять.
+export function normalizeDetails(raw = {}) {
+  let blocks = [];
+  if (raw.html) blocks = htmlToBlocks(raw.html);
+  else if (raw.markdown || raw.text) blocks = mdToBlocks(raw.markdown || raw.text);
+  const text = blocksToText(blocks);
+  const facts = {};
+  const auto = factsFromText(text);
+  const put = (k, v) => {
+    if (v == null || v === "" || (Array.isArray(v) && !v.length)) return;
+    facts[k] = Array.isArray(v) ? v.map((s) => String(s).trim()).filter(Boolean).slice(0, 30).map((s) => s.slice(0, 120)) : typeof v === "number" || typeof v === "boolean" ? v : String(v).trim().slice(0, 140);
+  };
+  for (const k of ["employment", "workMode", "location", "openings", "hoursPerWeek", "commitment", "duration", "department", "team", "skills", "tags", "referral", "interview", "equity", "startDate", "applicants", "domain", "eligible", "ineligible", "availability", "communication"]) {
+    put(k, raw.facts?.[k] || auto[k]);
+  }
+  // «Role Title / Role Type / Location» в начале описания уже вынесены в факты
+  while (blocks.length && /^(role title|job title|position|role type|employment type|job type|location)\s*:/i.test(blocks[0].x || "")) blocks.shift();
+  if (!blocks.length && !Object.keys(facts).length) return undefined;
+  return { blocks, facts };
 }

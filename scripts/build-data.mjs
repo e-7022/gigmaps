@@ -9,7 +9,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { normalizeJob, parseCsv, toCsv } from "./lib/jobs-lib.mjs";
+import { normalizeDetails, normalizeJob, parseCsv, toCsv } from "./lib/jobs-lib.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const p = (f) => path.join(ROOT, f);
@@ -47,6 +47,7 @@ const titleKey = (r) => `${String(r.platform ?? "").trim().toLowerCase()}|${Stri
 const idByTitle = new Map();
 for (const [, list] of layers.slice(1)) for (const r of list) if (r.id && !idByTitle.has(titleKey(r))) idByTitle.set(titleKey(r), r.id);
 
+const manualDetails = {};
 const byId = new Map();
 const byUrl = new Map();
 const byTitle = new Map();
@@ -70,6 +71,11 @@ for (const [name, list] of layers) {
         continue;
       }
     }
+    // Описание, добавленное вручную в jobs.manual.json (поле details: {markdown|html|text, facts}), важнее скрапера
+    if (raw.details && typeof raw.details === "object") {
+      const d = normalizeDetails(raw.details);
+      if (d) manualDetails[j.id] = d;
+    }
     byId.set(j.id, j);
     if (j.url) byUrl.set(normUrl(j.url), j);
     byTitle.set(titleKey(j), j);
@@ -90,13 +96,31 @@ if (refTxt) {
 }
 for (const k of Object.keys(referrals)) if (!k.startsWith("_") && !PLATFORMS.has(k)) warn(`referrals.json: unknown platform "${k}"`);
 
+// Описания вакансий (data/jobs.details.json ведёт скрапер) → только для вакансий, которые попали на сайт
+let scrapedDetails = {};
+const detTxt = await readMaybe("data/jobs.details.json");
+if (detTxt) {
+  try {
+    scrapedDetails = JSON.parse(detTxt);
+  } catch (e) {
+    warn(`data/jobs.details.json is not valid JSON: ${e.message}`);
+  }
+}
+const details = {};
+for (const j of jobs) {
+  const d = manualDetails[j.id] ?? scrapedDetails[j.id];
+  if (d && (d.blocks?.length || Object.keys(d.facts || {}).length)) details[j.id] = d;
+}
+
 await mkdir(p("src/data/generated"), { recursive: true });
 await mkdir(p("public/data"), { recursive: true });
 await writeFile(p("src/data/generated/jobs.json"), JSON.stringify(jobs));
 await writeFile(p("src/data/generated/referrals.json"), JSON.stringify(referrals));
+await writeFile(p("src/data/generated/details.json"), JSON.stringify(details));
 await writeFile(p("public/data/jobs.json"), JSON.stringify(jobs, null, 1));
 await writeFile(p("public/data/jobs.csv"), "﻿" + toCsv(jobs));
 
 const open = jobs.filter((j) => j.status !== "closed").length;
+console.log(`build-data: ${Object.keys(details).length} jobs with full description`);
 console.log(`build-data: ${jobs.length} jobs (${open} open, ${jobs.length - open} closed) from ${layers.map(([n, l]) => `${n}=${l.length}`).join(", ")}`);
 for (const w of warnings) console.warn(`  ⚠ ${w}`);

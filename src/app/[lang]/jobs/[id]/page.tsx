@@ -8,7 +8,9 @@ import { pageMeta } from "@/lib/seo";
 import { applyUrl, getJob, jobElig, jobPlatform, jobs, type Job } from "@/data/jobs";
 import { railLabel } from "@/data/rails";
 import { COUNTRIES } from "@/data/countries";
+import { detailsText, getDetails } from "@/data/details";
 import { JsonLd } from "@/components/JsonLd";
+import { JobDetails } from "@/components/JobDetails";
 import { JobCard, overallMap } from "@/components/JobCard";
 import { AvailabilityLine } from "@/components/AvailabilityLine";
 
@@ -23,7 +25,7 @@ function describe(j: Job, locale: Locale) {
   const d = t(locale);
   const p = jobPlatform(j);
   const pay = formatPay(j.payMin, j.payMax, locale, j.payUnit) ?? d.job.payUnknown;
-  return `${j.title} — ${p.name}. ${d.job.pay}: ${pay}. ${d.job.englishLabel}: ${d.english[j.english]}. ${j.note?.[locale] ?? p.summary[locale]}`;
+  return `${j.title} — ${p.name}. ${d.job.pay}: ${pay}. ${d.job.englishLabel}: ${d.english[j.english]}. ${j.note?.[locale] ?? j.summary ?? p.summary[locale]}`.slice(0, 320);
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -41,6 +43,7 @@ export default async function JobPage({ params }: Props) {
   const p = jobPlatform(j);
   const pay = formatPay(j.payMin, j.payMax, lang, j.payUnit);
   const { href, isRef } = applyUrl(j);
+  const det = getDetails(j.id);
   const om = overallMap(j);
   const others = jobs
     .filter((x) => x.platform === j.platform && x.id !== j.id && x.status !== "closed")
@@ -69,11 +72,13 @@ export default async function JobPage({ params }: Props) {
       "@context": "https://schema.org",
       "@type": "JobPosting",
       title: j.title,
-      description: describe(j, lang),
+      description: det?.blocks.length ? detailsText(det).slice(0, 5000) : describe(j, lang),
       datePosted: posted,
       validThrough: new Date(Date.parse(posted) + 90 * 864e5).toISOString().slice(0, 10),
       identifier: { "@type": "PropertyValue", name: p.name, value: j.externalId ?? j.id },
-      employmentType: "CONTRACTOR",
+      employmentType: /full/i.test(det?.facts.employment ?? "") ? "FULL_TIME" : /part/i.test(det?.facts.employment ?? "") ? "PART_TIME" : "CONTRACTOR",
+      ...(det?.facts.skills?.length ? { skills: det.facts.skills.join(", ") } : {}),
+      ...(det?.facts.openings ? { totalJobOpenings: det.facts.openings } : {}),
       jobLocationType: "TELECOMMUTE",
       applicantLocationRequirements: eligible.map((cc) => ({ "@type": "Country", name: cc })),
       hiringOrganization: { "@type": "Organization", name: p.name, sameAs: p.url },
@@ -121,11 +126,12 @@ export default async function JobPage({ params }: Props) {
         </div>
       </header>
 
+      <JobDetails job={j} details={det} locale={lang} d={d} officialUrl={j.url || p.url} />
+
       <div className="two-col">
         <section className="panel" aria-labelledby="about-h">
           <h2 id="about-h" className="panel-h">{d.job.about}</h2>
-          {j.summary ? <p lang="en" style={{ marginTop: 0 }}>{j.summary}</p> : null}
-          <p className="muted" style={{ margin: 0 }}>{p.summary[lang]}</p>
+          <p style={{ margin: 0 }}>{p.summary[lang]}</p>
           <p className="small muted" style={{ marginBottom: 0 }}>
             {d.platform.rule[p.rule.kind]}{" "}
             {"source" in p.rule ? (
@@ -135,30 +141,6 @@ export default async function JobPage({ params }: Props) {
         </section>
         <aside className="panel">
           <dl className="meta">
-            <dt>{d.job.pay}</dt>
-            <dd className="num">{pay ?? d.job.payUnknown}</dd>
-            <dt>{d.job.englishLabel}</dt>
-            <dd>{d.english[j.english]}</dd>
-            {j.language ? (
-              <>
-                <dt>{d.job.languageLabel}</dt>
-                <dd>{languageName(j.language, lang)}</dd>
-              </>
-            ) : null}
-            {j.degree ? (
-              <>
-                <dt>—</dt>
-                <dd>{d.job.degree}</dd>
-              </>
-            ) : null}
-            <dt>{d.job.statusLabel}</dt>
-            <dd>{d.status[j.status]}</dd>
-            {j.posted ? (
-              <>
-                <dt>{d.job.posted}</dt>
-                <dd><time dateTime={j.posted}>{formatDate(j.posted, lang)}</time></dd>
-              </>
-            ) : null}
             <dt>{d.job.payoutRails}</dt>
             <dd translate="no">{p.rails.length ? p.rails.map((r) => railLabel(r, lang)).join(", ") : d.platform.railsUnknown}</dd>
             <dt>{d.job.verified}</dt>

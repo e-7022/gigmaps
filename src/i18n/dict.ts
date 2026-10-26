@@ -55,6 +55,19 @@ export interface Dict {
     about: string;
     otherJobs: string;
   };
+  jobDetail: {
+    title: string;
+    skills: string;
+    sourceNote: string; // {date}
+    noDescription: string;
+    readOfficial: string;
+    facts: Record<
+      "pay" | "english" | "language" | "degree" | "status" | "posted" | "employment" | "workMode" | "location" | "openings" | "hoursPerWeek" | "commitment" | "duration" | "department" | "team" | "referral" | "interview" | "startDate" | "applicants" | "equity" | "eligible" | "ineligible" | "availability" | "communication",
+      string
+    >;
+    values: Record<"contractor" | "fulltime" | "parttime" | "hourly" | "remote" | "hybrid" | "onsite" | "offered" | "yes", string>;
+    minutes: string; // {n}
+  };
   platform: {
     jobs: string;
     rule: Record<"allow" | "deny" | "global" | "none", string>;
@@ -156,6 +169,22 @@ const en: Dict = {
     verified: "Verified",
     about: "About the platform",
     otherJobs: "Other jobs on this platform",
+  },
+  jobDetail: {
+    title: "About this role",
+    skills: "Skills",
+    sourceNote: "Text of the official posting, shown in its original language (English). Updated {date}.",
+    noDescription: "The full description will appear after the next data update. For now, see the official posting.",
+    readOfficial: "Open the official posting",
+    facts: {
+      pay: "Pay", english: "English", language: "Language", degree: "Degree", status: "Status", posted: "Posted",
+      employment: "Engagement", workMode: "Work format", location: "Location", openings: "Open positions", hoursPerWeek: "Hours per week",
+      commitment: "Time commitment", duration: "Duration", department: "Department", team: "Team", referral: "Platform referral bonus",
+      interview: "Interview", startDate: "Start", applicants: "Recent applicants", equity: "Equity", eligible: "Open to",
+      ineligible: "Not open to", availability: "Availability", communication: "Communication",
+    },
+    values: { contractor: "Contractor", fulltime: "Full-time", parttime: "Part-time", hourly: "Hourly", remote: "Remote", hybrid: "Hybrid", onsite: "On-site", offered: "Offered", yes: "Required" },
+    minutes: "{n} min",
   },
   platform: {
     jobs: "Jobs",
@@ -281,6 +310,22 @@ const ru: Dict = {
     about: "О платформе",
     otherJobs: "Другие вакансии платформы",
   },
+  jobDetail: {
+    title: "О роли",
+    skills: "Навыки",
+    sourceNote: "Текст официальной вакансии на языке оригинала (английский). Обновлено {date}.",
+    noDescription: "Полное описание появится после ближайшего обновления данных. Пока смотрите официальную вакансию.",
+    readOfficial: "Открыть официальную вакансию",
+    facts: {
+      pay: "Ставка", english: "Английский", language: "Язык", degree: "Степень", status: "Статус", posted: "Опубликована",
+      employment: "Формат занятости", workMode: "Формат работы", location: "Локация", openings: "Открытых мест", hoursPerWeek: "Часов в неделю",
+      commitment: "Нагрузка", duration: "Срок", department: "Направление", team: "Команда", referral: "Реферальный бонус платформы",
+      interview: "Интервью", startDate: "Старт", applicants: "Откликов недавно", equity: "Доля в компании", eligible: "Открыта для",
+      ineligible: "Не открыта для", availability: "Доступность", communication: "Общение",
+    },
+    values: { contractor: "Контракт (подрядчик)", fulltime: "Полная занятость", parttime: "Частичная занятость", hourly: "Почасовая", remote: "Удалённо", hybrid: "Гибрид", onsite: "В офисе", offered: "Предусмотрена", yes: "Нужна" },
+    minutes: "{n} мин",
+  },
   platform: {
     jobs: "Вакансии",
     rule: {
@@ -404,6 +449,22 @@ const es: Dict = {
     verified: "Verificado",
     about: "Sobre la plataforma",
     otherJobs: "Otras vacantes de la plataforma",
+  },
+  jobDetail: {
+    title: "Sobre el puesto",
+    skills: "Habilidades",
+    sourceNote: "Texto de la oferta oficial, en su idioma original (inglés). Actualizado el {date}.",
+    noDescription: "La descripción completa aparecerá tras la próxima actualización de datos. Mientras tanto, consulta la oferta oficial.",
+    readOfficial: "Abrir la oferta oficial",
+    facts: {
+      pay: "Tarifa", english: "Inglés", language: "Idioma", degree: "Titulación", status: "Estado", posted: "Publicada",
+      employment: "Tipo de contrato", workMode: "Modalidad", location: "Ubicación", openings: "Plazas abiertas", hoursPerWeek: "Horas por semana",
+      commitment: "Dedicación", duration: "Duración", department: "Área", team: "Equipo", referral: "Bono de referidos de la plataforma",
+      interview: "Entrevista", startDate: "Inicio", applicants: "Candidatos recientes", equity: "Participación", eligible: "Abierta a",
+      ineligible: "No abierta a", availability: "Disponibilidad", communication: "Comunicación",
+    },
+    values: { contractor: "Contratista", fulltime: "Jornada completa", parttime: "Media jornada", hourly: "Por horas", remote: "Remoto", hybrid: "Híbrido", onsite: "Presencial", offered: "Incluida", yes: "Obligatoria" },
+    minutes: "{n} min",
   },
   platform: {
     jobs: "Vacantes",
@@ -529,6 +590,22 @@ const fr: Dict = {
     about: "À propos de la plateforme",
     otherJobs: "Autres offres de la plateforme",
   },
+  jobDetail: {
+    title: "À propos du poste",
+    skills: "Compétences",
+    sourceNote: "Texte de l’offre officielle, dans sa langue d’origine (anglais). Mis à jour le {date}.",
+    noDescription: "La description complète apparaîtra après la prochaine mise à jour des données. En attendant, consultez l’offre officielle.",
+    readOfficial: "Ouvrir l’offre officielle",
+    facts: {
+      pay: "Rémunération", english: "Anglais", language: "Langue", degree: "Diplôme", status: "Statut", posted: "Publiée",
+      employment: "Type de contrat", workMode: "Mode de travail", location: "Lieu", openings: "Postes ouverts", hoursPerWeek: "Heures par semaine",
+      commitment: "Charge de travail", duration: "Durée", department: "Département", team: "Équipe", referral: "Prime de parrainage de la plateforme",
+      interview: "Entretien", startDate: "Début", applicants: "Candidats récents", equity: "Participation", eligible: "Ouverte à",
+      ineligible: "Fermée à", availability: "Disponibilité", communication: "Communication",
+    },
+    values: { contractor: "Indépendant", fulltime: "Temps plein", parttime: "Temps partiel", hourly: "À l’heure", remote: "À distance", hybrid: "Hybride", onsite: "Sur site", offered: "Prévue", yes: "Requis" },
+    minutes: "{n} min",
+  },
   platform: {
     jobs: "Offres",
     rule: {
@@ -652,6 +729,22 @@ const zh: Dict = {
     verified: "核实于",
     about: "平台介绍",
     otherJobs: "该平台其他岗位",
+  },
+  jobDetail: {
+    title: "岗位介绍",
+    skills: "技能",
+    sourceNote: "官方招聘原文，保留原语言（英文）。更新于 {date}。",
+    noDescription: "完整描述将在下次数据更新后显示。目前请查看官方招聘页面。",
+    readOfficial: "打开官方招聘页面",
+    facts: {
+      pay: "报酬", english: "英语", language: "语言", degree: "学历", status: "状态", posted: "发布时间",
+      employment: "用工方式", workMode: "工作方式", location: "地点", openings: "开放名额", hoursPerWeek: "每周工时",
+      commitment: "投入时间", duration: "期限", department: "部门", team: "团队", referral: "平台推荐奖励",
+      interview: "面试", startDate: "开始时间", applicants: "近期申请人数", equity: "股权", eligible: "面向",
+      ineligible: "不面向", availability: "可用时间", communication: "沟通",
+    },
+    values: { contractor: "合同工", fulltime: "全职", parttime: "兼职", hourly: "按小时", remote: "远程", hybrid: "混合", onsite: "到岗", offered: "提供", yes: "需要" },
+    minutes: "{n} 分钟",
   },
   platform: {
     jobs: "岗位",
