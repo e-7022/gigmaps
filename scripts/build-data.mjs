@@ -9,7 +9,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { normalizeDetails, normalizeJob, parseCsv, toCsv } from "./lib/jobs-lib.mjs";
+import { applyTranslations, jobTexts, normalizeDetails, normalizeJob, parseCsv, segHash, toCsv, TR_LANGS } from "./lib/jobs-lib.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const p = (f) => path.join(ROOT, f);
@@ -112,6 +112,28 @@ for (const j of jobs) {
   if (d && (d.blocks?.length || Object.keys(d.facts || {}).length)) details[j.id] = d;
 }
 
+// Переводы вакансий (data/translations/<lang>.json ведёт scripts/translate.mjs) → generated/tr/<lang>.json
+await mkdir(p("src/data/generated/tr"), { recursive: true });
+const trCounts = {};
+for (const lang of TR_LANGS) {
+  let cache = {};
+  const txt = await readMaybe(`data/translations/${lang}.json`);
+  if (txt) {
+    try {
+      cache = JSON.parse(txt);
+    } catch (e) {
+      warn(`data/translations/${lang}.json is not valid JSON: ${e.message}`);
+    }
+  }
+  const out = {};
+  for (const j of jobs) {
+    const tr = applyTranslations(jobTexts(j, details[j.id]), (s) => cache[segHash(s)]);
+    if (Object.keys(tr).length) out[j.id] = tr;
+  }
+  trCounts[lang] = Object.keys(out).length;
+  await writeFile(p(`src/data/generated/tr/${lang}.json`), JSON.stringify(out));
+}
+
 await mkdir(p("src/data/generated"), { recursive: true });
 await mkdir(p("public/data"), { recursive: true });
 await writeFile(p("src/data/generated/jobs.json"), JSON.stringify(jobs));
@@ -121,6 +143,6 @@ await writeFile(p("public/data/jobs.json"), JSON.stringify(jobs, null, 1));
 await writeFile(p("public/data/jobs.csv"), "﻿" + toCsv(jobs));
 
 const open = jobs.filter((j) => j.status !== "closed").length;
-console.log(`build-data: ${Object.keys(details).length} jobs with full description`);
+console.log(`build-data: ${Object.keys(details).length} jobs with full description; translated: ${TR_LANGS.map((l) => `${l}=${trCounts[l]}`).join(" ")}`);
 console.log(`build-data: ${jobs.length} jobs (${open} open, ${jobs.length - open} closed) from ${layers.map(([n, l]) => `${n}=${l.length}`).join(", ")}`);
 for (const w of warnings) console.warn(`  ⚠ ${w}`);

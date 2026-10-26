@@ -1,0 +1,54 @@
+name: Translate jobs
+
+# Переводит новые вакансии на ru/es/fr/zh через Claude API.
+# Запускается после «Update jobs», раз в день как запасной вариант и вручную (Actions → Translate jobs → Run workflow).
+# Нужен секрет ANTHROPIC_API_KEY: Settings → Secrets and variables → Actions → New repository secret.
+# Лимит расходов: TRANSLATE_BUDGET_CHARS (переменная репозитория, символов исходного текста на язык за запуск; по умолчанию 600000).
+on:
+  workflow_run:
+    workflows: ["Update jobs"]
+    types: [completed]
+  schedule:
+    - cron: "30 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-jobs
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build data (jobs + descriptions)
+        run: node scripts/build-data.mjs
+
+      - name: Translate missing texts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL }}
+          TRANSLATE_BUDGET_CHARS: ${{ vars.TRANSLATE_BUDGET_CHARS }}
+        run: node scripts/translate.mjs
+
+      - name: Commit translations
+        run: |
+          if [ -z "$(git status --porcelain -- data/translations)" ]; then
+            echo "No new translations"
+            exit 0
+          fi
+          git config user.name "gigmap-bot"
+          git config user.email "gigmap-bot@users.noreply.github.com"
+          git add data/translations
+          git commit -m "chore(data): translate jobs $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push

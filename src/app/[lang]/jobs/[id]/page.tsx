@@ -9,6 +9,7 @@ import { applyUrl, getJob, jobElig, jobPlatform, jobs, type Job } from "@/data/j
 import { railLabel } from "@/data/rails";
 import { COUNTRIES } from "@/data/countries";
 import { detailsText, getDetails } from "@/data/details";
+import { getTranslation, type JobTr } from "@/data/translations";
 import { JsonLd } from "@/components/JsonLd";
 import { JobDetails } from "@/components/JobDetails";
 import { JobCard, overallMap } from "@/components/JobCard";
@@ -21,18 +22,19 @@ export function generateStaticParams() {
   return LOCALES.flatMap((lang) => jobs.map((j) => ({ lang, id: j.id })));
 }
 
-function describe(j: Job, locale: Locale) {
+function describe(j: Job, locale: Locale, tr?: JobTr) {
   const d = t(locale);
   const p = jobPlatform(j);
   const pay = formatPay(j.payMin, j.payMax, locale, j.payUnit) ?? d.job.payUnknown;
-  return `${j.title} — ${p.name}. ${d.job.pay}: ${pay}. ${d.job.englishLabel}: ${d.english[j.english]}. ${j.note?.[locale] ?? j.summary ?? p.summary[locale]}`.slice(0, 320);
+  return `${j.title} — ${p.name}. ${d.job.pay}: ${pay}. ${d.job.englishLabel}: ${d.english[j.english]}. ${j.note?.[locale] ?? tr?.summary ?? j.summary ?? p.summary[locale]}`.slice(0, 320);
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lang, id } = await params;
   const j = getJob(id);
   if (!j || !isLocale(lang)) return {};
-  return pageMeta(lang, `/jobs/${j.id}`, `${j.title} · ${jobPlatform(j).name}`, describe(j, lang));
+  const tr = await getTranslation(lang, j.id);
+  return pageMeta(lang, `/jobs/${j.id}`, `${tr?.title ?? j.title} · ${jobPlatform(j).name}`, describe(j, lang, tr));
 }
 
 export default async function JobPage({ params }: Props) {
@@ -44,6 +46,8 @@ export default async function JobPage({ params }: Props) {
   const pay = formatPay(j.payMin, j.payMax, lang, j.payUnit);
   const { href, isRef } = applyUrl(j);
   const det = getDetails(j.id);
+  const tr = await getTranslation(lang, j.id);
+  const title = tr?.title ?? j.title;
   const om = overallMap(j);
   const others = jobs
     .filter((x) => x.platform === j.platform && x.id !== j.id && x.status !== "closed")
@@ -61,7 +65,7 @@ export default async function JobPage({ params }: Props) {
       itemListElement: [
         { "@type": "ListItem", position: 1, name: d.breadcrumbHome, item: abs(`/${lang}`) },
         { "@type": "ListItem", position: 2, name: p.name, item: abs(`/${lang}/platforms/${p.slug}`) },
-        { "@type": "ListItem", position: 3, name: j.title, item: abs(`/${lang}/jobs/${j.id}`) },
+        { "@type": "ListItem", position: 3, name: title, item: abs(`/${lang}/jobs/${j.id}`) },
       ],
     },
   ];
@@ -71,8 +75,8 @@ export default async function JobPage({ params }: Props) {
     ld.push({
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      title: j.title,
-      description: det?.blocks.length ? detailsText(det).slice(0, 5000) : describe(j, lang),
+      title,
+      description: tr?.blocks ? detailsText({ ...det!, blocks: tr.blocks }).slice(0, 5000) : det?.blocks.length ? detailsText(det).slice(0, 5000) : describe(j, lang, tr),
       datePosted: posted,
       validThrough: new Date(Date.parse(posted) + 90 * 864e5).toISOString().slice(0, 10),
       identifier: { "@type": "PropertyValue", name: p.name, value: j.externalId ?? j.id },
@@ -107,7 +111,8 @@ export default async function JobPage({ params }: Props) {
       </nav>
 
       <header className="detail-hero">
-        <h1 translate="no">{j.title}</h1>
+        <h1 translate={tr?.title ? undefined : "no"} lang={tr?.title ? lang : undefined}>{title}</h1>
+        {tr?.title ? <p className="small muted orig-title" lang="en"><span lang={lang}>{d.jobDetail.originalTitle}:</span> {j.title}</p> : null}
         <p className="muted" style={{ margin: 0 }}>
           <Link href={`/${lang}/platforms/${p.slug}`} translate="no">{p.name}</Link>
           {p.owner ? <> · <span translate="no">{p.owner}</span></> : null} · {d.status[j.status]}
@@ -126,7 +131,7 @@ export default async function JobPage({ params }: Props) {
         </div>
       </header>
 
-      <JobDetails job={j} details={det} locale={lang} d={d} officialUrl={j.url || p.url} />
+      <JobDetails job={j} details={det} tr={tr} locale={lang} d={d} officialUrl={j.url || p.url} />
 
       <div className="two-col">
         <section className="panel" aria-labelledby="about-h">

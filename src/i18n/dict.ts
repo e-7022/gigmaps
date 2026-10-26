@@ -67,6 +67,10 @@ export interface Dict {
     >;
     values: Record<"contractor" | "fulltime" | "parttime" | "hourly" | "remote" | "hybrid" | "onsite" | "offered" | "yes", string>;
     minutes: string; // {n}
+    translatedNote: string; // {date}
+    pendingNote: string;
+    showOriginal: string;
+    originalTitle: string;
   };
   platform: {
     jobs: string;
@@ -185,6 +189,10 @@ const en: Dict = {
     },
     values: { contractor: "Contractor", fulltime: "Full-time", parttime: "Part-time", hourly: "Hourly", remote: "Remote", hybrid: "Hybrid", onsite: "On-site", offered: "Offered", yes: "Required" },
     minutes: "{n} min",
+    translatedNote: "Machine-translated from the official posting (updated {date}). The original is the reference — check it before applying.",
+    pendingNote: "The translation is being prepared; the text below is the original (English).",
+    showOriginal: "Show original (English)",
+    originalTitle: "Original title",
   },
   platform: {
     jobs: "Jobs",
@@ -325,6 +333,10 @@ const ru: Dict = {
     },
     values: { contractor: "Контракт (подрядчик)", fulltime: "Полная занятость", parttime: "Частичная занятость", hourly: "Почасовая", remote: "Удалённо", hybrid: "Гибрид", onsite: "В офисе", offered: "Предусмотрена", yes: "Нужна" },
     minutes: "{n} мин",
+    translatedNote: "Автоматический перевод официальной вакансии (обновлено {date}). Ориентируйтесь на оригинал и сверяйтесь с ним перед откликом.",
+    pendingNote: "Перевод готовится — ниже текст оригинала (английский).",
+    showOriginal: "Показать оригинал (английский)",
+    originalTitle: "Оригинальное название",
   },
   platform: {
     jobs: "Вакансии",
@@ -465,6 +477,10 @@ const es: Dict = {
     },
     values: { contractor: "Contratista", fulltime: "Jornada completa", parttime: "Media jornada", hourly: "Por horas", remote: "Remoto", hybrid: "Híbrido", onsite: "Presencial", offered: "Incluida", yes: "Obligatoria" },
     minutes: "{n} min",
+    translatedNote: "Traducción automática de la oferta oficial (actualizada el {date}). El original es la referencia: compruébalo antes de postular.",
+    pendingNote: "La traducción está en preparación; abajo se muestra el original (inglés).",
+    showOriginal: "Mostrar original (inglés)",
+    originalTitle: "Título original",
   },
   platform: {
     jobs: "Vacantes",
@@ -605,6 +621,10 @@ const fr: Dict = {
     },
     values: { contractor: "Indépendant", fulltime: "Temps plein", parttime: "Temps partiel", hourly: "À l’heure", remote: "À distance", hybrid: "Hybride", onsite: "Sur site", offered: "Prévue", yes: "Requis" },
     minutes: "{n} min",
+    translatedNote: "Traduction automatique de l’offre officielle (mise à jour le {date}). L’original fait foi : vérifiez-le avant de postuler.",
+    pendingNote: "La traduction est en préparation ; le texte ci-dessous est l’original (anglais).",
+    showOriginal: "Afficher l’original (anglais)",
+    originalTitle: "Titre original",
   },
   platform: {
     jobs: "Offres",
@@ -745,6 +765,10 @@ const zh: Dict = {
     },
     values: { contractor: "合同工", fulltime: "全职", parttime: "兼职", hourly: "按小时", remote: "远程", hybrid: "混合", onsite: "到岗", offered: "提供", yes: "需要" },
     minutes: "{n} 分钟",
+    translatedNote: "官方招聘信息的机器翻译（更新于 {date}）。请以原文为准，申请前请核对。",
+    pendingNote: "翻译正在准备中，下方为原文（英文）。",
+    showOriginal: "显示原文（英文）",
+    originalTitle: "原始职位名称",
   },
   platform: {
     jobs: "岗位",

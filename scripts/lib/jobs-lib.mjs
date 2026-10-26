@@ -404,3 +404,72 @@ export function normalizeDetails(raw = {}) {
   if (!blocks.length && !Object.keys(facts).length) return undefined;
   return { blocks, facts };
 }
+
+// --- Перевод вакансий: что именно переводим и как собираем результат ---
+import { createHash } from "node:crypto";
+
+export const TR_LANGS = ["ru", "es", "fr", "zh"];
+export const TR_FACT_KEYS = ["employment", "workMode", "location", "commitment", "duration", "department", "team", "startDate", "availability", "communication", "eligible", "ineligible"];
+export const segHash = (s) => createHash("sha1").update(String(s)).digest("hex").slice(0, 16);
+
+// Есть ли в строке что переводить (числа, коды и однобуквенные значения пропускаем)
+const translatable = (s) => typeof s === "string" && /[A-Za-zÀ-ɏ]{3,}/.test(s);
+
+// Исходные строки вакансии в фиксированной структуре
+export function jobTexts(job, det) {
+  const f = det?.facts ?? {};
+  const facts = {};
+  for (const k of TR_FACT_KEYS) if (typeof f[k] === "string" && f[k]) facts[k] = f[k];
+  return {
+    title: job.title,
+    summary: job.summary || undefined,
+    blocks: det?.blocks?.length ? det.blocks : undefined,
+    skills: [...(f.skills ?? []), ...(f.tags ?? [])],
+    facts,
+  };
+}
+
+// Короткие строки (название, summary, навыки, факты) и длинные (описание) — первые дешевле и важнее
+export function shortSegments(t) {
+  return [t.title, t.summary, ...t.skills, ...Object.values(t.facts)].filter(translatable);
+}
+export function longSegments(t) {
+  return (t.blocks ?? []).flatMap((b) => (b.t === "ul" || b.t === "ol" ? b.i : [b.x])).filter(translatable);
+}
+
+// lookup(строка) → перевод или undefined. Блоки включаются, только если переведены целиком.
+export function applyTranslations(t, lookup) {
+  const one = (s) => (translatable(s) ? lookup(s) : s);
+  const out = {};
+  const title = one(t.title);
+  if (title && title !== t.title) out.title = title;
+  if (t.summary) {
+    const s = one(t.summary);
+    if (s && s !== t.summary) out.summary = s;
+  }
+  if (t.skills.length) {
+    const sk = t.skills.map(one);
+    if (sk.every(Boolean)) out.skills = sk;
+  }
+  const facts = {};
+  for (const [k, v] of Object.entries(t.facts)) {
+    const x = one(v);
+    if (x && x !== v) facts[k] = x;
+  }
+  if (Object.keys(facts).length) out.facts = facts;
+  if (t.blocks) {
+    let ok = true;
+    const blocks = t.blocks.map((b) => {
+      if (b.t === "ul" || b.t === "ol") {
+        const i = b.i.map(one);
+        if (!i.every(Boolean)) ok = false;
+        return { t: b.t, i };
+      }
+      const x = one(b.x);
+      if (!x) ok = false;
+      return { t: b.t, x };
+    });
+    if (ok) out.blocks = blocks;
+  }
+  return out;
+}

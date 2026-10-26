@@ -1121,3 +1121,19 @@ tr:target td {
   padding-top: 14px;
   border-top: 1px solid var(--line);
 }
+.orig {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+.orig > summary {
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.orig[open] > summary {
+  margin-bottom: 14px;
+}
+.orig-title {
+  margin: -4px 0 0;
+}

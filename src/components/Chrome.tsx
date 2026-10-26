@@ -46,7 +46,7 @@ export function Footer({ locale }: { locale: Locale }) {
     <footer className="footer">
       <div className="container footer-inner">
         <p style={{ margin: 0 }}>
-          <span translate="no">{site.name}</span> · {fill(d.footer.verified, { date: formatDate(site.lastVerified, locale) })}{" "}
+          <span translate="no">{site.name}</span> · {fill(d.footer.verified, { date: formatDate(site.lastVerified, locale) }).replace(/\.\./g, ".")}{" "}
           {d.footer.disclaimer}
         </p>
         <p style={{ margin: 0, display: "flex", gap: 16, flexWrap: "wrap" }}>

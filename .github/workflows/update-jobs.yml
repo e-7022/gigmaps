@@ -46,6 +46,7 @@ jobs:
           git config user.email "gigmap-bot@users.noreply.github.com"
           git add data/jobs.scraped.json data/jobs.details.json data/scrape-report.json
           git commit -m "chore(data): update scraped jobs $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
           echo "changed=1" >> "$GITHUB_OUTPUT"
 
