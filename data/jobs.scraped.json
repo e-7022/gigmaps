@@ -2058,6 +2058,26 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-arabic-linguistic-experts-list-aaaboxlyrhc9gxojil5d2zlc",
+    "platform": "mercor",
+    "title": "Arabic Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "ar",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyRHc9GXoJIl5D2ZLc",
+    "externalId": "list_AAABoXlyRHc9GXoJIl5D2ZLc",
+    "summary": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Arabic-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-architect-design-coordination-vulcan-list-aaabokjpbjxkmlb5ekzh-",
     "platform": "mercor",
     "title": "Architect — Design Coordination (Vulcan)",
@@ -2666,7 +2686,7 @@
       "general"
     ],
     "english": "unknown",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 150,
     "payMax": 250,
@@ -2675,7 +2695,8 @@
     "externalId": "list_AAABoKIwUtMWN-CmriZO-b-6",
     "summary": "We are building expert-authored forecasting and research data used to evaluate and improve AI models on real macro analysis. Each task asks a practitioner to reason from a fixed evidence cutoff — no hindsight — and document the judgment a strong analyst would have made at…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-26"
+    "lastSeen": "2026-10-26",
+    "closedAt": "2026-10-26"
   },
   {
     "id": "mercor-certified-medical-coder-icd-10-multilingual-clinical-documentat",
@@ -2772,6 +2793,26 @@
     "externalId": "list_AAABoWVPxZB7iQd_P8tD4aTU",
     "summary": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-chinese-linguistic-experts-list-aaaboxlygrou-ta0mvzc0qz9",
+    "platform": "mercor",
+    "title": "Chinese Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "zh",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlygrOU-ta0mvZC0qz9",
+    "externalId": "list_AAABoXlygrOU-ta0mvZC0qz9",
+    "summary": "Mercor is seeking experienced Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Chinese-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -3027,7 +3068,7 @@
       "general"
     ],
     "english": "unknown",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 150,
     "payMax": 250,
@@ -3036,7 +3077,8 @@
     "externalId": "list_AAABoKIwgY__n4PSwbVEpr5T",
     "summary": "We are building expert-authored forecasting and research data used to evaluate and improve AI models on real financial analysis. Each task asks a practitioner to reason from a fixed evidence cutoff — no hindsight — and document the judgment a strong analyst would have made at…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-26"
+    "lastSeen": "2026-10-26",
+    "closedAt": "2026-10-26"
   },
   {
     "id": "mercor-compliance-risk-specialist-talent-network-list-aaabnj0tj07vgzf7",
@@ -3717,6 +3759,25 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-english-linguistic-experts-list-aaaboxlxjuzcaszmmttj6imb",
+    "platform": "mercor",
+    "title": "English Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxJUZCaSZmMttJ6IMb",
+    "externalId": "list_AAABoXlxJUZCaSZmMttJ6IMb",
+    "summary": "Mercor is seeking experienced English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in English-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-epidemiologist-patient-population-sizing-list-aaabn9frhef3j5d5w",
     "platform": "mercor",
     "title": "Epidemiologist — Patient Population Sizing",
@@ -3744,7 +3805,7 @@
       "science"
     ],
     "english": "unknown",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 150,
     "payMax": 250,
@@ -3753,7 +3814,8 @@
     "externalId": "list_AAABoKIwHt2zNelvV1hDvKjQ",
     "summary": "We are building expert-authored forecasting and research data used to evaluate and improve AI models on real financial analysis. Each task asks a practitioner to reason from a fixed evidence cutoff — no hindsight — and document the judgment a strong analyst would have made at…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-26"
+    "lastSeen": "2026-10-26",
+    "closedAt": "2026-10-26"
   },
   {
     "id": "mercor-excel-expert-finance-list-aaabojf8kuwqjj-rjebpibpw",
@@ -4105,6 +4167,26 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-french-linguistic-experts-list-aaaboxlvyuh1tzlt-ipjg6wm",
+    "platform": "mercor",
+    "title": "French Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "fr",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlvyUH1tzlT-IpJg6wm",
+    "externalId": "list_AAABoXlvyUH1tzlT-IpJg6wm",
+    "summary": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-frontend-engineer-talent-network-list-aaabnhwqmlo6wvvivurhh7t3",
     "platform": "mercor",
     "title": "Frontend Engineer Talent Network",
@@ -4267,7 +4349,7 @@
       "language"
     ],
     "english": "unknown",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 50,
     "payMax": 50,
@@ -4277,6 +4359,27 @@
     "externalId": "list_AAABlqJaq0EUfyf0yZFMO5mt",
     "summary": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating…",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26",
+    "closedAt": "2026-10-26"
+  },
+  {
+    "id": "mercor-german-linguistic-experts-list-aaaboxlxes1ty58ozmjmqpjn",
+    "platform": "mercor",
+    "title": "German Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "de",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxes1TY58ozMJMQpjn",
+    "externalId": "list_AAABoXlxes1TY58ozMJMQpjn",
+    "summary": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in German-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -4416,6 +4519,26 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-hindi-linguistic-experts-list-aaaboxlyyoqk6mm0d4fg05qu",
+    "platform": "mercor",
+    "title": "Hindi Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 30,
+    "payMax": 30,
+    "language": "hi",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyYOQK6mM0D4FG05Qu",
+    "externalId": "list_AAABoXlyYOQK6mM0D4FG05Qu",
+    "summary": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hindi-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-hr-administration-specialist-talent-network-list-aaabnj0htj8dwb",
     "platform": "mercor",
     "title": "HR & Administration Specialist Talent Network",
@@ -4512,6 +4635,26 @@
     "externalId": "list_AAABoKOQcWLb5MeHmbFGHq7W",
     "summary": "The research teams behind the best-known AI models come to Mercor for humanities judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-indonesian-linguistic-experts-list-aaaboxlzadizwryydutbmpdx",
+    "platform": "mercor",
+    "title": "Indonesian Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 30,
+    "payMax": 30,
+    "language": "id",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlzADizwRyyDutBMpdx",
+    "externalId": "list_AAABoXlzADizwRyyDutBMpdx",
+    "summary": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Indonesian-language tasks and on…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -4697,6 +4840,26 @@
     "externalId": "list_AAABoKMhfQur1DCRx9tAD7Jq",
     "summary": "The research teams behind the best-known AI models come to Mercor for investment banking judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-japanese-linguistic-experts-list-aaaboxlytuoflosdf6jpw4yp",
+    "platform": "mercor",
+    "title": "Japanese Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "ja",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlytUOfloSDF6JPw4yP",
+    "externalId": "list_AAABoXlytUOfloSDF6JPw4yP",
+    "summary": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Japanese-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -5003,7 +5166,7 @@
       "tech"
     ],
     "english": "unknown",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 150,
     "payMax": 200,
@@ -5012,6 +5175,26 @@
     "url": "https://work.mercor.com/jobs/list_AAABoVbx1lSSTH-CB6hAt4WE",
     "externalId": "list_AAABoVbx1lSSTH-CB6hAt4WE",
     "summary": "To qualify you must work as an ML research engineer, research scientist or applied scientist, and have personally trained, fine-tuned or optimized models in PyTorch or JAX.",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26",
+    "closedAt": "2026-10-26"
+  },
+  {
+    "id": "mercor-malay-linguistic-experts-list-aaaboxly0nwfawr-xqrkwzqj",
+    "platform": "mercor",
+    "title": "Malay Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 30,
+    "payMax": 30,
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXly0nwFAwR_xQRKWZqJ",
+    "externalId": "list_AAABoXly0nwFAwR_xQRKWZqJ",
+    "summary": "Mercor is seeking experienced Malay Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Malay-language tasks and on curating…",
     "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
@@ -6070,6 +6253,26 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-portuguese-linguistic-experts-list-aaaboxlxydftyp-n8frogpw8",
+    "platform": "mercor",
+    "title": "Portuguese Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "pt",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxYDftYp_n8FROgpw8",
+    "externalId": "list_AAABoXlxYDftYp_n8FROgpw8",
+    "summary": "Mercor is seeking experienced Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Portuguese-language tasks and on…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-preclinical-r-d-expert-adc-bispecifics-list-aaabn-cbcuqm7wbsr-b",
     "platform": "mercor",
     "title": "Preclinical R&D Expert – ADC & Bispecifics",
@@ -6383,17 +6586,16 @@
       "general"
     ],
     "english": "unknown",
-    "status": "closed",
+    "status": "open",
     "source": "mercor-listings",
     "payMin": 65,
     "payMax": 75,
     "posted": "2026-09-09",
     "url": "https://work.mercor.com/jobs/list_AAABoIabmYjUHHAuGyNNe6tO",
     "externalId": "list_AAABoIabmYjUHHAuGyNNe6tO",
-    "summary": "**About the work**\nMercor is assembling a panel of radiological safety experts to red-team frontier AI models. The goal is to test whether a model can correctly judge the misuse potential of a technical request while answering legitimate questions fully while refusing genuinely d",
+    "summary": "Mercor is assembling a panel of radiological safety experts to red-team frontier AI models. The goal is to test whether a model can correctly judge the misuse potential of a technical request while answering legitimate questions fully while refusing genuinely dangerous ones.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-25",
-    "closedAt": "2026-10-26"
+    "lastSeen": "2026-10-26"
   },
   {
     "id": "mercor-radiologist-list-aaabowtwzy78zzncm-felrjz",
@@ -6450,6 +6652,26 @@
     "externalId": "list_AAABoWtwTAuXPK49ZE5BY6j1",
     "summary": "Mercor is hiring board-certified rheumatologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-russian-linguistic-experts-list-aaaboxlxmgvod2040vvgaycz",
+    "platform": "mercor",
+    "title": "Russian Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "ru",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxmGVod2040vVGaYCZ",
+    "externalId": "list_AAABoXlxmGVod2040vVGaYCZ",
+    "summary": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Russian-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -6755,6 +6977,26 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-spanish-linguistic-experts-list-aaaboxlxq1-u0adhynrkwpj2",
+    "platform": "mercor",
+    "title": "Spanish Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "es",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxQ1_U0AdHynRKwpJ2",
+    "externalId": "list_AAABoXlxQ1_U0AdHynRKwpJ2",
+    "summary": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Spanish-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-spanish-tutors-list-aaaboeke3fx5nn65lndaloi6",
     "platform": "mercor",
     "title": "Spanish Tutors",
@@ -7001,6 +7243,25 @@
     "lastSeen": "2026-10-26"
   },
   {
+    "id": "mercor-telugu-linguistic-experts-list-aaaboxlycrggl4k-oznmvars",
+    "platform": "mercor",
+    "title": "Telugu Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 30,
+    "payMax": 30,
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlycrggl4K-OZNMvars",
+    "externalId": "list_AAABoXlycrggl4K-OZNMvars",
+    "summary": "Mercor is seeking experienced Telugu Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Telugu-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
+    "lastSeen": "2026-10-26"
+  },
+  {
     "id": "mercor-trainium-nki-kernel-expert-list-aaabodrl07cqmjvbgadldiz6",
     "platform": "mercor",
     "title": "Trainium (NKI) Kernel Expert",
@@ -7018,6 +7279,26 @@
     "externalId": "list_AAABoDrL07CqmjVBGadLDIZ6",
     "summary": "Evaluate the quality, correctness, and hardware-appropriateness of Neuron Kernel Interface (NKI) development tasks used to train and evaluate a frontier AI lab's models. You'll assess CUDA→NKI migration fidelity, Trainium-specific performance-optimization quality, and…",
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-turkish-linguistic-experts-list-aaaboxlyk9pwfcexhubhmy1g",
+    "platform": "mercor",
+    "title": "Turkish Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 50,
+    "language": "tr",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyK9PwfCExhuBHMY1G",
+    "externalId": "list_AAABoXlyK9PwfCExhuBHMY1G",
+    "summary": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Turkish-language tasks and on curating…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
@@ -7167,6 +7448,26 @@
       ]
     },
     "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-26"
+  },
+  {
+    "id": "mercor-vietnamese-linguistic-experts-list-aaaboxlzelsoghl6d6nmkrr1",
+    "platform": "mercor",
+    "title": "Vietnamese Linguistic Experts",
+    "categories": [
+      "language"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 30,
+    "payMax": 30,
+    "language": "vi",
+    "posted": "2026-10-26",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlzElsOghL6D6NMkrR1",
+    "externalId": "list_AAABoXlzElsOghL6D6NMkrR1",
+    "summary": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Vietnamese-language tasks and on…",
+    "firstSeen": "2026-10-26",
     "lastSeen": "2026-10-26"
   },
   {
