@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-26T21:53:38.224Z",
-  "total": 678,
-  "open": 665,
+  "date": "2026-10-27T16:06:14.741Z",
+  "total": 692,
+  "open": 664,
   "sources": [
     "  micro1-portal: live fetch failed (HTTP 403 https://prod-api.micro1.ai/api/v1/job/portal?page=1&limit=100&keyword= ), used import from 2026-10-25T21:30:00Z",
     "✓ micro1-portal: 282 open (0 new), 0 closed",
-    "✓ xai-greenhouse: 18 open (0 new), 0 closed",
-    "✓ appen-lever: 54 open (0 new), 0 closed",
-    "✓ mercor-listings: 311 open (15 new), 5 closed"
+    "✓ xai-greenhouse: 22 open (4 new), 0 closed",
+    "✓ appen-lever: 44 open (0 new), 10 closed",
+    "✓ mercor-listings: 316 open (10 new), 6 closed"
   ]
 }
