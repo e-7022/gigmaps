@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-25T20:17:40.407Z",
-  "total": 1311,
-  "open": 748,
+  "date": "2026-11-26T19:54:41.566Z",
+  "total": 1321,
+  "open": 766,
   "sources": [
     "✗ micro1-portal: HTTP 403 https://prod-api.micro1.ai/api/v1/job/portal?page=1&limit=100&keyword= <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n — previous data kept",
     "✓ xai-greenhouse: 21 open (0 new), 0 closed",
     "✗ appen-lever: source returned 0 jobs — previous data kept",
-    "✓ mercor-listings: 346 open (3 new), 10 closed"
+    "✓ mercor-listings: 364 open (10 new), 0 closed"
   ]
 }
