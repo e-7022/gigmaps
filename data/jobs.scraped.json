@@ -1465,7 +1465,7 @@
       ]
     },
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-long-project-anonymization-quality-reviewer-list-aaabolvswx0sgd",
@@ -1550,7 +1550,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-accounting-audit-domain-expert-list-aaabobt89pf5xmuitbxmcqge",
@@ -1575,7 +1575,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-accounting-expert-list-aaabn0mtnuga6yo-akfd-ah0",
@@ -1659,7 +1659,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-agent-engineer-list-aaabn-hju3e9hgqimatbyk05",
@@ -1678,7 +1678,7 @@
     "externalId": "list_AAABn_hJu3e9hgqimAtByK05",
     "summary": "We are looking for engineers who build and operate LLM agents in production, and who have real visibility into how agents are actually used inside a company.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ai-assistant-user-weekly-feedback-study-list-aaabouy490i18pymxl",
@@ -1737,7 +1737,7 @@
     "externalId": "list_AAABoEpz0r9yxMsCwGNKaJl4",
     "summary": "Evaluate the quality and correctness of AI-assisted software-development traces used to train and evaluate a frontier AI lab's models. You'll assess end-to-end coding sessions produced with AI-assisted developer tools — judging correctness, workflow soundness, and reasoning —…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ai-evaluation-rubric-auditor-list-aaaboeazz5app9cxnf9dvrub",
@@ -1756,7 +1756,7 @@
     "externalId": "list_AAABoeaZZ5aPp9cXNF9DVrUb",
     "summary": "We are testing AI agents on realistic shopping and delivery tasks. Your role as a Project Auditor is to audit the work done by our Project Reviewers. You will audit complete tasks (prompt and grading rubric) and determine if their rubric failures are fair:",
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ai-evaluation-rubric-reviewer-list-aaaboeiksoinqks-uxoz7g1",
@@ -1775,7 +1775,7 @@
     "externalId": "list_AAABoeIksoinQkS__UxOZ7G1",
     "summary": "We are testing AI agents on realistic shopping and delivery tasks. You'll review AI-drafted tasks (prompt, grading rubric) along with model attempts, and decide whether each failure is fair:",
     "firstSeen": "2026-11-16",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ai-safety-experts-english-vietnamese-list-aaabn7ggjcwsrvaot-lif",
@@ -1855,7 +1855,7 @@
     "externalId": "list_AAABoJgm29LSpSu7mYtHu76n",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-android-studio-on-macos-code-list-aaabojgk9ki",
@@ -1874,7 +1874,7 @@
     "externalId": "list_AAABoJgk9ki2WVxQqaREbK2c",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-autocad-mechanical-stem-list-aaabojgqkengdyqh",
@@ -1893,7 +1893,7 @@
     "externalId": "list_AAABoJgqKEnGDYqhKlxERLZR",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-blender-on-windows-generalist-list-aaabojgm6x",
@@ -1912,7 +1912,7 @@
     "externalId": "list_AAABoJgm6x9CphybYGBCw71A",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-davinci-resolve-on-macos-generalist-list-aaab",
@@ -1931,7 +1931,7 @@
     "externalId": "list_AAABoJgnF8j710kq7tNP9JUX",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-eviews-on-windows-stem-list-aaabojgqg0i8vqrlj",
@@ -1950,7 +1950,7 @@
     "externalId": "list_AAABoJgqg0I8vqrLJG1MS64I",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-excel-on-macos-professionals-list-aaabojgvejt",
@@ -1969,7 +1969,7 @@
     "externalId": "list_AAABoJgvejt9L0cNECdNWbCo",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-fruitloops-studio-on-windows-generalist-list-",
@@ -1988,7 +1988,7 @@
     "externalId": "list_AAABoJgm-80LGK_vet9Hy7mI",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-inventor-professional-on-windows-stem-list-aa",
@@ -2007,7 +2007,7 @@
     "externalId": "list_AAABoJgYdke25i__9elOAaFG",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-linux-ubuntu-24-04-expert-professionals-list-",
@@ -2026,7 +2026,7 @@
     "externalId": "list_AAABoJgvqc1gDoK02dZJpq-m",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-macos-sonoma-14-5-expert-professionals-list-a",
@@ -2045,7 +2045,7 @@
     "externalId": "list_AAABoJgvmGStTJPb_JFMXJv8",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-matlab-on-windows-stem-list-aaabojgqvi3f6xhyx",
@@ -2064,7 +2064,7 @@
     "externalId": "list_AAABoJgqVi3F6XhyxPFM47qw",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-origin-on-windows-stem-list-aaabojgqzviwfnhv2",
@@ -2083,7 +2083,7 @@
     "externalId": "list_AAABoJgqZViwfNhv2ORD14vu",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-photoshop-on-windows-generalist-list-aaabojgm",
@@ -2102,7 +2102,7 @@
     "externalId": "list_AAABoJgmvv154mBck81Ez4MZ",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-powerpoint-on-windows-professionals-list-aaab",
@@ -2122,7 +2122,7 @@
     "externalId": "list_AAABoJgvaf2xJcx9tANJF5O8",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-premiere-on-windows-generalist-list-aaabojgmz",
@@ -2141,7 +2141,7 @@
     "externalId": "list_AAABoJgmzdVdKtb1bdNEj7ws",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-pycharm-on-macos-code-list-aaabojgk59ut-nllxv",
@@ -2160,7 +2160,7 @@
     "externalId": "list_AAABoJgk59Ut_nllXvdLfqET",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-quartus-ii-on-windows-code-list-aaabojglbeavx",
@@ -2179,7 +2179,7 @@
     "externalId": "list_AAABoJglBEavX4Se3gNNkaI6",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-solidworks-premium-on-windows-stem-list-aaabo",
@@ -2198,7 +2198,7 @@
     "externalId": "list_AAABoJgqNtzoVh5hqmtEQLnu",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-stata-se-on-windows-stem-list-aaabojgqdg410r7",
@@ -2217,7 +2217,7 @@
     "externalId": "list_AAABoJgqdG410r7FsbBPeriH",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-unreal-engine-on-windows-generalist-list-aaab",
@@ -2236,7 +2236,7 @@
     "externalId": "list_AAABoJgnCdIMK4tluUhKjZfq",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-visual-studio-code-on-macos-code-list-aaabojg",
@@ -2255,7 +2255,7 @@
     "externalId": "list_AAABoJgjQYnM_TpzFYBFarRo",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-vivado-on-windows-stem-list-aaabojgqrhqmea-up",
@@ -2274,7 +2274,7 @@
     "externalId": "list_AAABoJgqRhQMEa_UPABNQLNa",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-vmware-fusion-on-macos-code-list-aaabojgle3jy",
@@ -2293,7 +2293,7 @@
     "externalId": "list_AAABoJglE3JYEeYxjXNIVqx5",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-windows-11-professional-expert-professionals-",
@@ -2312,7 +2312,7 @@
     "externalId": "list_AAABoJgviY0u8KpFgcdNPJ9_",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-application-users-word-on-macos-professionals-list-aaabojgvvbur",
@@ -2331,7 +2331,7 @@
     "externalId": "list_AAABoJgvVburs2LBFu1KAbxf",
     "summary": "We're looking for professionals with hands-on, real-world experience in specialized applications.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-applied-business-commerce-benchmark-specialist-list-aaabn-yjdzq",
@@ -2434,7 +2434,7 @@
     "externalId": "list_AAABlzI3p6G_LDaGWuNNEa6l",
     "summary": "Mercor is seeking software engineers to build and refine evaluations. You’ll turn completed pull requests into engineering tasks and use our in-house evaluation framework to multiple frontier coding agents, including Claude Code, Codex and more.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-applied-engineering-benchmark-specialist-list-aaabn-yh0eoaukpvx",
@@ -2559,7 +2559,7 @@
     "externalId": "list_AAABodVD0LKRYKowg_9PYaoR",
     "summary": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Arabic-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-arabic-linguistic-experts-list-aaaboxlyrhc9gxojil5d2zlc",
@@ -2579,7 +2579,7 @@
     "externalId": "list_AAABoXlyRHc9GXoJIl5D2ZLc",
     "summary": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Arabic-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-architect-design-coordination-vulcan-list-aaabokjpbjxkmlb5ekzh-",
@@ -2623,7 +2623,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-armenian-linguistic-expert-list-aaabodu725g6w3m1mezgzajk",
@@ -2643,7 +2643,7 @@
     "externalId": "list_AAABodU725g6W3m1meZGZajk",
     "summary": "Mercor is seeking experienced Armenian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Armenian-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-arts-design-expert-list-aaabokoqynwsiwkgchthkynw",
@@ -2662,7 +2662,7 @@
     "externalId": "list_AAABoKOQYnwSIWKGcHtHKYnW",
     "summary": "The research teams behind the best-known AI models come to Mercor for design and creative judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-asset-wealth-management-expert-list-aaabokmi5yd-bkoyjytouzox",
@@ -2681,7 +2681,7 @@
     "externalId": "list_AAABoKMi5yd-bKOyjYtOUZox",
     "summary": "The research teams behind the best-known AI models come to Mercor for investment management judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-atomic-layer-deposition-ald-experts-list-aaabn7y1zuugfnqtdzvoob",
@@ -2701,7 +2701,7 @@
     "externalId": "list_AAABn7y1ZuugFnqTDzVOOb7u",
     "summary": "Mercor is seeking experts in Atomic Layer Deposition (ALD) and thin-film processes to support a frontier AI research lab building models for semiconductors and the physical sciences. This is hands-on, expert-level work: you'll apply deep, specialized knowledge to generate,…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-atomic-molecular-and-optical-physicist-phd-list-aaaboneliuj7nf-",
@@ -2764,7 +2764,7 @@
     "externalId": "list_AAABoTSnXon2NKOaCWVFA6I-",
     "summary": "We're looking for audio engineers with strong experience editing and quality-checking voice recordings for speech and text-to-speech (TTS) applications, specifically for Brazilian Portuguese-language audio. This role focuses on preparing high-quality audio datasets for…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audio-engineer-speech-tts-audio-specialist-french-list-aaabnoti",
@@ -2785,7 +2785,7 @@
     "externalId": "list_AAABnoTi00jc2tVdQ0xG17qd",
     "summary": "We're looking for audio engineers with strong experience editing and quality-checking voice recordings for speech and text-to-speech (TTS) applications, specifically for French-language audio. This role focuses on preparing high-quality audio datasets for machine learning…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-dutch-list-aaabokg77n0dwzqmp1jkvixg",
@@ -2806,7 +2806,7 @@
     "externalId": "list_AAABoKG77n0dWZQMP1JKvIXg",
     "summary": "We're building a team of native Dutch speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Dutch (Netherlands). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-english-us-list-aaabokg68a2ye1piakdpq7fs",
@@ -2830,7 +2830,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-french-list-aaabokg7ruaqasaf3hdc6zvz",
@@ -2851,7 +2851,7 @@
     "externalId": "list_AAABoKG7RuaQAsAF3hdC6ZVZ",
     "summary": "We're building a team of native French speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in French (France). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-german-list-aaabokg7bkqv4syfvepivkzk",
@@ -2872,7 +2872,7 @@
     "externalId": "list_AAABoKG7bkQv4SyfVepIvKZk",
     "summary": "We're building a team of native German speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in German (Germany). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-italian-list-aaabokg8gjdxpvxx3xvckpz0",
@@ -2893,7 +2893,7 @@
     "externalId": "list_AAABoKG8GjdxpvxX3XVCkpZ0",
     "summary": "We're building a team of native Italian speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Italian (Italy). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-portuguese-brazil-list-aaabokg7myltl1lmfwpb",
@@ -2914,7 +2914,7 @@
     "externalId": "list_AAABoKG7mYlTL1lmfwpBUruN",
     "summary": "We're building a team of native Portuguese speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Brazilian Portuguese. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-portuguese-portugal-list-aaabokg7xggaw8psh2",
@@ -2935,7 +2935,7 @@
     "externalId": "list_AAABoKG7xggAw8Psh2xKM4Zy",
     "summary": "We're building a team of native Portuguese speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in European Portuguese. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-audiobook-qa-expert-spanish-us-list-aaabokg7gdqia94ezktejrtz",
@@ -2961,7 +2961,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-australian-english-linguistic-expert-list-aaabodu-mnckjjlcp6bgg",
@@ -2980,7 +2980,7 @@
     "externalId": "list_AAABodU_MnCKJjLcP6BGGIxU",
     "summary": "Mercor is seeking experienced Australian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Australian English-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-aws-serverless-infrastructure-as-code-task-auditor-list-aaaboep",
@@ -2999,7 +2999,7 @@
     "externalId": "list_AAABoEpzcMQTPW8KRotJf4aW",
     "summary": "Evaluate the quality, correctness, and cloud-architecture soundness of AWS serverless and infrastructure-as-code tasks used to train and evaluate a frontier AI lab's models. You'll assess multi-service serverless designs, IaC fidelity, and cross-service integration…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-backend-engineer-talent-network-list-aaabnhwex35o5qbu-fhbkzcw",
@@ -3018,7 +3018,7 @@
     "externalId": "list_AAABnHwex35o5QBU_FhBkZCW",
     "summary": "Join our Backend Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-bangla-linguistic-expert-list-aaabodvd4ylyia6ted5njkgr",
@@ -3037,7 +3037,7 @@
     "externalId": "list_AAABodVD4ylYia6TeD5NjKGR",
     "summary": "Mercor is seeking experienced Bangla Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Bangla-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-behavioral-health-expert-ai-safety-and-model-evaluation-list-aa",
@@ -3062,7 +3062,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-benefit-navigation-expert-list-aaabokz1c7oxndsgmcxpgk-9",
@@ -3123,7 +3123,7 @@
     "externalId": "list_AAABoGoju-Gn415PNTlD5qqF",
     "summary": "We're hiring proficient bilingual speakers (English & Chinese) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Chinese. No prior AI/ML experience is required…",
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-bilingual-croatian-generalist-expert-ai-safety-list-aaabogoo3l5",
@@ -3321,7 +3321,7 @@
     "externalId": "list_AAABoGol-kkiUPOQvn1CsZFO",
     "summary": "We're hiring proficient bilingual speakers (English & Hindi) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Hindi. No prior AI/ML experience is required —…",
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-bilingual-indonesian-generalist-expert-ai-safety-list-aaabogone",
@@ -3509,7 +3509,7 @@
     "externalId": "list_AAABoGolujPeojikHWRLCaH-",
     "summary": "We're hiring proficient bilingual speakers (English & Spanish) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Spanish. No prior AI/ML experience is required…",
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-bilingual-thai-generalist-expert-ai-safety-list-aaabogoqbqapxf6",
@@ -3618,7 +3618,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-biologist-talent-network-list-aaabnj0crcn6llqupi9bf6jc",
@@ -3637,7 +3637,7 @@
     "externalId": "list_AAABnJ0CrCN6LLqupi9Bf6jc",
     "summary": "Join our Biologist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-biology-life-sciences-domain-expert-list-aaaboyr3vuo4cxwvq0fkez",
@@ -3662,7 +3662,7 @@
       ]
     },
     "firstSeen": "2026-10-31",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-biology-expert-list-aaabokmjubdgn45j6xxlf7pg",
@@ -3682,7 +3682,7 @@
     "externalId": "list_AAABoKMjUBDgN45J6XxLf7pG",
     "summary": "The research teams behind the best-known AI models come to Mercor for biology judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-biotech-investment-analyst-drug-asset-company-assessment-list-a",
@@ -3701,7 +3701,7 @@
     "externalId": "list_AAABn9FrSs0e5EnJo3xK1Ith",
     "summary": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a biotech investment analyst (specialist-fund background) for a paid…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-biotechnology-expert-list-aaabokmjxptwpaiwacjjarhw",
@@ -3720,7 +3720,7 @@
     "externalId": "list_AAABoKMjXpTwPaIwAcJJarhw",
     "summary": "The research teams behind the best-known AI models come to Mercor for biotechnology judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-brand-advertising-art-director-ai-evaluation-list-aaaboa1r0q2xl",
@@ -3744,7 +3744,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-brazil-personal-cross-border-finance-paid-research-study-list-a",
@@ -3763,7 +3763,7 @@
     "externalId": "list_AAABoMpfJwEz6JAEUZZPMo7Q",
     "summary": "Mercor is conducting a paid research study in collaboration with a leading research partner. We are seeking people in Brazil who manage their personal finances and have financial ties to the United States to take part in a short online survey about banking, spending, and…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-brazilian-portuguese-linguistic-expert-list-aaabodvcg8d6cjn1pjf",
@@ -3783,7 +3783,7 @@
     "externalId": "list_AAABodVCg8d6cjN1PjFA6o09",
     "summary": "Mercor is seeking experienced Brazilian Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Brazilian Portuguese-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-breast-imaging-radiologist-list-aaaboycbmc-ln-3aes5f25b5",
@@ -3822,7 +3822,7 @@
     "externalId": "list_AAABodU_GsvB95piXJZKNrs0",
     "summary": "Mercor is seeking experienced British English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in British English-language tasks and…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-business-sales-operations-domain-expert-list-aaabobt9gyyhs3bhji",
@@ -3847,7 +3847,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-business-intelligence-analyst-talent-network-list-aaabnjye-if-2",
@@ -3866,7 +3866,7 @@
     "externalId": "list_AAABnJyE_If_2vn0hvhMxLnv",
     "summary": "Join our Business Intelligence Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-business-operations-knowledge-work-specialist-list-aaabocijm4tj",
@@ -3890,7 +3890,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-business-operations-expert-list-aaabokoprz9osu7s565ozz9p",
@@ -3909,7 +3909,7 @@
     "externalId": "list_AAABoKOPRz9oSu7S565OZZ9P",
     "summary": "The research teams behind the best-known AI models come to Mercor for business operations judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-canadian-english-linguistic-expert-list-aaabodu-stwmvcocoibpvrt",
@@ -3928,7 +3928,7 @@
     "externalId": "list_AAABodU_StwmvCOcOiBPvrtV",
     "summary": "Mercor is seeking experienced Canadian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Canadian English-language tasks…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-cardiologist-list-aaabowtwvcp5g7swt0jdu7wl",
@@ -3947,7 +3947,7 @@
     "externalId": "list_AAABoWtwvCp5G7Swt0JDu7wl",
     "summary": "Mercor is hiring board-certified cardiologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-central-bank-expert-non-g7-policy-communication-list-aaabokiwut",
@@ -3991,7 +3991,7 @@
       ]
     },
     "firstSeen": "2026-11-11",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-certified-medical-coder-icd-10-multilingual-clinical-documentat",
@@ -4010,7 +4010,7 @@
     "externalId": "list_AAABoGYcR_Q8k7gMhOdC84s-",
     "summary": "Mercor is hiring certified medical coders on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your coding and documentation expertise to review, annotate, and evaluate clinical documentation and AI-generated…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-certified-pharmacy-technician-cpht-list-aaaboxufi1cfqy7icqzcaj4",
@@ -4029,7 +4029,7 @@
     "externalId": "list_AAABoXuFI1cFQY7IcqZCaJ4q",
     "summary": "Mercor is hiring on behalf of a leading AI research lab developing next-generation clinical AI systems. We're seeking experienced Certified Pharmacy Technicians (CPhT) to support the development of AI-powered prior authorisation workflows by reviewing medication-related…",
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chemical-defense-researcher-list-aaabokhc30zpmucsv-lexz02",
@@ -4068,7 +4068,7 @@
     "externalId": "list_AAABohqflCeyCfOx2dlG4JP0",
     "summary": "Mercor is partnering with a leading AI lab on a research study looking at how experienced chemical and process engineers work with AI agents on tasks from their field. Participants will complete process engineering tasks such as unit troubleshooting, process design, scale-up…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chemicals-safety-for-redteaming-list-aaaboicnmt3k-xsnnc9oz7en",
@@ -4107,7 +4107,7 @@
     "externalId": "list_AAABnJ0EyzP13xP26dJJXKpS",
     "summary": "Join our Chemist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chemistry-domain-expert-list-aaaboyr3mmpdrm41a5thtk36",
@@ -4132,7 +4132,7 @@
       ]
     },
     "firstSeen": "2026-10-31",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chemistry-expert-list-aaabokmjbmwsx1imohte4p1n",
@@ -4152,7 +4152,7 @@
     "externalId": "list_AAABoKMjbmWSx1ImOhtE4p1n",
     "summary": "The research teams behind the best-known AI models come to Mercor for chemistry judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chemistry-specialist-synthetic-analytical-chemistry-list-aaabow",
@@ -4172,7 +4172,7 @@
     "externalId": "list_AAABoWVPxZB7iQd_P8tD4aTU",
     "summary": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chinese-china-linguistic-expert-list-aaabodva-agvfbjiwyxc6jq0",
@@ -4192,7 +4192,7 @@
     "externalId": "list_AAABodVA-AgvfBJiWYxC6JQ0",
     "summary": "Mercor is seeking experienced Chinese (China) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Mainland Chinese…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chinese-hong-kong-sar-china-linguistic-expert-list-aaabodvbaaw3",
@@ -4212,7 +4212,7 @@
     "externalId": "list_AAABodVBAaw3DBIbloBKbYFD",
     "summary": "Mercor is seeking experienced Chinese (Hong Kong SAR China) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hong Kong Chinese…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chinese-singapore-linguistic-expert-list-aaabodvbervp9ytcpk9ncq",
@@ -4232,7 +4232,7 @@
     "externalId": "list_AAABodVBErvp9YTcPk9NCqxd",
     "summary": "Mercor is seeking experienced Chinese (Singapore) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Singaporean Chinese…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chinese-taiwan-linguistic-expert-list-aaabodvbhr4vviaf-vfnc5ie",
@@ -4252,7 +4252,7 @@
     "externalId": "list_AAABodVBHR4VvIaF-vFNc5Ie",
     "summary": "Mercor is seeking experienced Chinese (Taiwan) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Taiwanese Mandarin…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chinese-linguistic-experts-list-aaaboxlygrou-ta0mvzc0qz9",
@@ -4272,7 +4272,7 @@
     "externalId": "list_AAABoXlygrOU-ta0mvZC0qz9",
     "summary": "Mercor is seeking experienced Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Chinese-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-chip-design-expert-rtl-design-verification-list-aaaboc1ypfiyukt",
@@ -4316,7 +4316,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-civil-survey-engineer-vulcan-list-aaabokjpnr7agopazwpb8bgy",
@@ -4355,7 +4355,7 @@
     "externalId": "list_AAABoa1JdtVScGh5y5ZBYqSo",
     "summary": "**Role Overview**\n- Mercor is seeking senior civil engineering professionals to review evaluation tasks for AI systems operating in large-scale infrastructure and construction contexts.\n- The workflows are calibrated to the design complexity, public safety stakes, and regulatory ",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-civil-engineering-writer-list-aaaboa1gfajczza3i9djkalo",
@@ -4374,7 +4374,7 @@
     "externalId": "list_AAABoa1GFaJczza3I9dJKalo",
     "summary": "**Role Overview**\n- Mercor is seeking senior civil engineering professionals to build evaluation tasks for AI systems operating in large-scale infrastructure and construction contexts.\n- The workflows are calibrated to the design complexity, public safety stakes, and regulatory s",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-civil-engineers-architects-must-own-macbook-list-aaabovbmunuxlt",
@@ -4419,7 +4419,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-clinical-development-operations-expert-list-aaabodwhjxxneh-mcfz",
@@ -4443,7 +4443,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-clinical-documentation-medical-necessity-reviewer-rn-lpn-list-a",
@@ -4462,7 +4462,7 @@
     "externalId": "list_AAABoeqoekvqG0PyJuJPwKEv",
     "summary": "Mercor is partnering with a fast-growing healthcare AI company whose product determines whether a patient's medical documentation meets the requirements set out in insurance and payer policies. Its largest verticals are Durable Medical Equipment (DME/HME) and Infusion, with…",
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-clinical-medicine-domain-expert-list-aaabobt85etas4-vl-fe0r4e",
@@ -4486,7 +4486,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-clinical-mental-health-expert-ai-conversation-evaluation-list-a",
@@ -4526,7 +4526,7 @@
     "externalId": "list_AAABoVXp4Fza5Tp6BWFOiZkF",
     "summary": "Mercor is seeking experienced Clinical Research and Survey Methodology Experts to support the development and refinement of physician-focused healthcare market research surveys. The ideal candidate combines deep clinical expertise in specific diseases or therapeutic areas…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-clinicians-list-aaabocwzlgys-xmexvxe9piu",
@@ -4565,7 +4565,7 @@
     "externalId": "list_AAABnlNc5vKNKKMWYLxGQ7NX",
     "summary": "Mercor is conducting a paid research study in collaboration with a leading AI research lab focused on improving healthcare delivery and clinical support systems. We are actively seeking clinicians working in ambulatory, outpatient, urgent care, or community-based care…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-cloud-devops-engineer-infra-iac-list-aaabodvfagvyx8zpqb1p9bl4",
@@ -4609,7 +4609,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-code-plan-reviewer-plans-examiner-vulcan-list-aaabokjoynps8havx",
@@ -4674,7 +4674,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-commercial-blasting-engineer-list-aaabokhcgpjcakjxxp9nebx0",
@@ -4719,7 +4719,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-company-analysis-expert-event-propagation-list-aaabokiwgy-n4psw",
@@ -4758,7 +4758,7 @@
     "externalId": "list_AAABnJ0Tj07Vgzf7imVMBZB6",
     "summary": "Join our Compliance & Risk Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-computer-power-users-automation-builders-must-own-macbook-list-",
@@ -4902,7 +4902,7 @@
     "externalId": "list_AAABoKOP0J3agGkWShxFwpQh",
     "summary": "The research teams behind the best-known AI models come to Mercor for consumer and lifestyle judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-corporate-finance-accounting-professional-list-aaaboy6j9b5gpd-p",
@@ -4941,7 +4941,7 @@
     "externalId": "list_AAABocI-OkrOixS81NNDVrWt",
     "summary": "**Role Overview**\n- Mercor is seeking experienced creative, media, and communications professionals to build evaluation tasks for AI systems that produce professional creative work.\n- The tasks are calibrated to the quality a senior professional would deliver to a client, an empl",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-critical-care-physician-list-aaabowtwdnkg16lt79zpdawt",
@@ -4960,7 +4960,7 @@
     "externalId": "list_AAABoWtwdnkg16LT79ZPDawT",
     "summary": "Mercor is hiring board-certified critical care physicians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-customer-experience-operations-india-list-aaabovrd9p1zauo4vyvmf",
@@ -5009,7 +5009,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-customer-success-operations-india-region-list-aaabogjgzv03o8zfa",
@@ -5048,7 +5048,7 @@
     "externalId": "list_AAABnOP9NgGZSJmIf4dF5rx2",
     "summary": "Mercor’s Talent Success team is hiring! Our Talent Success team is responsible for ensuring everyone using our platform has a delightful experience end to end, from applying to job listings, taking our AI-led interviews, accepting offers on our platform, and getting paid for…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-customer-success-engineer-latam-list-aaabnfiedfzuwzxgc0llt79a",
@@ -5072,7 +5072,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-customer-support-success-domain-expert-list-aaabocynvcqtatrgqj5",
@@ -5096,7 +5096,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-cve-vulnerability-expert-list-aaabodrlttvzobh5-cnk5rfh",
@@ -5115,7 +5115,7 @@
     "externalId": "list_AAABoDrLTtVzOBh5_cNK5rFh",
     "summary": "Evaluate the quality, fidelity, and completeness of vulnerability-reproduction and remediation tasks used to train and evaluate a frontier AI lab's models. You'll assess whether CVE reproductions are faithful, fixes are sound, verification logic is rigorous, and Docker-based…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-cyber-engineer-3-years-experience-list-aaabod-xpcfxw1khve9f8pnr",
@@ -5134,7 +5134,7 @@
     "externalId": "list_AAABod-XpCFXW1KhVe9F8pnR",
     "summary": "We’re looking for cyber engineers with 3+ years of professional experience in application security, vulnerability research, penetration testing, or secure software engineering.",
     "firstSeen": "2026-11-16",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-cybersecurity-research-expert-offensive-security-vulnerability-",
@@ -5153,7 +5153,7 @@
     "externalId": "list_AAABn8s_5pBqtFNJEKBJyrdM",
     "summary": "We're looking for highly accomplished Cybersecurity Research Experts to help evaluate cutting-edge AI systems in advanced security reasoning, vulnerability analysis, exploit development, and secure software engineering. This project is ideal for practitioners with a strong…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-czech-linguistic-expert-list-aaabodu7-yqvwsmnhe5nl53s",
@@ -5173,7 +5173,7 @@
     "externalId": "list_AAABodU7_yqvwSmNHe5NL53S",
     "summary": "Mercor is seeking experienced Czech Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Czech-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-danish-linguistic-expert-list-aaabodu8iyme5oump2xhpiyw",
@@ -5193,7 +5193,7 @@
     "externalId": "list_AAABodU8IymE5oUMp2xHPIyW",
     "summary": "Mercor is seeking experienced Danish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Danish-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-data-analysis-expert-list-aaabokoq-xtpt9-0cbniazjt",
@@ -5212,7 +5212,7 @@
     "externalId": "list_AAABoKOQ-XTPt9-0CBNIAZJt",
     "summary": "The research teams behind the best-known AI models come to Mercor for data judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-data-analysts-spreadsheet-specialists-must-own-macbook-list-aaa",
@@ -5253,7 +5253,7 @@
     "externalId": "list_AAABohqcDWwaXV8VM_tDTpZR",
     "summary": "Mercor is partnering with a leading AI lab on a research study looking at how experienced data scientists work with AI agents on tasks from their field. Participants will complete data science tasks such as experiment design, predictive modeling, survey analysis and KPI…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-data-scientist-talent-network-list-aaabn6vgkxzngsmte7xp7rqg",
@@ -5272,7 +5272,7 @@
     "externalId": "list_AAABn6vGkxZngsMTe7xP7rqG",
     "summary": "Mercor is building a network of experienced data scientists for potential future projects with leading AI research organizations. These projects may focus on evaluating how effectively AI systems perform real-world data science work.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-database-systems-evaluation-expert-list-aaaboq9g4dssnzu-zvdijyw",
@@ -5312,7 +5312,7 @@
     "externalId": "list_AAABoWtwjZ8YPP1X8zpPf7U3",
     "summary": "Mercor is hiring board-certified dermatologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-devops-infrastructure-engineer-list-aaabocigpgg-jh7v5e5aijx",
@@ -5336,7 +5336,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-devops-platform-engineer-talent-network-list-aaabnhwmotmnjkvksd",
@@ -5355,7 +5355,7 @@
     "externalId": "list_AAABnHwmotmNJkvkSDZK5Yz0",
     "summary": "Join our DevOps / Platform Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-disease-area-clinician-trial-endpoints-prescribing-list-aaabn9f",
@@ -5374,7 +5374,7 @@
     "externalId": "list_AAABn9FsCZc6Mg0uj9hOSohQ",
     "summary": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a disease-area clinician for a paid pilot, with the potential to continue…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-drug-discovery-translational-science-expert-list-aaabodwhbmxquk",
@@ -5399,7 +5399,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-drug-discovery-scientist-list-aaabofcxq-gdbuxvuubbyymp",
@@ -5440,7 +5440,7 @@
     "externalId": "list_AAABoWVP2LVSRCNBUUlNs4H0",
     "summary": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-dutch-linguistic-expert-list-aaabodu8nqfns31s3tldo75x",
@@ -5460,7 +5460,7 @@
     "externalId": "list_AAABodU8NQFNS31S3tlDo75x",
     "summary": "Mercor is seeking experienced Dutch Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Dutch-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-economics-research-expert-list-aaabooppu3x5v3xmblrhp4rk",
@@ -5480,7 +5480,7 @@
     "externalId": "list_AAABoOppU3x5v3XMbLRHP4rK",
     "summary": "Mercor is recruiting Economics Research Experts for a research project with a leading foundational model AI lab.",
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-editorial-deck-document-designer-ai-evaluation-list-aaaboa1r6s4",
@@ -5504,7 +5504,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-education-training-expert-list-aaabokoqxmw5nhnvukfodlpr",
@@ -5523,7 +5523,7 @@
     "externalId": "list_AAABoKOQxMW5nhNVUkFOdLPr",
     "summary": "The research teams behind the best-known AI models come to Mercor for teaching judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-education-training-professional-list-aaaboy6kfy91tsniky9fhyzd",
@@ -5562,7 +5562,7 @@
     "externalId": "list_AAABoN2AhG3DPZYg43dGFICd",
     "summary": "Mercor is seeking experienced Electrical and Hardware Engineers to support an advanced engineering and AI research initiative with a leading technology organisation. We are looking for deeply hands-on engineers who have designed, built, tested, brought up, debugged, or…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-design-specialist-list-aaaboewuscviasvz-2fgllhi",
@@ -5582,7 +5582,7 @@
     "externalId": "list_AAABoEwusCviAsvZ_2FGlLhi",
     "summary": "Mercor is partnering with a leading technology organization to recruit experienced Electrical Design Specialists for a short-term project. Specialists will apply their hands-on industry experience to analyze, evaluate, and solve complex electrical design and system-level…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-engineer-list-aaaboucycieekxasnftgkabi",
@@ -5606,7 +5606,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-engineer-reviewer-list-aaaboa1jnhfunffp2nvjtlt9",
@@ -5625,7 +5625,7 @@
     "externalId": "list_AAABoa1JnHFUNfFP2nVJtLt9",
     "summary": "**Role Overview**\n- Mercor is seeking senior electrical engineering professionals to review evaluation tasks for AI systems operating in Fortune 500 enterprise electrical systems and product design contexts.\n- The workflows are calibrated to the design complexity, safety stakes, ",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-engineering-simulation-expert-hephaestus-list-aaaboa",
@@ -5644,7 +5644,7 @@
     "externalId": "list_AAABoakydlDLb6-BB6tGOZK0",
     "summary": "Mercor is seeking experienced electrical engineers to build and validate technical tasks for AI systems working with circuits, power electronics, control systems, and electrical infrastructure. The work centers on executable engineering models, simulation, debugging, and…",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-engineering-expert-list-aaabokmj8atheylkylfjq6ox",
@@ -5663,7 +5663,7 @@
     "externalId": "list_AAABoKMj8ATHeyLKYLFJq6Ox",
     "summary": "The research teams behind the best-known AI models come to Mercor for electrical engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-engineering-writer-list-aaaboa1jif2ov4hlv79p-5yj",
@@ -5682,7 +5682,7 @@
     "externalId": "list_AAABoa1Jif2oV4hlV79P_5YJ",
     "summary": "**Role Overview**\n- Mercor is seeking senior electrical engineering professionals to build evaluation tasks for AI systems operating in Fortune 500 enterprise electrical systems and product design contexts.\n- The workflows are calibrated to the design complexity, safety stakes, a",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-electrical-test-automation-engineer-list-aaaboewwgpr7smpyapzmpk",
@@ -5702,7 +5702,7 @@
     "externalId": "list_AAABoEwwgpr7smpYapZMPKgR",
     "summary": "Mercor is partnering with a leading technology organization to recruit experienced Electrical Test Automation Engineers for a short-term project. Engineers will apply hands-on industry experience in electrical testing, automation, instrumentation, and hardware validation to…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-embedded-systems-kernel-engineer-list-aaabocijoyfbfqfxwfbbdzf7",
@@ -5726,7 +5726,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-emergency-response-specialist-list-aaabokhzylpxl-8-bv1ljolk",
@@ -5765,7 +5765,7 @@
     "externalId": "list_AAABoWtwGWHBJHEIwBFOP4OG",
     "summary": "Mercor is hiring board-certified endocrinologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-energetic-materials-expert-for-redteaming-list-aaaboialr9leeq84",
@@ -5810,7 +5810,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-engineering-expert-list-aaabokoqbvjetndvzpfh-ljn",
@@ -5829,7 +5829,7 @@
     "externalId": "list_AAABoKOQBVjEtnDVZPFH-Ljn",
     "summary": "The research teams behind the best-known AI models come to Mercor for engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-english-new-zealand-linguistic-expert-list-aaabodu-ytljyl1xehza",
@@ -5848,7 +5848,7 @@
     "externalId": "list_AAABodU_YtLjYl1xEhZAt7MR",
     "summary": "Mercor is seeking experienced English (New Zealand) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in New Zealand English-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-english-linguistic-experts-list-aaaboxlxjuzcaszmmttj6imb",
@@ -5912,7 +5912,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-enterprise-sales-expert-ae-sales-leader-list-aaaboc3i1vy8mnt4ob",
@@ -5922,7 +5922,7 @@
       "business"
     ],
     "english": "written",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 50,
     "payMax": 70,
@@ -5931,7 +5931,8 @@
     "externalId": "list_AAABoc3i1VY8MNT4obtJuJhY",
     "summary": "An AI company building models for enterprise sales teams needs experienced sellers to show what great deal thinking looks like. You'll review realistic B2B deal rooms (account research, stakeholder notes, deal context) and write the analysis a strong AE or sales leader would…",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-27",
+    "closedAt": "2026-11-28"
   },
   {
     "id": "mercor-enterprise-sales-manager-ai-training-specialist-list-aaabodjkhc",
@@ -5950,7 +5951,7 @@
     "externalId": "list_AAABodjkhcin__KeNFZHg54O",
     "summary": "Mercor is partnering with a leading AI company to develop advanced AI models designed to support enterprise sales teams. We are seeking experienced Enterprise Sales Managers, Regional Sales Managers, and Frontline Sales Leaders to contribute their expertise in sales coaching,…",
     "firstSeen": "2026-11-14",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-epidemiologist-patient-population-sizing-list-aaabn9frhef3j5d5w",
@@ -5970,7 +5971,7 @@
     "externalId": "list_AAABn9Frhef3j5d5wCJAiYZu",
     "summary": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking an epidemiologist for a paid pilot, with the potential to continue as the…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-equity-research-expert-single-name-analyst-publications-list-aa",
@@ -6010,7 +6011,7 @@
     "externalId": "list_AAABodVCeXSx1dxnKUJOpZXt",
     "summary": "Mercor is seeking experienced European Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in European Portuguese-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-asset-management-list-aaaboeevopd2mzjp3vfdyyiz",
@@ -6034,7 +6035,7 @@
       ]
     },
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-commercial-banking-list-aaaboeevlqg0v2sc7nldszh8",
@@ -6058,7 +6059,7 @@
       ]
     },
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-finance-list-aaabojf8kuwqjj-rjebpibpw",
@@ -6082,7 +6083,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-general-list-aaabojf7our4yart1rzfniec",
@@ -6107,7 +6108,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-investment-banking-list-aaaboeevqo23tj87rw1fyagy",
@@ -6131,7 +6132,7 @@
       ]
     },
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-private-equity-list-aaaboeevtht-o7dzrofj-im5",
@@ -6155,7 +6156,7 @@
       ]
     },
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-excel-expert-wealth-management-list-aaaboeevjdim-xnoug9knotk",
@@ -6179,7 +6180,7 @@
       ]
     },
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-expert-interviewer-list-aaabodryqdajqq6xraloo4e9",
@@ -6198,7 +6199,7 @@
     "externalId": "list_AAABoDrYQdAJqq6xRalOo4e9",
     "summary": "Support a high-priority technical-expert panel for a frontier AI lab as an Expert Interviewer.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-expert-project-manager-list-aaabn6tcgs826cbsyvrp6l2k",
@@ -6217,7 +6218,7 @@
     "externalId": "list_AAABn6TCgs826CBSyVRP6L2k",
     "summary": "We're hiring an Expert Project Manager to help run projects that push the frontier of LLM browsing capabilities.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-fab-safety-and-emergency-response-expert-list-aaabocvmqykqyvawn",
@@ -6257,7 +6258,7 @@
     "externalId": "list_AAABocH7WsSchpN0-_lM7qeZ",
     "summary": "We're looking for Japanese-speaking semiconductor fab safety and emergency response experts to review and create expert content on fab hazards, emergency procedures, and safety documentation.",
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-federal-certified-materials-specialist-incident-analyst-list-aa",
@@ -6301,7 +6302,7 @@
     "externalId": "list_AAABoUYJgC6FFGQLBmRFJZvf",
     "summary": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-domain-expert-list-aaabocijt4i9rt3ynzzpmzpw",
@@ -6325,7 +6326,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-domain-expert-ai-training-evaluation-list-aaabn-iz3trxq",
@@ -6350,7 +6351,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-expert-list-aaabokoqo-tcpjmz2-xlb7qn",
@@ -6369,7 +6370,7 @@
     "externalId": "list_AAABoKOQo_tcpjmZ2_xLb7qN",
     "summary": "The research teams behind the best-known AI models come to Mercor for financial judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-expert-fp-a-apac-list-aaaboeb5w6iv0vhesypofy29",
@@ -6393,7 +6394,7 @@
       ]
     },
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-expert-fp-a-emea-list-aaaboeb5ozkjv5xrwmbnpbuw",
@@ -6419,7 +6420,7 @@
       ]
     },
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-finance-expert-german-germany-list-aaabotkaire-nyfoa8fmcppg",
@@ -6501,7 +6502,7 @@
     "externalId": "list_AAABnJ0GDeo6y-KRhahHKrzF",
     "summary": "Join our Financial Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-financial-managers-list-aaabocwstbhgejc0olzdmbsp",
@@ -6541,7 +6542,7 @@
     "externalId": "list_AAABodU8SN2oa8G_OfpEuosC",
     "summary": "Mercor is seeking experienced Finnish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Finnish-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-fire-life-safety-reviewer-vulcan-list-aaabokjpxrr7-0ajowhfybjj",
@@ -6647,7 +6648,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-fp-a-expert-list-aaaboddaxn8u-vxgz5bd-y-n",
@@ -6687,7 +6688,7 @@
     "externalId": "list_AAABodU7lw8bP6UCpLRNx5DM",
     "summary": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-french-linguistic-experts-list-aaaboxlvyuh1tzlt-ipjg6wm",
@@ -6707,7 +6708,7 @@
     "externalId": "list_AAABoXlvyUH1tzlT-IpJg6wm",
     "summary": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-frontend-engineer-talent-network-list-aaabnhwqmlo6wvvivurhh7t3",
@@ -6726,7 +6727,7 @@
     "externalId": "list_AAABnHwqmLo6wvviVuRHh7T3",
     "summary": "Join our Frontend Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-full-stack-engineer-talent-network-list-aaabnhwuebqjcy230-lmq6-",
@@ -6745,7 +6746,7 @@
     "externalId": "list_AAABnHwUEBQJcy230-lMq6-9",
     "summary": "Join our Full-Stack Engineer Expert Network to connect with leading AI labs and companies seeking Full-Stack Engineering expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-general-physician-list-aaaborncsk6mhf7a8uvk85ga",
@@ -6764,7 +6765,7 @@
     "externalId": "list_AAABoRnCSK6MhF7a8UVK85GA",
     "summary": "Mercor is hiring experienced Medical Practitioners (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-general-surgeon-list-aaabowtwgexs-u2gvjvji7wh",
@@ -6783,7 +6784,7 @@
     "externalId": "list_AAABoWtwgexs-u2gvjVJi7wH",
     "summary": "Mercor is hiring board-certified general surgeons (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-generalist-list-aaabocrwucvk3krkqxvim4vy",
@@ -6843,7 +6844,7 @@
     "externalId": "list_AAABoKORCF2dakrez4FCAo_G",
     "summary": "The research teams behind the best-known AI models come to Mercor for careful human judgment they can't generate on their own. Your standards and attention become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-generalist-for-queries-testing-vision-list-aaabofnxj-iwavsiscjl",
@@ -6862,7 +6863,7 @@
     "externalId": "list_AAABofNxJ_IwaVsIsCJL0pyn",
     "summary": "You write short visual questions that have one checkable answer. Each task is 1 to 5 images, one direct question, and the exact answer. You choose the images. Your own photos are preferred. Web images are allowed when you have the rights to them. This track is everyday visual…",
     "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-genomics-cell-biology-specialist-list-aaabowvp6g3jos-m1d1gs6dh",
@@ -6882,7 +6883,7 @@
     "externalId": "list_AAABoWVP6g3Jos-M1D1GS6Dh",
     "summary": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-geriatrician-list-aaabowtv69dhd-gd84ddaock",
@@ -6901,7 +6902,7 @@
     "externalId": "list_AAABoWtv69DhD_Gd84dDAocK",
     "summary": "Mercor is hiring board-certified geriatricians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-german-language-and-literature-expert-german-list-aaablqjaq0euf",
@@ -6942,7 +6943,7 @@
     "externalId": "list_AAABodU_dU4UcjK3q85GOoYT",
     "summary": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in German-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-german-linguistic-experts-list-aaaboxlxes1ty58ozmjmqpjn",
@@ -6962,7 +6963,7 @@
     "externalId": "list_AAABoXlxes1TY58ozMJMQpjn",
     "summary": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in German-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-gpu-kernel-expert-list-aaabodrlqkdg31vugrpeca5l",
@@ -6981,7 +6982,7 @@
     "externalId": "list_AAABoDrLqkDg31vugrpECa5L",
     "summary": "Evaluate the quality, correctness, and completeness of GPU/accelerator kernel development tasks used to train and evaluate a frontier AI lab's models. You'll assess numerical correctness, performance-benchmarking fairness, task scoping, and compilation/runtime validity across…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-graphic-ux-ui-designer-talent-network-list-aaabnj0lvldnurt-1i9i",
@@ -7000,7 +7001,7 @@
     "externalId": "list_AAABnJ0LvLdNuRT_1I9Iib8_",
     "summary": "Join our Graphic & UX/UI Designer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-graphic-designers-must-own-macbook-list-aaabovbmfz-rhmsvwaddbrx",
@@ -7062,7 +7063,7 @@
     "externalId": "list_AAABodVEEpvBK3U18ZJKUJnY",
     "summary": "Mercor is seeking experienced Greek Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Greek-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hazardous-device-specialist-public-safety-professional-list-aaa",
@@ -7142,7 +7143,7 @@
     "externalId": "list_AAABoeqolT5tlmjFO69CV5TO",
     "summary": "Mercor is partnering with a fast-growing healthcare AI company whose product determines whether a patient's medical documentation meets the requirements set out in insurance and payer policies. Its largest verticals are Durable Medical Equipment (DME/HME) and Infusion, with…",
     "firstSeen": "2026-11-17",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-healthcare-professional-list-aaaboy6kklfwa2ga4jxpri7d",
@@ -7182,7 +7183,7 @@
     "externalId": "list_AAABodVECUWPNE5aVVdB9IT1",
     "summary": "Mercor is seeking experienced Hebrew Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hebrew-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-high-energy-physicist-phd-list-aaabonelixel-uxjcpdk7qyb",
@@ -7223,7 +7224,7 @@
     "externalId": "list_AAABofvfl94SAaye36JOwo-t",
     "summary": "Mercor is partnering with a leading AI lab on a research study looking at how experienced higher education professionals work with AI agents on tasks from their field. Participants will complete university tasks such as academic integrity cases, faculty search memos and…",
     "firstSeen": "2026-11-24",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hindi-linguistic-expert-list-aaabodvd2hpooqf0suflxlbm",
@@ -7243,7 +7244,7 @@
     "externalId": "list_AAABodVD2hPOOQf0SUFLxLbm",
     "summary": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hindi-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hindi-linguistic-experts-list-aaaboxlyyoqk6mm0d4fg05qu",
@@ -7263,7 +7264,7 @@
     "externalId": "list_AAABoXlyYOQK6mM0D4FG05Qu",
     "summary": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hindi-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hr-administration-specialist-talent-network-list-aaabnj0htj8dwb",
@@ -7282,7 +7283,7 @@
     "externalId": "list_AAABnJ0HTJ8DWBVFUwtKbrNa",
     "summary": "Join our HR & Administration Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hr-staffing-experts-list-aaabohql8uzlhtndgrhbui4z",
@@ -7301,7 +7302,7 @@
     "externalId": "list_AAABohql8UZlhtNdgRhBuI4Z",
     "summary": "Mercor is partnering with a leading AI lab on a research study looking at how experienced HR professionals work with AI agents on tasks from their field. Participants will complete HR tasks such as candidate screening, offers and background checks, separations and policy…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-hr-expert-list-aaabodda2heskokwf2bbqavc",
@@ -7404,7 +7405,7 @@
     "externalId": "list_AAABoKOQcWLb5MeHmbFGHq7W",
     "summary": "The research teams behind the best-known AI models come to Mercor for humanities judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-independent-insurance-agency-owner-principal-paid-research-inte",
@@ -7428,7 +7429,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-individual-tax-professional-cpa-ea-list-aaabocqxrhsld4mqx-hgvzv",
@@ -7452,7 +7453,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-indonesian-linguistic-expert-list-aaabodvd7vtlrw6ow65cdby6",
@@ -7472,7 +7473,7 @@
     "externalId": "list_AAABodVD7VTLrW6oW65Cdby6",
     "summary": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Indonesian-language tasks and on…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-indonesian-linguistic-experts-list-aaaboxlzadizwryydutbmpdx",
@@ -7492,7 +7493,7 @@
     "externalId": "list_AAABoXlzADizwRyyDutBMpdx",
     "summary": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Indonesian-language tasks and on…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-industrial-manufacturing-engineers-must-own-macbook-list-aaabov",
@@ -7552,7 +7553,7 @@
     "externalId": "list_AAABoWtwJGwIgnnW9BdOwaZX",
     "summary": "Mercor is hiring board-certified infectious disease physicians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-infrastructure-site-reliability-engineer-sre-list-aaaborepe1qiy",
@@ -7571,7 +7572,7 @@
     "externalId": "list_AAABoRePE1qiY1-aJqFLRrSi",
     "summary": "Mercor connects exceptional technical talent with leading organisations working on ambitious technology and AI initiatives. We are looking for experienced Infrastructure / Site Reliability Engineers (SREs) to join a full-time engagement focused on building and operating…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-inorganic-chemistry-synthesis-expert-list-aaabosqwabjg5l-p-urol",
@@ -7612,7 +7613,7 @@
     "externalId": "list_AAABn7y1hc_w_rS_H_hIF6Zt",
     "summary": "Mercor is seeking experimental scientists and engineers across inorganic synthesis, characterization, superconductors, and semiconductors (including advanced packaging) to support a frontier AI research lab building models for materials science and the physical sciences. This…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-agency-group-pe-integration-systems-lead-paid-researc",
@@ -7636,7 +7637,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-agency-operations-finance-leader-paid-research-interv",
@@ -7660,7 +7661,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-agency-service-account-management-lead-paid-research-",
@@ -7709,7 +7710,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-distribution-market-expert-paid-research-interview-li",
@@ -7733,7 +7734,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-domain-expert-list-aaabobt9doofffxe6ohhdyhe",
@@ -7757,7 +7758,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-insurance-expert-list-aaabny3oudmzni2luibj7iis",
@@ -7776,7 +7777,7 @@
     "externalId": "list_AAABnY3OUdmzni2lUiBJ7IiS",
     "summary": "Mercor is partnering with leading AI labs to engage experienced insurance professionals — underwriters, actuaries, claims specialists, and agents — to improve AI systems' reasoning around risk assessment, policy evaluation, and claims processing. Contributors will apply their…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-investment-banking-m-a-finance-domain-expert-list-aaabn-cngnex3",
@@ -7801,7 +7802,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-investment-banking-expert-list-aaabokmhfqur1dcrx9tad7jq",
@@ -7820,7 +7821,7 @@
     "externalId": "list_AAABoKMhfQur1DCRx9tAD7Jq",
     "summary": "The research teams behind the best-known AI models come to Mercor for investment banking judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-investment-banking-expert-list-aaaboddbquy7lcqo6pflplqp",
@@ -7859,7 +7860,7 @@
     "externalId": "list_AAABohqRvG_8qkyx0blHU7zI",
     "summary": "Mercor is partnering with a leading AI lab on a research study looking at how experienced investment bankers work with AI agents on tasks from their field. Participants will complete investment banking tasks such as valuation analyses, merger models and transaction materials…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-italian-linguistic-expert-list-aaabodu7tqe6gravyuvog43o",
@@ -7879,7 +7880,7 @@
     "externalId": "list_AAABodU7tQE6GRaVyuVOg43o",
     "summary": "Mercor is seeking experienced Italian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Italian-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-japanese-linguistic-expert-list-aaabodu7yrshfavmm3zig6rn",
@@ -7899,7 +7900,7 @@
     "externalId": "list_AAABodU7yrShFAvmm3ZIg6rN",
     "summary": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Japanese-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-japanese-linguistic-experts-list-aaaboxlytuoflosdf6jpw4yp",
@@ -7919,7 +7920,7 @@
     "externalId": "list_AAABoXlytUOfloSDF6JPw4yP",
     "summary": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Japanese-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-korean-linguistic-expert-list-aaabodvcqti3caevx5dbo4bw",
@@ -7939,7 +7940,7 @@
     "externalId": "list_AAABodVCqTI3CAevx5dBo4bW",
     "summary": "Mercor is seeking experienced Korean Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Korean-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-kubernetes-task-auditor-list-aaaboepy3ltx4ecyqy9gz6-u",
@@ -7958,7 +7959,7 @@
     "externalId": "list_AAABoEpy3lTX4ecyqy9GZ6_u",
     "summary": "Evaluate the quality, correctness, and production-readiness of Kubernetes tasks used to train and evaluate a frontier AI lab's models. You'll assess cluster-operations scenarios, manifest correctness, and failure-mode troubleshooting — and provide clear, rubric-based written…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-language-audio-expert-list-aaabokopmufnrcu8qmzbh634",
@@ -7978,7 +7979,7 @@
     "externalId": "list_AAABoKOPMUFnRCU8QMZBH634",
     "summary": "The research teams behind the best-known AI models come to Mercor for language and audio judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-latin-american-spanish-linguistic-expert-list-aaabodvcn2a5i2-yv",
@@ -8003,7 +8004,7 @@
       ]
     },
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-lawyer-talent-network-list-aaabnjz6-rp8k0qe1ixhk6lt",
@@ -8022,7 +8023,7 @@
     "externalId": "list_AAABnJz6-RP8K0Qe1IxHK6LT",
     "summary": "Join our Law Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-lawyers-legal-experts-global-talent-pool-uk-germany-france-spai",
@@ -8061,7 +8062,7 @@
     "externalId": "list_AAABoLA_3WENxZ1c_rpCtI2L",
     "summary": "Mercor is partnering with leading AI companies to evaluate and improve how well AI systems handle real questions of law across multiple jurisdictions. We keep an ongoing talent pool of qualified, practising lawyers who serve as expert reviewers on these projects.",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-lean-engineer-formal-mathematics-lean-4-mathlib-theorem-proving",
@@ -8100,7 +8101,7 @@
     "externalId": "list_AAABoCl905TW9jWTfs9Oh44S",
     "summary": "Mercor is partnering with a frontier AI research lab to engage experienced software engineers with deep expertise in legacy codebase migration and modernisation. We are looking for engineers who have personally executed complex migrations across large, production-grade…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-legal-compliance-professional-list-aaaboy6j4yrcunrv0qxmvjag",
@@ -8144,7 +8145,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-legal-expert-list-aaabokoquds-uf4ujmtgk64s",
@@ -8163,7 +8164,7 @@
     "externalId": "list_AAABoKOQUds_uf4uJMtGK64s",
     "summary": "The research teams behind the best-known AI models come to Mercor for legal judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-legal-expert-list-aaabn0p58kddxvkjcurptoyr",
@@ -8202,7 +8203,7 @@
     "externalId": "list_AAABoKMimtHLeNSrQLtBOLFn",
     "summary": "The research teams behind the best-known AI models come to Mercor for legal judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-legal-expert-german-germany-list-aaabotkasetfi4zt7jddgovg",
@@ -8309,7 +8310,7 @@
     "externalId": "list_AAABoXuE96XzQVNYx-VDPpQa",
     "summary": "Mercor is hiring on behalf of a leading AI research lab developing next-generation clinical AI systems. We're seeking experienced, licensed US Pharmacists to help improve AI-powered prior authorisation workflows by answering medication-related clinical questions and reviewing…",
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-life-physical-social-science-expert-list-aaabokopfalb80veranjdb",
@@ -8329,7 +8330,7 @@
     "externalId": "list_AAABoKOPfaLb80VeraNJDbi1",
     "summary": "The research teams behind the best-known AI models come to Mercor for scientific judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-lifestyle-travel-concierge-expert-list-aaaboaenrwp59rmbuyziepki",
@@ -8348,7 +8349,7 @@
     "externalId": "list_AAABoaeNrWp59rmBuyZIepKI",
     "summary": "We're looking for senior concierges, lifestyle managers and luxury travel advisors who recommend places to high-net-worth clients for a living. You'll bring the judgment a seasoned concierge uses every day to help shape the next generation of travel and hospitality…",
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-litigation-expert-list-aaabnbzya4-gxfjsvdjpw44r",
@@ -8367,7 +8368,7 @@
     "externalId": "list_AAABnbZyA4_gXfJsVdJPW44R",
     "summary": "Mercor is partnering with leading AI labs on Project Atlas — an initiative to build realistic enterprise environments that frontier AI agents are trained and evaluated in. We're seeking experienced litigators from AmLaw 100 firms and Fortune 500 in-house litigation /…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-llm-research-scientist-pre-training-computer-vision-adversarial",
@@ -8387,7 +8388,7 @@
     "externalId": "list_AAABn9G5kyvGTlH1jQZGvpVY",
     "summary": "We're looking for experienced machine learning researchers with hands-on experience training and improving deep learning models end-to-end, across vision and language. You'll work on well-scoped empirical open-ended ML research problems.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-loan-underwriter-loan-officer-paid-research-survey-us-list-aaab",
@@ -8411,7 +8412,7 @@
       ]
     },
     "firstSeen": "2026-11-04",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-local-political-expert-elections-forecasting-political-risk-lis",
@@ -8450,7 +8451,7 @@
     "externalId": "list_AAABoYQqZfrpr7vPO4JFA62D",
     "summary": "Mercor is seeking a senior business strategy expert with deep experience in the luxury automotive sector (e.g., Ferrari, Lamborghini, Porsche, Bentley, Rolls-Royce, Aston Martin, McLaren, Maserati) for a short, focused advisory engagement. You will review strategy materials,…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-machine-learning-engineer-talent-network-list-aaabnjzit-sosdwoe",
@@ -8469,7 +8470,7 @@
     "externalId": "list_AAABnJzIt-SOsdwOeF5Ebarf",
     "summary": "Join our Machine Learning Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-machine-learning-expert-list-aaabokmjisiywqm6kqfctp1w",
@@ -8488,7 +8489,7 @@
     "externalId": "list_AAABoKMjIsiYWQM6KQFCtp1w",
     "summary": "The research teams behind the best-known AI models come to Mercor for machine learning judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-machine-learning-expert-list-aaabovbx1lssth-cb6hat4we",
@@ -8528,7 +8529,7 @@
     "externalId": "list_AAABoXly0nwFAwR_xQRKWZqJ",
     "summary": "Mercor is seeking experienced Malay Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Malay-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-management-consultant-talent-network-list-aaabn6cbz1dvowhs5z1hs",
@@ -8547,7 +8548,7 @@
     "externalId": "list_AAABn6cbz1DVowHS5z1HsIWl",
     "summary": "Mercor is building a network of experienced management consultants for potential future projects with leading AI research organizations. These projects may focus on evaluating how effectively AI systems perform real-world consulting work.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-management-consultant-talent-network-list-aaabnj0o3xd6a34rv91ad",
@@ -8566,7 +8567,7 @@
     "externalId": "list_AAABnJ0O3XD6A34Rv91Ad60d",
     "summary": "Join our Management Consultant Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-management-consulting-expert-list-aaabokmiq5ig9ogdnzva55nh",
@@ -8585,7 +8586,7 @@
     "externalId": "list_AAABoKMiq5IG9oGdNZVA55nH",
     "summary": "The research teams behind the best-known AI models come to Mercor for management consulting judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-market-research-insights-experts-list-aaabozp0wzuyh1qxnv5adjmg",
@@ -8604,7 +8605,7 @@
     "externalId": "list_AAABoZp0wzuyh1qXnV5ADJMG",
     "summary": "Mercor is partnering with a leading AI research lab to engage experienced Market Research, Consumer Insights, and Marketing Strategy professionals to act as end-users of a cutting-edge AI product. In this role, you will interact with the product as if you were using it in…",
     "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-marketing-expert-apac-list-aaaboeb5ocgooit0eb1pcr5i",
@@ -8628,7 +8629,7 @@
       ]
     },
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-marketing-expert-emea-list-aaaboeb5gi0161znu3hd-64v",
@@ -8654,7 +8655,7 @@
       ]
     },
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-marketing-specialist-talent-network-list-aaabnj0inam2ywpsd1xi1z",
@@ -8673,7 +8674,7 @@
     "externalId": "list_AAABnJ0Inam2YWpSD1xI1ZX9",
     "summary": "Join our Marketing Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-marketing-creative-design-professional-list-aaaboy6kbp0ua7gffvx",
@@ -8718,7 +8719,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-materials-science-expert-list-aaabokmjfcock4tywyrhvqjn",
@@ -8738,7 +8739,7 @@
     "externalId": "list_AAABoKMjfcock4TYWyRHVqJN",
     "summary": "The research teams behind the best-known AI models come to Mercor for materials science judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mathematical-physicist-phd-list-aaabonemyoiaiybah5jdroz",
@@ -8778,7 +8779,7 @@
     "externalId": "list_AAABnJ0BfkepVYhBI7hH_5wP",
     "summary": "Join our Mathematician Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mathematics-domain-expert-list-aaaboyr34sdsxamcptfmirdv",
@@ -8803,7 +8804,7 @@
       ]
     },
     "firstSeen": "2026-10-31",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mathematics-expert-list-aaabokmjug1ffxpwuddiz6to",
@@ -8823,7 +8824,7 @@
     "externalId": "list_AAABoKMjug1fFXpwuDdIZ6TO",
     "summary": "The research teams behind the best-known AI models come to Mercor for mathematical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-cad-engineer-list-aaabocigyhhbiia6dldecbjq",
@@ -8847,7 +8848,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-cad-engineers-must-own-macbook-list-aaabovbmp03tunxf",
@@ -8912,7 +8913,7 @@
     "externalId": "list_AAABoa1JzxXUAzyb5dJAnooH",
     "summary": "**Role Overview**\n- Mercor is seeking senior mechanical engineering professionals to review evaluation tasks for AI systems operating in Fortune 500 enterprise product design and manufacturing contexts.\n- The workflows are calibrated to the design complexity, safety stakes, and p",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-engineering-simulation-expert-hephaestus-list-aaaboa",
@@ -8931,7 +8932,7 @@
     "externalId": "list_AAABoakxrPXaSjQJyZVELrab",
     "summary": "Mercor is seeking experienced mechanical engineers to build and validate technical tasks for AI systems working on product design, engineering analysis, and simulation. The work focuses on native CAD and analysis artifacts, physically sound models, reproducible solver runs,…",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-engineering-expert-list-aaabokmj4f2a8dtbrhbjobfe",
@@ -8950,7 +8951,7 @@
     "externalId": "list_AAABoKMj4F2A8dtbrHBJobfe",
     "summary": "The research teams behind the best-known AI models come to Mercor for mechanical engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-engineering-experts-list-aaabon3on6pc5da5adrberdp",
@@ -8969,7 +8970,7 @@
     "externalId": "list_AAABoN3On6pC5dA5aDRBErDP",
     "summary": "Mercor is seeking experienced Mechanical Engineers to support an advanced engineering and AI research initiative with a leading technology organisation. We are looking for deeply hands-on engineers who have designed, analysed, built, tested, validated, or troubleshot…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mechanical-engineering-writer-list-aaaboa1jr97bxlyodztg0bn2",
@@ -8988,7 +8989,7 @@
     "externalId": "list_AAABoa1Jr97bxLyOdZtG0bN2",
     "summary": "**Role Overview**\n- Mercor is seeking senior mechanical engineering professionals to build evaluation tasks for AI systems operating in Fortune 500 enterprise product design and manufacturing contexts.\n- The workflows are calibrated to the design complexity, safety stakes, and pr",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-medical-affairs-commercial-expert-list-aaabodwhwfi4joyoolvbajgw",
@@ -9012,7 +9013,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-medical-and-health-services-managers-list-aaabocwat-nn5ytit9tnc",
@@ -9051,7 +9052,7 @@
     "externalId": "list_AAABoKOPjbVqcleYq1NNjKxo",
     "summary": "The research teams behind the best-known AI models come to Mercor for medical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-medical-expert-m-d-d-o-list-aaabokmig9vns0-qeyblhovi",
@@ -9070,7 +9071,7 @@
     "externalId": "list_AAABoKMig9vns0-qeYBLhoVI",
     "summary": "The research teams behind the best-known AI models come to Mercor for clinical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-medical-expert-german-germany-list-aaabotkavbsh8ojki-lnnamz",
@@ -9157,7 +9158,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mexican-spanish-linguistic-expert-list-aaabodvbtumb5opndqxn8jhi",
@@ -9177,7 +9178,7 @@
     "externalId": "list_AAABodVBTumB5opNDqxN8JHI",
     "summary": "Mercor is seeking experienced Mexican Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Mexican Spanish-language tasks and…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ml-challenge-task-auditor-list-aaaboepzleigumznqxnfkjzb",
@@ -9196,7 +9197,7 @@
     "externalId": "list_AAABoEpzlEigUmznqXNFkJZb",
     "summary": "Evaluate the quality, correctness, and methodological rigor of applied machine-learning tasks used to train and evaluate a frontier AI lab's models. You'll assess experiment design, model-selection reasoning, and evaluation methodology — and provide clear, rubric-based…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-mlops-engineer-llm-performance-kernels-profiling-serving-list-a",
@@ -9215,7 +9216,7 @@
     "externalId": "list_AAABoWUVTB6QpgVqdb5Nkon1",
     "summary": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-molecular-biology-experts-uk-list-aaabojcceigg7w6u-fngqj6x",
@@ -9276,7 +9277,7 @@
     "externalId": "list_AAABoGQSiGKJ1DuAHBZB_p5e",
     "summary": "Mercor is hiring practicing Inpatient Hospitalists (MD) on behalf of a healthcare AI partner building advanced clinical documentation and decision-support tools. In this role you will apply your active inpatient expertise to review, annotate, and evaluate hospital clinical…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-multilingual-primary-care-physician-md-clinical-documentation-a",
@@ -9295,7 +9296,7 @@
     "externalId": "list_AAABoGQSNXPZAh8oJJFO-Z0n",
     "summary": "Mercor is hiring practicing Primary Care Physicians (MD) on behalf of a healthcare AI partner building advanced clinical documentation and decision-support tools. In this role you will apply your day-to-day outpatient expertise to review, annotate, and evaluate clinical…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-lyrics-expert-german-list-aaabn-cc6csignx7sqni7arz",
@@ -9427,7 +9428,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-english-us-uk-australia-list-aaabnzhs-8",
@@ -9490,7 +9491,7 @@
     "externalId": "list_AAABnzhzhwBMMeMWHlhEWL_h",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-greek-list-aaabnzhzlfwg8j7snazh7ahl",
@@ -9511,7 +9512,7 @@
     "externalId": "list_AAABnzhzlfwG8j7sNAZH7aHL",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-hebrew-list-aaabn-iwofn3fqa7eqdbn5ax",
@@ -9532,7 +9533,7 @@
     "externalId": "list_AAABn_IWofn3FqA7EqdBN5aX",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-hindi-list-aaabnzhzptrykcmgaj9nta1s",
@@ -9575,7 +9576,7 @@
     "externalId": "list_AAABn_IWXYBfWQtjGGNLXYj6",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-japanese-list-aaabnzhz5icy8ol4dpjdpbjp",
@@ -9640,7 +9641,7 @@
     "externalId": "list_AAABnzh0PbOj2G-v5ntPep8T",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-norwegian-list-aaabn-iwbn3bc6hnj7bakjz6",
@@ -9661,7 +9662,7 @@
     "externalId": "list_AAABn_IWbN3bC6hnJ7BAKJz6",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-punjabi-list-aaabnzh0kp34kyozbf1jtaia",
@@ -9680,7 +9681,7 @@
     "externalId": "list_AAABnzh0kP34kYOzBF1JTaIA",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-russian-list-aaabnzh0liymackxze9d4jo7",
@@ -9701,7 +9702,7 @@
     "externalId": "list_AAABnzh0lIymACKXZE9D4Jo7",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-slovak-list-aaabn-is83ks6rwpbcphdzch",
@@ -9722,7 +9723,7 @@
     "externalId": "list_AAABn_IS83KS6RwpBCpHdZCh",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-telugu-list-aaabnzh09ol93kfqjfplcpjs",
@@ -9741,7 +9742,7 @@
     "externalId": "list_AAABnzh09OL93kfqjFpLCpJs",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-thai-list-aaabnzh0-n7dhircl7zcpq5r",
@@ -9762,7 +9763,7 @@
     "externalId": "list_AAABnzh0-n7dhIrcl7ZCpq5r",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-urdu-list-aaabn-iwhgbagergaotdhalt",
@@ -9781,7 +9782,7 @@
     "externalId": "list_AAABn_IWhgBaGeRGAOtDhalT",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-music-production-expert-vietnamese-list-aaabnzh1frucyxclzirgx4n",
@@ -9802,7 +9803,7 @@
     "externalId": "list_AAABnzh1FRUcYXCLZIRGx4nJ",
     "summary": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab.",
     "firstSeen": "2026-11-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-nephrologist-list-aaabowtwolhv8-xchd5m26cl",
@@ -9821,7 +9822,7 @@
     "externalId": "list_AAABoWtwOLHV8_xCHd5M26Cl",
     "summary": "Mercor is hiring board-certified nephrologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-network-engineer-talent-network-data-for-autonomous-systems-lis",
@@ -9840,7 +9841,7 @@
     "externalId": "list_AAABoAA0CcB7r_IpsvtENYja",
     "summary": "Are you a hands-on enterprise network engineer — Level 3 / Tier 3 support, network operations, or the person your team escalates to — interested in data science and autonomous infrastructure? Our client is building vertically integrated networking systems and using the data…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-network-engineering-simulation-expert-hephaestus-list-aaaboakzf",
@@ -9859,7 +9860,7 @@
     "externalId": "list_AAABoakzFm6BA01wrmhBP7gf",
     "summary": "Mercor is seeking experienced network engineers to build and validate technical tasks for AI systems working with enterprise, data-center, and service-provider networks.",
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-neurologist-list-aaabowtwvok0klhc4h5gp7qo",
@@ -9878,7 +9879,7 @@
     "externalId": "list_AAABoWtwVok0kLHc4h5Gp7qo",
     "summary": "Mercor is hiring board-certified neurologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-neurologists-md-do-paid-research-study-migraine-list-aaaboo9-zn",
@@ -9902,7 +9903,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-news-analysts-reporters-and-journalists-list-aaabocwepxsd7eviyb",
@@ -10061,7 +10062,7 @@
     "externalId": "list_AAABnJzRBPRcrO1IUeVFkqqc",
     "summary": "Join our Nursing Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-obstetrician-gynecologist-ob-gyn-list-aaabowtwyksinwja94fdha0o",
@@ -10080,7 +10081,7 @@
     "externalId": "list_AAABoWtwYkSInwja94FDHa0o",
     "summary": "Mercor is hiring board-certified obstetrician-gynecologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-office-productivity-software-expert-list-aaabokoqsxxsv5vkwxhgnl",
@@ -10099,7 +10100,7 @@
     "externalId": "list_AAABoKOQsxXSV5vKwxhGnL5Z",
     "summary": "The research teams behind the best-known AI models come to Mercor for judgment about how office and productivity software is actually used. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-oncologist-list-aaaborniscyu-p0zjjbmar5l",
@@ -10170,7 +10171,7 @@
       ]
     },
     "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ophthalmologist-list-aaabowtwcj4e5cdojq1kxl5m",
@@ -10189,7 +10190,7 @@
     "externalId": "list_AAABoWtwCj4E5CDOjQ1KxL5m",
     "summary": "Mercor is hiring board-certified ophthalmologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-30",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-orthodontist-list-aaaboycbziiqq45xrmtoh7-4",
@@ -10228,7 +10229,7 @@
     "externalId": "list_AAABoWtwmMBbLnGYAPFKNLAQ",
     "summary": "Mercor is hiring board-certified orthopedic surgeons (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-otolaryngologist-ent-list-aaabowtv9pi6mjtsv35elp-e",
@@ -10247,7 +10248,26 @@
     "externalId": "list_AAABoWtv9pI6MJtsV35ELp_E",
     "summary": "Mercor is hiring board-certified otolaryngologists (ENT) (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-paid-opinion-survey-participant-2-short-surveys-list-aaabog7vaa",
+    "platform": "mercor",
+    "title": "Paid Opinion Survey Participant (2 Short Surveys)",
+    "categories": [
+      "general"
+    ],
+    "english": "unknown",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 50,
+    "payMax": 60,
+    "posted": "2026-11-24",
+    "url": "https://work.mercor.com/jobs/list_AAABog7vaaMr5nj4ulxCxpG4",
+    "externalId": "list_AAABog7vaaMr5nj4ulxCxpG4",
+    "summary": "We're looking for people across the US to join a short, paid research study. You'll complete two short online surveys, one each week, about your everyday views, habits and how you make choices as a shopper. Each survey takes about 20 to 30 minutes, there are no right or wrong…",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-palliative-care-physician-canada-list-aaabogy6tn30omdl54pbvzgn",
@@ -10266,7 +10286,7 @@
     "externalId": "list_AAABogy6TN30omdL54pBvZGn",
     "summary": "Are you a physician working in palliative care? Our client is building clinical care pathways for patients with serious illness, and needs experienced palliative care physicians to review them.",
     "firstSeen": "2026-11-24",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-partner-general-counsel-legal-domain-expert-list-aaabn-cm-oin38",
@@ -10290,7 +10310,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-payer-market-access-expert-gross-to-net-formulary-strategy-list",
@@ -10309,7 +10329,7 @@
     "externalId": "list_AAABn9FrqwkKOQjZxPtAX7FV",
     "summary": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a payer / market access expert for a paid pilot, with the potential to…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pediatric-emergency-urgent-care-physician-md-list-aaabotw2x50ma",
@@ -10328,7 +10348,7 @@
     "externalId": "list_AAABoTw2X50MatW_D09FdpXK",
     "summary": "Mercor is hiring physicians (MD) with pediatric emergency department or pediatric urgent care experience on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your pediatric acute-care expertise to review, annotate,…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pediatric-inpatient-nurses-rn-list-aaabof6jhh-gemicbt9pqor0",
@@ -10347,7 +10367,7 @@
     "externalId": "list_AAABoF6Jhh_gEMICBt9PQoR0",
     "summary": "We're hiring experienced Pediatric Inpatient Nurses (RNs) to help train and evaluate AI systems used in clinical and healthcare settings. This role is ideal for nurses who want to apply their frontline pediatric bedside experience to improve the accuracy, safety, and…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pediatrician-md-list-aaabot1vgd94tffdinnpm6-h",
@@ -10366,7 +10386,7 @@
     "externalId": "list_AAABoT1vGd94TFFDINNPm6-H",
     "summary": "Mercor is hiring pediatricians (MD) on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your pediatric clinical expertise to review, annotate, and evaluate clinical documentation, directly shaping the accuracy,…",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-performance-directing-supervisor-list-aaabowtgosl7w8gzcunk9yse",
@@ -10390,7 +10410,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pharma-commercial-forecasting-expert-launch-curves-list-aaabn9f",
@@ -10409,7 +10429,7 @@
     "externalId": "list_AAABn9Fr4y9bpcGSiR5KqbF3",
     "summary": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a pharma commercial / forecasting expert for a paid pilot, with the…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pharmaceutical-r-d-domain-expert-list-aaabobt8iakrn7-29jfcoybm",
@@ -10434,7 +10454,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-pharmacist-pharmacy-technician-medication-pronunciation-reviewe",
@@ -10478,7 +10498,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-physical-sciences-engineering-professional-list-aaaboy6ksh5gy3p",
@@ -10517,7 +10537,7 @@
     "externalId": "list_AAABnJ0M26ceiz86vu1MT759",
     "summary": "Join our Physical Scientist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-physician-talent-network-list-aaabnjzk0z1cnefoyeraab9m",
@@ -10536,7 +10556,7 @@
     "externalId": "list_AAABnJzK0z1CNefOyERAAb9m",
     "summary": "Join our Physician Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-physicist-talent-network-list-aaabnjzhseoldei-qvblq6ps",
@@ -10555,7 +10575,7 @@
     "externalId": "list_AAABnJzhSEoldeI_qvBLq6pS",
     "summary": "Join our Physicist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-physics-domain-expert-list-aaaboyr3sg3-4yi5ct9bgp3k",
@@ -10580,7 +10600,7 @@
       ]
     },
     "firstSeen": "2026-10-31",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-physics-expert-list-aaabokmjqumnbxdyam1enl82",
@@ -10600,7 +10620,7 @@
     "externalId": "list_AAABoKMjqUMNbxdYam1EnL82",
     "summary": "The research teams behind the best-known AI models come to Mercor for physics judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-polish-linguistic-expert-list-aaabodvcjw1hrghyherixzxs",
@@ -10620,7 +10640,7 @@
     "externalId": "list_AAABodVCjW1hRgHyHERIxZxS",
     "summary": "Mercor is seeking experienced Polish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Polish-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-portuguese-linguistic-experts-list-aaaboxlxydftyp-n8frogpw8",
@@ -10640,7 +10660,7 @@
     "externalId": "list_AAABoXlxYDftYp_n8FROgpw8",
     "summary": "Mercor is seeking experienced Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Portuguese-language tasks and on…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-practising-lawyer-korea-spain-germany-france-japan-ai-legal-wri",
@@ -10659,7 +10679,7 @@
     "externalId": "list_AAABofHGD07UlwjpJg5AyIFY",
     "summary": "We're looking for practising lawyers who regularly use AI tools in their legal work to take part in a short paid survey for a legal AI company.",
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-preclinical-r-d-expert-adc-bispecifics-list-aaabn-cbcuqm7wbsr-b",
@@ -10678,7 +10698,7 @@
     "externalId": "list_AAABn_cBCuQM7WBSR_BNoqrS",
     "summary": "Mercor is partnering with a venture-backed AI lab building frontier AI platforms and physics-based foundation models for chemistry, materials science, and drug discovery. They're extending their platform into new areas of pharmaceutical development and are looking for…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-preclinical-r-d-expert-in-house-drug-development-list-aaaboacnn",
@@ -10697,7 +10717,7 @@
     "externalId": "list_AAABoAcnNYJrBQ1cXOBEq52k",
     "summary": "Mercor is partnering with a venture-backed AI lab building frontier AI platforms and physics-based foundation models for chemistry, materials science, and drug discovery. They're extending their platform into new areas of pharmaceutical development and are looking for…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-primary-care-physician-md-clinical-documentation-ai-evaluation-",
@@ -10716,7 +10736,7 @@
     "externalId": "list_AAABoSaogGy2NBr71LpJgrqO",
     "summary": "Mercor is hiring practicing Primary Care Physicians (MD) on behalf of a healthcare AI partner building advanced clinical documentation and decision-support tools. In this role you will apply your day-to-day primary care expertise to review, annotate, and evaluate clinical…",
     "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-private-detectives-and-investigators-list-aaaboq-csgr4id6bkodmp",
@@ -10761,7 +10781,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-private-equity-associate-consumer-leisure-france-europe-list-aa",
@@ -10850,7 +10870,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-project-management-specialists-list-aaabocv6zkl0cmut7-bexqtw",
@@ -10929,7 +10949,7 @@
     "externalId": "list_AAABoWtv330pzH8496dGyKTt",
     "summary": "Mercor is hiring board-certified psychiatrists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-public-defenders-paid-research-study-list-aaabokfxrfgcckpkf81c8",
@@ -10969,7 +10989,7 @@
     "externalId": "list_AAABnbZvN90BjMOYKy1PJ6Q2",
     "summary": "Mercor is partnering with leading AI labs on Project Atlas — an initiative to build realistic enterprise environments that frontier AI agents are trained and evaluated in. We're seeking experienced public-health professionals from major federal agencies (CDC, NIH, HHS), large…",
     "firstSeen": "2026-11-27",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-quantitative-finance-expert-list-aaabn0mtuxffgj7w7ntbpa8a",
@@ -11051,7 +11071,7 @@
     "externalId": "list_AAABoEwrcU6hfpIC_pZGQ7J5",
     "summary": "Mercor is partnering with a leading technology organization to recruit experienced Radio Frequency (RF) and Electromagnetic (EM) Engineering Experts for a short-term project. Experts will apply their hands-on industry experience to analyze and solve complex problems involving…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-radiologicals-safety-for-redteaming-list-aaaboiabmyjuhhaugynne6",
@@ -11090,7 +11110,7 @@
     "externalId": "list_AAABoWtwzY78zzncm-FELrjZ",
     "summary": "Mercor is hiring board-certified radiologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-regulatory-affairs-expert-list-aaabodwhfg-byligfanmtbdj",
@@ -11114,7 +11134,7 @@
       ]
     },
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-responsible-ai-security-specialist-list-aaabocigpv2ws9lcfgtfj6u",
@@ -11138,7 +11158,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-retail-trader-list-aaabowsjeohggv1f8gdleovo",
@@ -11157,7 +11177,7 @@
     "externalId": "list_AAABoWsjEohggV1F8gdLEoVO",
     "summary": "We are building a dataset of real retail trading behavior: complete brokerage trade histories, paired with the trader's own explanation of how they trade and why they made their biggest decisions.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-rheumatologist-list-aaabowtwtauxpk49ze5by6j1",
@@ -11176,7 +11196,7 @@
     "externalId": "list_AAABoWtwTAuXPK49ZE5BY6j1",
     "summary": "Mercor is hiring board-certified rheumatologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-romanian-linguistic-expert-list-aaabodu8zhulorr86klfd5ib",
@@ -11196,7 +11216,103 @@
     "externalId": "list_AAABodU8ZHuloRr86KlFd5ib",
     "summary": "Mercor is seeking experienced Romanian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Romanian-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-rubrics-expert-financial-services-list-aaaboh-4fp6k-s6bz1ljtrc3",
+    "platform": "mercor",
+    "title": "Rubrics Expert - Financial Services",
+    "categories": [
+      "business"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 90,
+    "payMax": 120,
+    "degree": true,
+    "posted": "2026-11-28",
+    "url": "https://work.mercor.com/jobs/list_AAABoh_4fP6K-S6bZ1lJTrc3",
+    "externalId": "list_AAABoh_4fP6K-S6bZ1lJTrc3",
+    "summary": "This is a project in which experts build evaluation tasks that test how well AI models handle long-horizon professional work inside realistic simulated company environments.",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-rubrics-expert-generalist-list-aaaboh-5izk-fjrystbdupmc",
+    "platform": "mercor",
+    "title": "Rubrics Expert - Generalist",
+    "categories": [
+      "general"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 85,
+    "payMax": 110,
+    "posted": "2026-11-28",
+    "url": "https://work.mercor.com/jobs/list_AAABoh_5IzK-FjrYsTBDUpmc",
+    "externalId": "list_AAABoh_5IzK-FjrYsTBDUpmc",
+    "summary": "This is a project in which experts build evaluation tasks that test how well AI models handle everyday professional work: finding and reconciling information scattered across chats, email threads, meeting notes, trackers and files, and turning it into an answer or a finished…",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-rubrics-expert-healthcare-list-aaaboh-4wjdd4dn2epfcory",
+    "platform": "mercor",
+    "title": "Rubrics Expert - Healthcare",
+    "categories": [
+      "medicine"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 115,
+    "payMax": 180,
+    "posted": "2026-11-28",
+    "url": "https://work.mercor.com/jobs/list_AAABoh_4WjDD4dn2ePFCorY-",
+    "externalId": "list_AAABoh_4WjDD4dn2ePFCorY-",
+    "summary": "This is a project in which experts build evaluation tasks that test how well AI models handle long-horizon professional work inside realistic simulated company environments.",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-rubrics-expert-legal-list-aaaboh-4zcxsvbrfjsfomktv",
+    "platform": "mercor",
+    "title": "Rubrics Expert - Legal",
+    "categories": [
+      "law"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 100,
+    "payMax": 140,
+    "posted": "2026-11-28",
+    "url": "https://work.mercor.com/jobs/list_AAABoh_4zcXSVbrFJSFOmKTv",
+    "externalId": "list_AAABoh_4zcXSVbrFJSFOmKTv",
+    "summary": "This is a project in which experts build evaluation tasks that test how well AI models handle long-horizon professional work inside realistic simulated company environments.",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
+  },
+  {
+    "id": "mercor-rubrics-expert-technology-software-list-aaaboh-5qv09iivlh2lazya",
+    "platform": "mercor",
+    "title": "Rubrics Expert - Technology & Software",
+    "categories": [
+      "tech"
+    ],
+    "english": "fluent",
+    "status": "open",
+    "source": "mercor-listings",
+    "payMin": 80,
+    "payMax": 120,
+    "posted": "2026-11-28",
+    "url": "https://work.mercor.com/jobs/list_AAABoh_5Qv09iivLH2lAzYaF",
+    "externalId": "list_AAABoh_5Qv09iivLH2lAzYaF",
+    "summary": "This is a project in which experts build evaluation tasks that test how well AI models handle long-horizon professional work inside realistic simulated company environments.",
+    "firstSeen": "2026-11-28",
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-russian-linguistic-expert-list-aaabodu-t4hvp4a2yjted511",
@@ -11216,7 +11332,7 @@
     "externalId": "list_AAABodU-t4hVp4a2yJtED511",
     "summary": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Russian-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-russian-linguistic-experts-list-aaaboxlxmgvod2040vvgaycz",
@@ -11236,7 +11352,7 @@
     "externalId": "list_AAABoXlxmGVod2040vVGaYCZ",
     "summary": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Russian-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-safeguards-analyst-iaea-or-euratom-inspector-list-aaabokhaeks87",
@@ -11275,7 +11391,7 @@
     "externalId": "list_AAABn4KNStkBMy2K25lN2ati",
     "summary": "**Role Overview**\n- Mercor is seeking senior sales and marketing professionals to build evaluation tasks for AI systems operating in Fortune 500 go-to-market contexts.\n- The workflows are calibrated to the deal sizes, stakeholder complexity, and brand stakes of Fortune 500 and la",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-sales-representatives-wholesale-and-manufacturing-except-techni",
@@ -11340,7 +11456,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-search-generalist-list-aaaboxq9t0y0eax-mqroq69t",
@@ -11404,7 +11520,7 @@
       ]
     },
     "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-character-animator-list-aaaboux0fsrpqlbzr-lpg4xu",
@@ -11428,7 +11544,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-counsel-legal-domain-expert-list-aaabn-cmfyk8fyxpzztnu7d",
@@ -11452,7 +11568,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-data-scientist-and-data-engineering-experts-list-aaabox3",
@@ -11517,7 +11633,7 @@
       ]
     },
     "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-motion-designer-creative-technologist-ai-evaluation-list",
@@ -11542,7 +11658,7 @@
       ]
     },
     "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-product-designer-ui-ux-list-aaabonh6pnekjyr-ignbcqwr",
@@ -11611,7 +11727,7 @@
       ]
     },
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-senior-software-engineering-experts-list-aaabox4ckfypzpueoidlmb",
@@ -11651,7 +11767,7 @@
     "externalId": "list_AAABodVCsxPi5PkD6epA9KrD",
     "summary": "Mercor is seeking experienced Simplified Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Simplified Chinese-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-soc-investigation-specialist-talent-network-list-aaabm9edxc-x1o",
@@ -11670,7 +11786,7 @@
     "externalId": "list_AAABm9Edxc-X1o57aoNE9Ylz",
     "summary": "Mercor is hiring SOC Investigation Specialist on behalf of high-growth technology and enterprise partners building next-generation SOC automation and AI-driven investigation systems. This role is ideal for experienced SOC analysts who can apply real-world investigative…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-firmware-engineering-experts-list-aaabon3xeiwdzqppxfdg",
@@ -11689,7 +11805,7 @@
     "externalId": "list_AAABoN3XEiwdzQPPxfdGkJ7M",
     "summary": "Mercor is seeking experienced Software and Firmware Engineers to support an advanced engineering and AI research initiative with a leading technology organization. We are looking for deeply hands-on engineers who have designed, implemented, integrated, tested, debugged, or…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-developers-must-own-macbook-list-aaabovbl9qiee5dou-hga",
@@ -11729,7 +11845,7 @@
     "externalId": "list_AAABoWa5lPEq7jlqhxZNLqEJ",
     "summary": "Mercor is seeking experienced software engineers at companies that serve retail investors for a short, paid expert interview on behalf of a leading AI company building financial intelligence products. In a single 45–60 minute conversation, you will share how engineering teams…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-engineer-agentic-search-systems-list-aaabn7sbkwvbevheo",
@@ -11748,7 +11864,7 @@
     "externalId": "list_AAABn7sbKWVBevHeOepIpIpu",
     "summary": "We're looking for engineers who have shipped production search systems (especially agentic ones now that we're in the era of LLMs and agents) and are thinking hard about the requirements and optimizations of those systems.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-engineer-ai-native-platform-integrations-list-aaabnjxz",
@@ -11767,7 +11883,7 @@
     "externalId": "list_AAABnJxZFVfIEAN0_ZNOCrGk",
     "summary": "This is an open application for future contract opportunities that match your background and interests.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-engineer-foundational-list-aaabocicueuljnt7jwjblzpv",
@@ -11791,7 +11907,7 @@
       ]
     },
     "firstSeen": "2026-11-10",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-software-engineering-expert-list-aaabokop6g9zuju9ldnbcqs7",
@@ -11810,7 +11926,7 @@
     "externalId": "list_AAABoKOP6g9ZUjU9LdNBCqS7",
     "summary": "The research teams behind the best-known AI models come to Mercor for software engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against.",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-source-security-specialist-list-aaabokhzlukvtp7gqdnk4phe",
@@ -11850,7 +11966,7 @@
     "externalId": "list_AAABodVBJrvZZX-PNM9FQJC_",
     "summary": "Mercor is seeking experienced Spanish (Argentina) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Argentine (Rioplatense)…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-chile-linguistic-expert-list-aaabodvbmxevex28yu9npbnd",
@@ -11870,7 +11986,7 @@
     "externalId": "list_AAABodVBMXEveX28Yu9NPbND",
     "summary": "Mercor is seeking experienced Spanish (Chile) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Chilean Spanish-language tasks and…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-colombia-linguistic-expert-list-aaabodvbo0uray4ol-5nkkp",
@@ -11890,7 +12006,7 @@
     "externalId": "list_AAABodVBO0UraY4oL-5NKKpH",
     "summary": "Mercor is seeking experienced Spanish (Colombia) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Colombian Spanish-language tasks…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-peru-linguistic-expert-list-aaabodvbwftxlw3hzllbskxd",
@@ -11910,7 +12026,7 @@
     "externalId": "list_AAABodVBWftxLW3HzllBSKXd",
     "summary": "Mercor is seeking experienced Spanish (Peru) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Peruvian Spanish-language tasks and…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-spain-linguistic-expert-list-aaaboyia-jerhwae4sbexj8r",
@@ -11930,7 +12046,7 @@
     "externalId": "list_AAABoYIA_JerHWae4sBExJ8r",
     "summary": "Mercor is seeking experienced Spanish (Spain) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Peninsular Spanish-language tasks…",
     "firstSeen": "2026-10-28",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-united-states-linguistic-expert-list-aaabodvczoukonedi7",
@@ -11950,7 +12066,7 @@
     "externalId": "list_AAABodVCZOuKONEDI7JH2aNY",
     "summary": "Mercor is seeking experienced Spanish (United States) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in U.S. Spanish-language tasks…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-venezuela-linguistic-expert-list-aaabodvcb2vrsysqqknikl",
@@ -11970,7 +12086,7 @@
     "externalId": "list_AAABodVCb2VrsySQqkNIKLpW",
     "summary": "Mercor is seeking experienced Spanish (Venezuela) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Venezuelan Spanish-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-linguistic-expert-list-aaabodvcln0c9qn2kkvdmoar",
@@ -11990,7 +12106,7 @@
     "externalId": "list_AAABodVCln0c9qn2KKVDmoAr",
     "summary": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Spanish-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-linguistic-experts-list-aaaboxlxq1-u0adhynrkwpj2",
@@ -12010,7 +12126,7 @@
     "externalId": "list_AAABoXlxQ1_U0AdHynRKwpJ2",
     "summary": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Spanish-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-spanish-tutors-list-aaaboeke3fx5nn65lndaloi6",
@@ -12020,7 +12136,7 @@
       "language"
     ],
     "english": "fluent",
-    "status": "open",
+    "status": "closed",
     "source": "mercor-listings",
     "payMin": 60,
     "payMax": 65,
@@ -12030,7 +12146,8 @@
     "externalId": "list_AAABoEkE3Fx5nN65LndAloi6",
     "summary": "Mercor is partnering with a leading language-learning platform to recruit experienced Spanish tutors for a short-term project involving recorded, one-on-one tutoring sessions. Tutors will conduct genuine Spanish lessons with native English-speaking learners at different…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-27",
+    "closedAt": "2026-11-28"
   },
   {
     "id": "mercor-specialty-materials-chemist-pyrotechnics-or-propulsion-list-aaa",
@@ -12074,7 +12191,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-statistical-physics-and-thermodynamics-physicist-phd-list-aaabo",
@@ -12225,7 +12342,7 @@
     "externalId": "list_AAABoGvWRUT2estOlP9J4o1I",
     "summary": "Mercor is partnering with a leading AI research organisation to engage experienced professionals in survey research, market research, consumer insights, and behavioural science for a project focused on evaluating and improving sophisticated survey-based research. We are…",
     "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-swahili-linguistic-expert-list-aaabodvehaaajmbh4ijct7me",
@@ -12244,7 +12361,7 @@
     "externalId": "list_AAABodVEHAaAjmbH4iJCT7ME",
     "summary": "Mercor is seeking experienced Swahili Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Swahili-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-swe-bench-task-auditor-list-aaaboepzuf806dv0eazav5rw",
@@ -12263,7 +12380,7 @@
     "externalId": "list_AAABoEpzuF806Dv0eAZAV5rw",
     "summary": "Evaluate the quality, correctness, and reproducibility of software-engineering benchmark tasks used to train and evaluate a frontier AI lab's models. You'll assess repository-level tasks, reference patches, test harnesses, and grading integrity — and provide clear,…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-synthetic-process-chemist-list-aaabokhdhdcst78ssohls7pk",
@@ -12302,7 +12419,7 @@
     "externalId": "list_AAABoN3f7l-LB1Be6AdMFJqm",
     "summary": "Mercor is seeking experienced Systems & Integration Engineers to support an advanced engineering and AI research initiative with a leading technology organization. We are looking for deeply hands-on engineers who have integrated, tested, validated, debugged, qualified, or…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-telugu-linguistic-experts-list-aaaboxlycrggl4k-oznmvars",
@@ -12321,7 +12438,7 @@
     "externalId": "list_AAABoXlycrggl4K-OZNMvars",
     "summary": "Mercor is seeking experienced Telugu Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Telugu-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-thai-linguistic-expert-list-aaabodvd-1rtf7wdqgzf0524",
@@ -12341,7 +12458,7 @@
     "externalId": "list_AAABodVD_1Rtf7wdQGZF0524",
     "summary": "Mercor is seeking experienced Thai Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Thai-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-traditional-chinese-linguistic-expert-list-aaabodvdxv3haxmb00bk",
@@ -12361,7 +12478,7 @@
     "externalId": "list_AAABodVDxV3haXmB00BKN57Y",
     "summary": "Mercor is seeking experienced Traditional Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Traditional Chinese-language…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-trainium-nki-kernel-expert-list-aaabodrl07cqmjvbgadldiz6",
@@ -12381,7 +12498,7 @@
     "externalId": "list_AAABoDrL07CqmjVBGadLDIZ6",
     "summary": "Evaluate the quality, correctness, and hardware-appropriateness of Neuron Kernel Interface (NKI) development tasks used to train and evaluate a frontier AI lab's models. You'll assess CUDA→NKI migration fidelity, Trainium-specific performance-optimization quality, and…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-turkish-linguistic-expert-list-aaabodu-8ke1nywj4kxmz5k3",
@@ -12401,7 +12518,7 @@
     "externalId": "list_AAABodU-8Ke1nyWj4KxMz5K3",
     "summary": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Turkish-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-turkish-linguistic-experts-list-aaaboxlyk9pwfcexhubhmy1g",
@@ -12421,7 +12538,7 @@
     "externalId": "list_AAABoXlyK9PwfCExhuBHMY1G",
     "summary": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Turkish-language tasks and on curating…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-ui-ux-designers-must-own-macbook-list-aaabovbmivup8kr6fy9h6b0i",
@@ -12462,7 +12579,7 @@
     "externalId": "list_AAABodU_Be96xZEg1PVFm7KS",
     "summary": "Mercor is seeking experienced Ukrainian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Ukrainian-language tasks and on curating…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-urologists-medical-oncologists-prostate-cancer-paid-research-st",
@@ -12486,7 +12603,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-us-contract-attorney-federal-litigation-list-aaabowohfr1bofmq7l",
@@ -12510,7 +12627,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-us-contract-attorney-in-house-counsel-list-aaabowohuwadfzd8pr9d",
@@ -12529,7 +12646,7 @@
     "externalId": "list_AAABoWoHuWaDFZD8pR9DzbZ7",
     "summary": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US In-House Counsel — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-us-contract-attorney-litigation-list-aaabowozmuz-sluqjntckjsp",
@@ -12548,7 +12665,7 @@
     "externalId": "list_AAABoWoZmUZ_SLUqJNtCkJsp",
     "summary": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US Litigation attorneys — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-us-contract-attorney-transactional-list-aaabowohm-lhpcwq05mdzxj",
@@ -12567,7 +12684,7 @@
     "externalId": "list_AAABoWoHm--lhpCWq05MdZXj",
     "summary": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US Transactional attorneys — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-us-patent-attorney-prosecution-litigation-list-aaabozqfi1-fwyfl",
@@ -12586,7 +12703,7 @@
     "externalId": "list_AAABoZQFI1_FwyFlEzJGgZW-",
     "summary": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US patent attorneys with prosecution and/or litigation experience for a focused evaluation project. You'll review model-generated work product on patent…",
     "firstSeen": "2026-11-01",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-vfx-compositing-supervisor-list-aaabowtgsjzkv8di89dej5z3",
@@ -12610,7 +12727,7 @@
       ]
     },
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-video-caption-auditor-expert-list-aaabocmoeg-yavv5u-fezp3f",
@@ -12650,7 +12767,7 @@
     "externalId": "list_AAABodU-1biYNoQyWeFElIoT",
     "summary": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Vietnamese-language tasks and on…",
     "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-vietnamese-linguistic-experts-list-aaaboxlzelsoghl6d6nmkrr1",
@@ -12670,7 +12787,7 @@
     "externalId": "list_AAABoXlzElsOghL6D6NMkrR1",
     "summary": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Vietnamese-language tasks and on…",
     "firstSeen": "2026-10-26",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-voice-actor-cx-agent-voice-cloning-northern-uk-list-aaabnorpkue",
@@ -12778,7 +12895,7 @@
     "externalId": "list_AAABoe5-EDcz8NJf_69EcIgl",
     "summary": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking native or native-level Dutch speakers with a standard, neutral, accent-free Dutch delivery…",
     "firstSeen": "2026-11-21",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-voice-actor-cx-agent-voice-cloning-german-list-aaabnosoas3oxw-3",
@@ -12819,7 +12936,7 @@
     "externalId": "list_AAABoNLsLfvO46zBcIpE4ZlF",
     "summary": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking South Africa-based native English speakers with authentic South African accents to…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-voice-actor-cx-agent-voice-cloning-southern-usa-list-aaabnxiy9-",
@@ -12990,7 +13107,7 @@
     "externalId": "list_AAABn9OLr3-vOTm_VcxHXrxt",
     "summary": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking UK-based native English speakers with a neutral, standard UK English accent to contribute…",
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "mercor-voice-actor-cx-agent-voice-cloning-usa-list-aaabnqw10knpyjduo8l",
@@ -26591,7 +26708,7 @@
     "externalId": "5270906007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-applied-math-temporary-4925878007",
@@ -26612,7 +26729,7 @@
     "externalId": "4925878007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-30",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-biology-temporary-5298891007",
@@ -26633,7 +26750,7 @@
     "externalId": "5298891007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-chemistry-temporary-5298892007",
@@ -26654,7 +26771,7 @@
     "externalId": "5298892007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-chinese-temporary-5090180007",
@@ -26675,7 +26792,7 @@
     "externalId": "5090180007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-croatian-temporary-5207340007",
@@ -26717,7 +26834,7 @@
     "externalId": "5227940007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-estonian-temporary-5270902007",
@@ -26738,7 +26855,7 @@
     "externalId": "5270902007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-finnish-temporary-5090199007",
@@ -26803,7 +26920,7 @@
     "externalId": "5227951007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-icelandic-temporary-5270904007",
@@ -26823,7 +26940,7 @@
     "externalId": "5270904007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-irish-temporary-5292792007",
@@ -26843,7 +26960,7 @@
     "externalId": "5292792007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-latvian-temporary-5270903007",
@@ -26864,7 +26981,7 @@
     "externalId": "5270903007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-legal-compliance-temporary-4931315007",
@@ -26884,7 +27001,7 @@
     "externalId": "4931315007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-28",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-maltese-temporary-5292793007",
@@ -26904,7 +27021,7 @@
     "externalId": "5292793007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-12",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-materials-science-temporary-4925823007",
@@ -26925,7 +27042,7 @@
     "externalId": "4925823007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-30",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-math-temporary-4925859007",
@@ -26946,7 +27063,7 @@
     "externalId": "4925859007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-28",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-medicine-temporary-5298893007",
@@ -26967,7 +27084,7 @@
     "externalId": "5298893007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-oromo-temporary-5270907007",
@@ -26987,7 +27104,7 @@
     "externalId": "5270907007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-29",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-physics-temporary-4925832007",
@@ -27008,7 +27125,7 @@
     "externalId": "4925832007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-28",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-portuguese-temporary-5090221007",
@@ -27051,7 +27168,7 @@
     "externalId": "5090264007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-11-11",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-uzbek-temporary-5270905007",
@@ -27156,7 +27273,7 @@
     "externalId": "5017529007",
     "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life…",
     "firstSeen": "2026-10-28",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   },
   {
     "id": "xai-ai-tutor-yoruba-temporary-5207581007",
@@ -27199,6 +27316,6 @@
       ]
     },
     "firstSeen": "2026-11-05",
-    "lastSeen": "2026-11-27"
+    "lastSeen": "2026-11-28"
   }
 ]
